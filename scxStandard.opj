@@ -1,0 +1,284 @@
+(ExpressProject "oem_hub"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/30/25]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "C:\Zestek\oem hub\pcb\oem hub - base - P6\mazda rx8\mazda rx8-pspicefiles\oem_hub.olb"
+        (DisplayName
+           "C:\Zestek\oem hub\pcb\oem hub - base - P6\mazda rx8\mazda rx8-pspicefiles\oem_hub.olb")
+        (Type "Schematic Library"))
+      (File "d:\packagelibrary\orcadcaptureolb\orcadcaptureolb.olb"
+        (Type "Schematic Library"))
+      (File ".\library1.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\administrator\desktop\ul_vnld5160-e\orcadcaptureolb\orcadcaptureolb.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\administrator\desktop\ul_stm32g474cct6\orcadcaptureolb\orcadcaptureolb.olb"
+        (Type "Schematic Library"))
+      (File "c:\users\admini~1\appdata\local\temp\library1.olb"
+        (Type "Schematic Library")))
+    (Allegro Netlist Directory "C:\Zestek\oem hub\pcb\oem hub - base")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    (Create Allegro Netlist "TRUE")
+    (View Allegro Netlist Files "FALSE")
+    (Allegro Netlist Create DCF File "FALSE")
+    (Update Allegro Board "FALSE")
+    (Allegro Netlist Output Board File ".\allegro\oem_hub.brd")
+    (Allegro Netlist Remove Etch "FALSE")
+    (Allegro Netlist Place Changed Component "ALWAYS_REPLACE")
+    (Allegro Netlist Open Board in Allegro "ALLEGRO")
+    (Allegro Setup Backup Versions "3")
+    (Allegro Setup Ignore Constraints "FALSE")
+    (Allegro Setup Part Type Length "255")
+    (Allegro Netlist Combine Property String "PCB Footprint")
+    (Allegro Netlist Ignore Fixed Property "FALSE")
+    (Allegro Netlist User Defined Property "FALSE")
+    (BOM_Scope "0")
+    (BOM_Mode "0")
+    (BOM_Report_File "C:\CenturyPlan\SCX\Bom\SCXBom.BOM")
+    (BOM_Merge_Include "FALSE")
+    (BOM_Property_Combine_7.0
+       "\t\t{PCB Footprint} {Value}\t{PCB Footprint} {Value}\t{Quantity}\t{Reference}")
+    (BOM_Header
+       "\t\tFootprint Comment\tFootprint Comment\tQuantity\tDesignator")
+    (BOM_Include_File "C:\ZESTEK\OEM HUB - MAIN\OEM_HUB.INC")
+    (BOM_Include_File_Combine_7.0 "{Item}\t{Quantity}\t{Reference}\t{Value}")
+    (BOM_One_Part_Per_Line "FALSE")
+    (Open_BOM_in_Excel "TRUE")
+    (BOM_View_Output "FALSE")
+    (Board_sim_option "VHDL_flow")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "..\scx")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\scx.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (File ".\scx.dsn"
+      (Type "Schematic Design")))
+  (Folder "Layout"
+    (File "..\oem hub\oem hub.brd"
+      (Type "Board File")
+      (OutputBoard "..\oem hub\oem hub.brd")
+      (NetListPath "..\oem hub")
+      (ActiveBoard "0"))
+    (File ".\oem hub.brd"
+      (Type "Board File")
+      (OutputBoard ".\oem hub.brd")
+      (NetListPath "..\oem hub - main")
+      (ActiveBoard "0"))
+    (File "..\oem hub - main\oem hub.brd"
+      (Type "Board File")
+      (OutputBoard "..\oem hub - main\oem hub.brd")
+      (NetListPath "..\oem hub - main")
+      (ActiveBoard "0"))
+    (File ".\obd.brd"
+      (Type "Board File")
+      (OutputBoard ".\obd.brd")
+      (NetListPath "..\obdpcb")
+      (ActiveBoard "0"))
+    (File "..\obdpcb\obd.brd"
+      (Type "Board File")
+      (OutputBoard "..\obdpcb\obd.brd")
+      (NetListPath "..\obdpcb")
+      (ActiveBoard "0"))
+    (File ".\scx.brd"
+      (Type "Board File")
+      (OutputBoard ".\scx.brd")
+      (NetListPath "..\scx")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\oem_hub.bom"
+      (Type "Report"))
+    (File "C:\Zestek\oem hub\pcb\oem hub - main\oem_hub.bom"
+      (Type "Report"))
+    (File ".\bom.bom"
+      (Type "Report"))
+    (File ".\brz.bom"
+      (Type "Report"))
+    (File "c:\zestek\oem hub\pcb\oem hub - base - p6\brz\brz.bom"
+      (Type "Report"))
+    (File "..\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File "..\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File "..\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File "..\bom.bom"
+      (Type "Report"))
+    (File ".\bom\scxbom.bom"
+      (Type "Report")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (Folder "Logs")
+  (PartMRUSelector
+    (7Pswitch
+      (FullPartName "7Pswitch.Normal")
+      (LibraryName "C:\USERS\ADMINI~1\APPDATA\LOCAL\TEMP\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (WAFER-HY2_1.0-2PZZ-R62_CN2
+      (FullPartName "WAFER-HY2_1.0-2PZZ-R62_CN2.Normal")
+      (LibraryName "C:\CENTURYPLAN\SCX\SCX.DSN")
+      (DeviceIndex "0"))
+    (STM32G474CCT6
+      (FullPartName "STM32G474CCT6.Normal")
+      (LibraryName
+         "C:\USERS\ADMINISTRATOR\DESKTOP\UL_STM32G474CCT6\ORCADCAPTUREOLB\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "0"))
+    (goldfinger
+      (FullPartName "goldfinger.Normal")
+      (LibraryName "C:\CENTURYPLAN\OBDPCB\LIBRARY1.OLB")
+      (DeviceIndex "0"))
+    (STM32G474CCU6
+      (FullPartName "STM32G474CCU6B.Normal")
+      (LibraryName "D:\PACKAGELIBRARY\ORCADCAPTUREOLB\ORCADCAPTUREOLB.OLB")
+      (DeviceIndex "1"))
+    (CON4
+      (FullPartName "CON4.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\PCB\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON8
+      (FullPartName "CON8.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\PCB\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON10
+      (FullPartName "CON10.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\PCB\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON20
+      (FullPartName "CON20.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (2N7002
+      (FullPartName "2N7002.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (STM32F103C8T6
+      (FullPartName "STM32F103C8T6.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB - BASE\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (8550
+      (FullPartName "8550.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB - MAIN\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (TYPE-C-USB-SMD
+      (FullPartName "TYPE-C-USB-SMD.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON7
+      (FullPartName "CON7.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON5
+      (FullPartName "CON5.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON6
+      (FullPartName "CON6.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CON1
+      (FullPartName "CON1.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CAP NP
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (R2
+      (FullPartName "R2.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (CLUTCH
+      (FullPartName "CLUTCH.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (T8014a
+      (FullPartName "T8014a.Normal")
+      (LibraryName "C:\ZESTEK\OEM HUB\OEM_HUB.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Administrator")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "C:\CenturyPlan\SCX\scx.dsn")
+      (Path "Design Resources" "C:\CenturyPlan\SCX\scx.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Select "Design Resources" "C:\CenturyPlan\SCX\scx.dsn" "SCHEMATIC1"
+         "SCX"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 915"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 28 5 2232 28 937")
+        (Scroll "0 0")
+        (Zoom "110")
+        (Occurrence "/"))
+      (Path "C:\CENTURYPLAN\SCX\SCX.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "SCX")))
+  (ISPCBBASICLICENSE "false"))
