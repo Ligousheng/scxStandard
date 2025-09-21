@@ -1,0 +1,14 @@
+Drill Customization Report
+C:/CenturyPlan/scxStandard/scxStandard.brd
+Sat Sep 20 16:07:51 2025
+
+#,,Type,Size X,Size Y,ToolSize,+ Tolerance,- Tolerance,Symbol Figure,Symbol Characters,Symbol Size X,Symbol Size Y,Plating,Non-standard Drill,Quantity
+1,,Circle Drill,11.811,,,0.000,0.000,Cross,,11.811,11.811,Plated,,17
+2,,Circle Drill,12.000,,,0.000,0.000,Square,,12.000,12.000,Plated,,166
+3,,Circle Drill,30.000,,,0.000,0.000,Hexagon X,,30.000,30.000,Plated,,136
+4,,Circle Drill,31.496,,,0.000,0.000,Hexagon Y,,31.496,31.496,Plated,,4
+5,,Circle Drill,33.465,,,0.000,0.000,Octagon,,33.465,33.465,Plated,,4
+6,,Circle Drill,47.200,,,0.000,0.000,Diamond,,47.200,47.200,Plated,,20
+7,,Circle Drill,51.200,,,0.000,0.000,Triangle,,51.200,51.200,Plated,,2
+8,,Circle Drill,20.472,,,0.000,0.000,Oblong X,,20.472,15.354,Non-Plated,,1
+9,,Oval Slot,32.283,24.409,,0.000,0.000,Oblong X,OA,32.283,24.409,Non-Plated,,1

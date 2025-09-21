@@ -1,0 +1,91 @@
+Sat Sep 20 14:38:34 2025				Page     1
+
+
+ 
+Update Symbols/Modules Logfile
+	Sat Sep 20 14:38:34 2025
+
+------ Module Refresh Messages ------
+
+SUMMARY:    Updated 0 out of 0 modules
+
+------ End Module Messages     ------
+
+
+
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : scxStandard.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sat Sep 20 14:38:35 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Sat Sep 20 14:38:35 2025				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/CenturyPlan/scxStandard/scxStandard.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'YES'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'NO'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'NO'
+Reset Pin Escapes (fanouts)            = 'NO'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  C:/packageLibrary/psmpath 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.4/share/local/pcb/padstacks 
+           d:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/packageLibrary/padpath 
+
+
+------ Symbol Refresh Messages ------
+
+'MTR3-3216-N2S1-2'  symbol refreshed successfully.
+'7DIR'  symbol refreshed successfully.
+'BUTTONANDLED'  symbol refreshed successfully.
+'MX-PB-4P-1P25-RA'  symbol refreshed successfully.
+'HY-2-2P-DIP-V'  symbol refreshed successfully.
+'LQFP-64-10X10'  symbol refreshed successfully.
+'SMD-2P2X2P1-4P'  symbol refreshed successfully.
+'MX-PB-5P-1P25-RA'  symbol refreshed successfully.
+'MX-PB-6P-1P25-RA'  symbol refreshed successfully.
+'SOD-123FL'  symbol refreshed successfully.
+'NRF-E01-ML01SP4'  symbol refreshed successfully.
+'C0603'  symbol refreshed successfully.
+'C3216-T0P85-1206'  symbol refreshed successfully.
+'SMD-4P1X4P5-2P'  symbol refreshed successfully.
+'R0603'  symbol refreshed successfully.
+'TSOT23-8'  symbol refreshed successfully.
+'SOIC-8_EP'  symbol refreshed successfully.
+'SOIC-8'  symbol refreshed successfully.
+'SMD-5032-2P'  symbol refreshed successfully.
+'SOT23-3'  symbol refreshed successfully.
+'MARK'  symbol refreshed successfully.
+'M3KONG'  symbol refreshed successfully.
+'TYPE-C-USB-SMD-16P'  symbol refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 23 out 23
+    Design updated.
+

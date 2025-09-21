@@ -1,0 +1,6494 @@
+{
+	"Gate Swap" : [],
+	"Ref Des" : [],
+	"Pin Swap" : [],
+	"Component Property" : [],
+	"Net Property" : [],
+	"Pin Property" : [],
+	"Component" : [
+		{
+			"Name" : "U20",
+			"C_PATH" : "@scx.schematic1(sch_1):ins776999@scx.\\bx-zh1_0.5-6pwt_u14.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U20"
+		},
+		{
+			"Name" : "C156",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1170033@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C156"
+		},
+		{
+			"Name" : "C157",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1175210@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C157"
+		},
+		{
+			"Name" : "R224",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1187220@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R224"
+		},
+		{
+			"Name" : "J16",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1151653@oem_hub.\\con5.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J16"
+		},
+		{
+			"Name" : "J17",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1152486@oem_hub.\\con5.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J17"
+		},
+		{
+			"Name" : "Q1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1130866@oem_hub.\\2n7002.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q1"
+		},
+		{
+			"Name" : "Q2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1131754@oem_hub.\\2n7002.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Q2"
+		},
+		{
+			"Name" : "SW2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "SW2"
+		},
+		{
+			"Name" : "SW3",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "SW3"
+		},
+		{
+			"Name" : "S1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1090821@library1.\\7pswitch.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "S1"
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J1"
+		},
+		{
+			"Name" : "LED1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED1"
+		},
+		{
+			"Name" : "LED11",
+			"C_PATH" : "@scx.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED11"
+		},
+		{
+			"Name" : "LED12",
+			"C_PATH" : "@scx.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED12"
+		},
+		{
+			"Name" : "LED13",
+			"C_PATH" : "@scx.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED13"
+		},
+		{
+			"Name" : "LED14",
+			"C_PATH" : "@scx.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED14"
+		},
+		{
+			"Name" : "LED15",
+			"C_PATH" : "@scx.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED15"
+		},
+		{
+			"Name" : "LED16",
+			"C_PATH" : "@scx.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED16"
+		},
+		{
+			"Name" : "LED17",
+			"C_PATH" : "@scx.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED17"
+		},
+		{
+			"Name" : "LED27",
+			"C_PATH" : "@scx.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED27"
+		},
+		{
+			"Name" : "LED34",
+			"C_PATH" : "@scx.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED34"
+		},
+		{
+			"Name" : "LED35",
+			"C_PATH" : "@scx.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED35"
+		},
+		{
+			"Name" : "LED36",
+			"C_PATH" : "@scx.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED36"
+		},
+		{
+			"Name" : "LED37",
+			"C_PATH" : "@scx.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED37"
+		},
+		{
+			"Name" : "LED38",
+			"C_PATH" : "@scx.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED38"
+		},
+		{
+			"Name" : "LED39",
+			"C_PATH" : "@scx.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED39"
+		},
+		{
+			"Name" : "LED40",
+			"C_PATH" : "@scx.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED40"
+		},
+		{
+			"Name" : "LED41",
+			"C_PATH" : "@scx.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "LED41"
+		},
+		{
+			"Name" : "U4",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U4"
+		},
+		{
+			"Name" : "B1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B1"
+		},
+		{
+			"Name" : "B10",
+			"C_PATH" : "@scx.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B10"
+		},
+		{
+			"Name" : "B2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B2"
+		},
+		{
+			"Name" : "B3",
+			"C_PATH" : "@scx.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B3"
+		},
+		{
+			"Name" : "B4",
+			"C_PATH" : "@scx.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B4"
+		},
+		{
+			"Name" : "B5",
+			"C_PATH" : "@scx.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B5"
+		},
+		{
+			"Name" : "B6",
+			"C_PATH" : "@scx.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B6"
+		},
+		{
+			"Name" : "B7",
+			"C_PATH" : "@scx.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B7"
+		},
+		{
+			"Name" : "B8",
+			"C_PATH" : "@scx.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B8"
+		},
+		{
+			"Name" : "B9",
+			"C_PATH" : "@scx.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "B9"
+		},
+		{
+			"Name" : "J12",
+			"C_PATH" : "@scx.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "J12"
+		},
+		{
+			"Name" : "CN1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins883208@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "CN1"
+		},
+		{
+			"Name" : "CN2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins883457@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "CN2"
+		},
+		{
+			"Name" : "D1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482655@wk2_library.\\pesd1can_diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D1"
+		},
+		{
+			"Name" : "D2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595605@wk2_library.\\pesd1can_diode.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D2"
+		},
+		{
+			"Name" : "D11",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1025720@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D11"
+		},
+		{
+			"Name" : "D10",
+			"C_PATH" : "@scx.schematic1(sch_1):ins715326@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D10"
+		},
+		{
+			"Name" : "D6",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602749@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D6"
+		},
+		{
+			"Name" : "D7",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714823@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D7"
+		},
+		{
+			"Name" : "D8",
+			"C_PATH" : "@scx.schematic1(sch_1):ins715170@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D8"
+		},
+		{
+			"Name" : "D9",
+			"C_PATH" : "@scx.schematic1(sch_1):ins715246@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "D9"
+		},
+		{
+			"Name" : "U12",
+			"C_PATH" : "@scx.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U12"
+		},
+		{
+			"Name" : "U13",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U13"
+		},
+		{
+			"Name" : "U17",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714182@can2lowside.\\vnld5160-e_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U17"
+		},
+		{
+			"Name" : "U18",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714210@can2lowside.\\vnld5160-e_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U18"
+		},
+		{
+			"Name" : "U7",
+			"C_PATH" : "@scx.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U7"
+		},
+		{
+			"Name" : "R164",
+			"C_PATH" : "@scx.schematic1(sch_1):ins745866@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R164"
+		},
+		{
+			"Name" : "R165",
+			"C_PATH" : "@scx.schematic1(sch_1):ins745850@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R165"
+		},
+		{
+			"Name" : "R166",
+			"C_PATH" : "@scx.schematic1(sch_1):ins745924@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R166"
+		},
+		{
+			"Name" : "R167",
+			"C_PATH" : "@scx.schematic1(sch_1):ins745940@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R167"
+		},
+		{
+			"Name" : "R206",
+			"C_PATH" : "@scx.schematic1(sch_1):ins764833@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R206"
+		},
+		{
+			"Name" : "R207",
+			"C_PATH" : "@scx.schematic1(sch_1):ins764849@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R207"
+		},
+		{
+			"Name" : "R208",
+			"C_PATH" : "@scx.schematic1(sch_1):ins765535@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R208"
+		},
+		{
+			"Name" : "R209",
+			"C_PATH" : "@scx.schematic1(sch_1):ins765551@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R209"
+		},
+		{
+			"Name" : "R28",
+			"C_PATH" : "@scx.schematic1(sch_1):ins684663@project_worklib.\\r_r28.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R28"
+		},
+		{
+			"Name" : "R59",
+			"C_PATH" : "@scx.schematic1(sch_1):ins782883@project_worklib.\\r_r59.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R59"
+		},
+		{
+			"Name" : "R60",
+			"C_PATH" : "@scx.schematic1(sch_1):ins783279@project_worklib.\\r_r60.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R60"
+		},
+		{
+			"Name" : "R61",
+			"C_PATH" : "@scx.schematic1(sch_1):ins782935@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R61"
+		},
+		{
+			"Name" : "R62",
+			"C_PATH" : "@scx.schematic1(sch_1):ins783331@project_worklib.\\r_r62.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R62"
+		},
+		{
+			"Name" : "R220",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1138159@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R220"
+		},
+		{
+			"Name" : "R222",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1138823@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R222"
+		},
+		{
+			"Name" : "R74",
+			"C_PATH" : "@scx.schematic1(sch_1):ins886563@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R74"
+		},
+		{
+			"Name" : "R221",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1138175@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R221"
+		},
+		{
+			"Name" : "R223",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1138839@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R223"
+		},
+		{
+			"Name" : "R75",
+			"C_PATH" : "@scx.schematic1(sch_1):ins886593@project_worklib.\\r_r61.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R75"
+		},
+		{
+			"Name" : "RF1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins782821@project_worklib.\\r_rf1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "RF1"
+		},
+		{
+			"Name" : "RF2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins783203@project_worklib.\\r_rf2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "RF2"
+		},
+		{
+			"Name" : "RG1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins782805@project_worklib.\\r_rg1.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "RG1"
+		},
+		{
+			"Name" : "RG2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins783187@project_worklib.\\r_rg2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "RG2"
+		},
+		{
+			"Name" : "C123",
+			"C_PATH" : "@scx.schematic1(sch_1):ins684937@project_worklib.\\c_c41.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C123"
+		},
+		{
+			"Name" : "C124",
+			"C_PATH" : "@scx.schematic1(sch_1):ins684953@project_worklib.\\c_c40.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C124"
+		},
+		{
+			"Name" : "C125",
+			"C_PATH" : "@scx.schematic1(sch_1):ins684969@project_worklib.\\c_c39.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C125"
+		},
+		{
+			"Name" : "C126",
+			"C_PATH" : "@scx.schematic1(sch_1):ins685912@project_worklib.\\c_c35.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C126"
+		},
+		{
+			"Name" : "C127",
+			"C_PATH" : "@scx.schematic1(sch_1):ins685928@project_worklib.\\c_c34.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C127"
+		},
+		{
+			"Name" : "C128",
+			"C_PATH" : "@scx.schematic1(sch_1):ins686278@project_worklib.\\c_c38.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C128"
+		},
+		{
+			"Name" : "C129",
+			"C_PATH" : "@scx.schematic1(sch_1):ins686310@project_worklib.\\c_c36.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C129"
+		},
+		{
+			"Name" : "C18",
+			"C_PATH" : "@scx.schematic1(sch_1):ins816503@project_worklib.\\c_c18.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C18"
+		},
+		{
+			"Name" : "C32",
+			"C_PATH" : "@scx.schematic1(sch_1):ins686984@project_worklib.\\c_c32.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C32"
+		},
+		{
+			"Name" : "C33",
+			"C_PATH" : "@scx.schematic1(sch_1):ins686958@project_worklib.\\c_c33.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C33"
+		},
+		{
+			"Name" : "C37",
+			"C_PATH" : "@scx.schematic1(sch_1):ins686294@project_worklib.\\c_c37.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C37"
+		},
+		{
+			"Name" : "R218",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1022069@project_worklib.\\r_r23.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R218"
+		},
+		{
+			"Name" : "R219",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1023024@project_worklib.\\r_r23.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R219"
+		},
+		{
+			"Name" : "R23",
+			"C_PATH" : "@scx.schematic1(sch_1):ins816469@project_worklib.\\r_r23.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R23"
+		},
+		{
+			"Name" : "P21",
+			"C_PATH" : "@scx.schematic1(sch_1):ins777027@scx.\\zx-mx1_0.25-7pwt_p21.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "P21"
+		},
+		{
+			"Name" : "R188",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714594@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R188"
+		},
+		{
+			"Name" : "R189",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714366@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R189"
+		},
+		{
+			"Name" : "R190",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714438@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R190"
+		},
+		{
+			"Name" : "R199",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714238@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R199"
+		},
+		{
+			"Name" : "R200",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714254@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R200"
+		},
+		{
+			"Name" : "R201",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714336@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R201"
+		},
+		{
+			"Name" : "R202",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714454@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R202"
+		},
+		{
+			"Name" : "R205",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714610@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R205"
+		},
+		{
+			"Name" : "R210",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821358@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R210"
+		},
+		{
+			"Name" : "R211",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821415@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R211"
+		},
+		{
+			"Name" : "R212",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821476@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R212"
+		},
+		{
+			"Name" : "R213",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821543@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R213"
+		},
+		{
+			"Name" : "R214",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821755@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R214"
+		},
+		{
+			"Name" : "R215",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821783@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R215"
+		},
+		{
+			"Name" : "R216",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821867@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R216"
+		},
+		{
+			"Name" : "R217",
+			"C_PATH" : "@scx.schematic1(sch_1):ins821895@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R217"
+		},
+		{
+			"Name" : "R29",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773234@project_worklib.\\r_r29.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R29"
+		},
+		{
+			"Name" : "R30",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773264@project_worklib.\\r_r30.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R30"
+		},
+		{
+			"Name" : "R31",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773294@project_worklib.\\r_r31.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R31"
+		},
+		{
+			"Name" : "R32",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773324@project_worklib.\\r_r32.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R32"
+		},
+		{
+			"Name" : "R33",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773354@project_worklib.\\r_r33.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R33"
+		},
+		{
+			"Name" : "R34",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773384@project_worklib.\\r_r34.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R34"
+		},
+		{
+			"Name" : "R35",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773414@project_worklib.\\r_r35.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R35"
+		},
+		{
+			"Name" : "R36",
+			"C_PATH" : "@scx.schematic1(sch_1):ins773444@project_worklib.\\r_r36.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R36"
+		},
+		{
+			"Name" : "U11",
+			"C_PATH" : "@scx.schematic1(sch_1):ins760530@scx.\\bx-mx1_0.25-5pwt_u11.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U11"
+		},
+		{
+			"Name" : "U22",
+			"C_PATH" : "@scx.schematic1(sch_1):ins886070@scx.\\bx-mx1_0.25-5pwt_u11.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U22"
+		},
+		{
+			"Name" : "U15",
+			"C_PATH" : "@scx.schematic1(sch_1):ins778247@scx.\\zx-zh1_0.5-4pwt_u15.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U15"
+		},
+		{
+			"Name" : "U21",
+			"C_PATH" : "@scx.schematic1(sch_1):ins782861@project_worklib.\\rs6332xm_u13a.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U21"
+		},
+		{
+			"Name" : "U21",
+			"C_PATH" : "@scx.schematic1(sch_1):ins783253@project_worklib.\\rs6332xm_u13b.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U21"
+		},
+		{
+			"Name" : "U23",
+			"C_PATH" : "@scx.schematic1(sch_1):ins886523@project_worklib.\\slss49e-3_u21.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U23"
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602266@project_worklib.\\c_c25.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C25"
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@scx.schematic1(sch_1):ins601968@project_worklib.\\r_r10.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R10"
+		},
+		{
+			"Name" : "R13",
+			"C_PATH" : "@scx.schematic1(sch_1):ins634703@project_worklib.\\r_r13.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R13"
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602206@project_worklib.\\r_r16.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R16"
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602358@project_worklib.\\r_r18.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R18"
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602414@project_worklib.\\r_r19.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R19"
+		},
+		{
+			"Name" : "R193",
+			"C_PATH" : "@scx.schematic1(sch_1):ins602462@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R193"
+		},
+		{
+			"Name" : "R197",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714122@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R197"
+		},
+		{
+			"Name" : "R198",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714138@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R198"
+		},
+		{
+			"Name" : "R203",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714546@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R203"
+		},
+		{
+			"Name" : "R204",
+			"C_PATH" : "@scx.schematic1(sch_1):ins714562@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R204"
+		},
+		{
+			"Name" : "U16",
+			"C_PATH" : "@scx.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "U16"
+		},
+		{
+			"Name" : "C155",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1168814@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C155"
+		},
+		{
+			"Name" : "C158",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1175232@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C158"
+		},
+		{
+			"Name" : "C159",
+			"C_PATH" : "@scx.schematic1(sch_1):ins1186721@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C159"
+		},
+		{
+			"Name" : "C130",
+			"C_PATH" : "@scx.schematic1(sch_1):ins764256@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C130"
+		},
+		{
+			"Name" : "C131",
+			"C_PATH" : "@scx.schematic1(sch_1):ins764877@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C131"
+		},
+		{
+			"Name" : "C132",
+			"C_PATH" : "@scx.schematic1(sch_1):ins764893@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C132"
+		},
+		{
+			"Name" : "C133",
+			"C_PATH" : "@scx.schematic1(sch_1):ins765579@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C133"
+		},
+		{
+			"Name" : "C134",
+			"C_PATH" : "@scx.schematic1(sch_1):ins765595@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C134"
+		},
+		{
+			"Name" : "C135",
+			"C_PATH" : "@scx.schematic1(sch_1):ins766944@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C135"
+		},
+		{
+			"Name" : "C136",
+			"C_PATH" : "@scx.schematic1(sch_1):ins767032@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C136"
+		},
+		{
+			"Name" : "C137",
+			"C_PATH" : "@scx.schematic1(sch_1):ins767058@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C137"
+		},
+		{
+			"Name" : "C138",
+			"C_PATH" : "@scx.schematic1(sch_1):ins767264@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C138"
+		},
+		{
+			"Name" : "C139",
+			"C_PATH" : "@scx.schematic1(sch_1):ins767323@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C139"
+		},
+		{
+			"Name" : "C140",
+			"C_PATH" : "@scx.schematic1(sch_1):ins771213@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C140"
+		},
+		{
+			"Name" : "C141",
+			"C_PATH" : "@scx.schematic1(sch_1):ins771249@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C141"
+		},
+		{
+			"Name" : "C142",
+			"C_PATH" : "@scx.schematic1(sch_1):ins771275@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C142"
+		},
+		{
+			"Name" : "C143",
+			"C_PATH" : "@scx.schematic1(sch_1):ins771311@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C143"
+		},
+		{
+			"Name" : "C144",
+			"C_PATH" : "@scx.schematic1(sch_1):ins771337@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C144"
+		},
+		{
+			"Name" : "C147",
+			"C_PATH" : "@scx.schematic1(sch_1):ins806494@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C147"
+		},
+		{
+			"Name" : "C148",
+			"C_PATH" : "@scx.schematic1(sch_1):ins806546@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C148"
+		},
+		{
+			"Name" : "C149",
+			"C_PATH" : "@scx.schematic1(sch_1):ins806572@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C149"
+		},
+		{
+			"Name" : "C150",
+			"C_PATH" : "@scx.schematic1(sch_1):ins810575@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C150"
+		},
+		{
+			"Name" : "C151",
+			"C_PATH" : "@scx.schematic1(sch_1):ins810904@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C151"
+		},
+		{
+			"Name" : "C152",
+			"C_PATH" : "@scx.schematic1(sch_1):ins818517@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C152"
+		},
+		{
+			"Name" : "C153",
+			"C_PATH" : "@scx.schematic1(sch_1):ins819512@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C153"
+		},
+		{
+			"Name" : "C86",
+			"C_PATH" : "@scx.schematic1(sch_1):ins746146@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C86"
+		},
+		{
+			"Name" : "C87",
+			"C_PATH" : "@scx.schematic1(sch_1):ins746130@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C87"
+		},
+		{
+			"Name" : "C88",
+			"C_PATH" : "@scx.schematic1(sch_1):ins746114@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C88"
+		},
+		{
+			"Name" : "C89",
+			"C_PATH" : "@scx.schematic1(sch_1):ins746172@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C89"
+		},
+		{
+			"Name" : "C90",
+			"C_PATH" : "@scx.schematic1(sch_1):ins746188@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C90"
+		},
+		{
+			"Name" : "C145",
+			"C_PATH" : "@scx.schematic1(sch_1):ins772481@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C145"
+		},
+		{
+			"Name" : "C146",
+			"C_PATH" : "@scx.schematic1(sch_1):ins772575@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C146"
+		},
+		{
+			"Name" : "C122",
+			"C_PATH" : "@scx.schematic1(sch_1):ins653579@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C122"
+		},
+		{
+			"Name" : "C1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482185@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C1"
+		},
+		{
+			"Name" : "C119",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595681@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C119"
+		},
+		{
+			"Name" : "C38",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481399@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C38"
+		},
+		{
+			"Name" : "C39",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482545@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C39"
+		},
+		{
+			"Name" : "C44",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479283@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C44"
+		},
+		{
+			"Name" : "C118",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595519@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C118"
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481127@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C2"
+		},
+		{
+			"Name" : "C35",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482409@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C35"
+		},
+		{
+			"Name" : "C36",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479941@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C36"
+		},
+		{
+			"Name" : "C40",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479393@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C40"
+		},
+		{
+			"Name" : "C41",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481901@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C41"
+		},
+		{
+			"Name" : "C47",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482703@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C47"
+		},
+		{
+			"Name" : "C45",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479851@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C45"
+		},
+		{
+			"Name" : "C46",
+			"C_PATH" : "@scx.schematic1(sch_1):ins478769@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C46"
+		},
+		{
+			"Name" : "C48",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482725@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C48"
+		},
+		{
+			"Name" : "C70",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481171@wk2_library.\\c1206.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C70"
+		},
+		{
+			"Name" : "C71",
+			"C_PATH" : "@scx.schematic1(sch_1):ins478879@wk2_library.\\c1206.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "C71"
+		},
+		{
+			"Name" : "L1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479349@wk2_library.\\inductor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L1"
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins478633@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R1"
+		},
+		{
+			"Name" : "R132",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595549@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R132"
+		},
+		{
+			"Name" : "R133",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595713@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R133"
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479963@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R2"
+		},
+		{
+			"Name" : "R123",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481493@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R123"
+		},
+		{
+			"Name" : "R129",
+			"C_PATH" : "@scx.schematic1(sch_1):ins478541@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R129"
+		},
+		{
+			"Name" : "R124",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482387@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R124"
+		},
+		{
+			"Name" : "R125",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481655@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R125"
+		},
+		{
+			"Name" : "R126",
+			"C_PATH" : "@scx.schematic1(sch_1):ins482589@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R126"
+		},
+		{
+			"Name" : "R127",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481149@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R127"
+		},
+		{
+			"Name" : "R128",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479261@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R128"
+		},
+		{
+			"Name" : "R131",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481743@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R131"
+		},
+		{
+			"Name" : "R130",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481633@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "R130"
+		},
+		{
+			"Name" : "U14",
+			"C_PATH" : "@scx.schematic1(sch_1):ins595565@wk2_library.\\tja1040t.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U14"
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@scx.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1)",
+			"Logical" : null,
+			"Physical" : "U2"
+		},
+		{
+			"Name" : "Y1",
+			"C_PATH" : "@scx.schematic1(sch_1):ins481721@wk2_library.\\crystal.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "Y1"
+		},
+		{
+			"Name" : "B1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B1",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B10",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B5",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B6",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips)",
+			"Logical" : "B9",
+			"Physical" : null
+		},
+		{
+			"Name" : "C1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482185@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C122",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins653579@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C122",
+			"Physical" : null
+		},
+		{
+			"Name" : "C123",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684937@project_worklib.\\c_c41.normal\\(chips)",
+			"Logical" : "C123",
+			"Physical" : null
+		},
+		{
+			"Name" : "C124",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684953@project_worklib.\\c_c40.normal\\(chips)",
+			"Logical" : "C124",
+			"Physical" : null
+		},
+		{
+			"Name" : "C125",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684969@project_worklib.\\c_c39.normal\\(chips)",
+			"Logical" : "C125",
+			"Physical" : null
+		},
+		{
+			"Name" : "C126",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685912@project_worklib.\\c_c35.normal\\(chips)",
+			"Logical" : "C126",
+			"Physical" : null
+		},
+		{
+			"Name" : "C127",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685928@project_worklib.\\c_c34.normal\\(chips)",
+			"Logical" : "C127",
+			"Physical" : null
+		},
+		{
+			"Name" : "C128",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686278@project_worklib.\\c_c38.normal\\(chips)",
+			"Logical" : "C128",
+			"Physical" : null
+		},
+		{
+			"Name" : "C129",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686310@project_worklib.\\c_c36.normal\\(chips)",
+			"Logical" : "C129",
+			"Physical" : null
+		},
+		{
+			"Name" : "C130",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764256@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C130",
+			"Physical" : null
+		},
+		{
+			"Name" : "C131",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764877@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C131",
+			"Physical" : null
+		},
+		{
+			"Name" : "C132",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764893@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C132",
+			"Physical" : null
+		},
+		{
+			"Name" : "C133",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765579@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C133",
+			"Physical" : null
+		},
+		{
+			"Name" : "C134",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765595@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C134",
+			"Physical" : null
+		},
+		{
+			"Name" : "C135",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins766944@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C135",
+			"Physical" : null
+		},
+		{
+			"Name" : "C136",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767032@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C136",
+			"Physical" : null
+		},
+		{
+			"Name" : "C137",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767058@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C137",
+			"Physical" : null
+		},
+		{
+			"Name" : "C138",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767264@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C138",
+			"Physical" : null
+		},
+		{
+			"Name" : "C139",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767323@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C139",
+			"Physical" : null
+		},
+		{
+			"Name" : "C140",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771213@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C140",
+			"Physical" : null
+		},
+		{
+			"Name" : "C141",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771249@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C141",
+			"Physical" : null
+		},
+		{
+			"Name" : "C142",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771275@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C142",
+			"Physical" : null
+		},
+		{
+			"Name" : "C143",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771311@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C143",
+			"Physical" : null
+		},
+		{
+			"Name" : "C144",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771337@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C144",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772481@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C145",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772575@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C146",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806494@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C147",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806546@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C148",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806572@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C149",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810575@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C150",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810904@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C151",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins818517@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C152",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins819512@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C153",
+			"Physical" : null
+		},
+		{
+			"Name" : "C18",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816503@project_worklib.\\c_c18.normal\\(chips)",
+			"Logical" : "C18",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481127@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C25",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602266@project_worklib.\\c_c25.normal\\(chips)",
+			"Logical" : "C25",
+			"Physical" : null
+		},
+		{
+			"Name" : "C32",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686984@project_worklib.\\c_c32.normal\\(chips)",
+			"Logical" : "C32",
+			"Physical" : null
+		},
+		{
+			"Name" : "C33",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686958@project_worklib.\\c_c33.normal\\(chips)",
+			"Logical" : "C33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C35",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482409@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C35",
+			"Physical" : null
+		},
+		{
+			"Name" : "C36",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479941@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C36",
+			"Physical" : null
+		},
+		{
+			"Name" : "C37",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686294@project_worklib.\\c_c37.normal\\(chips)",
+			"Logical" : "C37",
+			"Physical" : null
+		},
+		{
+			"Name" : "C38",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481399@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C38",
+			"Physical" : null
+		},
+		{
+			"Name" : "C39",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482545@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C39",
+			"Physical" : null
+		},
+		{
+			"Name" : "C40",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479393@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C40",
+			"Physical" : null
+		},
+		{
+			"Name" : "C41",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481901@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C41",
+			"Physical" : null
+		},
+		{
+			"Name" : "C44",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479283@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C44",
+			"Physical" : null
+		},
+		{
+			"Name" : "C45",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479851@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C45",
+			"Physical" : null
+		},
+		{
+			"Name" : "C46",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478769@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C46",
+			"Physical" : null
+		},
+		{
+			"Name" : "C47",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482703@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C47",
+			"Physical" : null
+		},
+		{
+			"Name" : "C48",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482725@wk2_library.\\cap np.normal\\(chips)",
+			"Logical" : "C48",
+			"Physical" : null
+		},
+		{
+			"Name" : "C70",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481171@wk2_library.\\c1206.normal\\(chips)",
+			"Logical" : "C70",
+			"Physical" : null
+		},
+		{
+			"Name" : "C71",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478879@wk2_library.\\c1206.normal\\(chips)",
+			"Logical" : "C71",
+			"Physical" : null
+		},
+		{
+			"Name" : "C86",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746146@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C86",
+			"Physical" : null
+		},
+		{
+			"Name" : "C87",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746130@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C87",
+			"Physical" : null
+		},
+		{
+			"Name" : "C88",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746114@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C88",
+			"Physical" : null
+		},
+		{
+			"Name" : "C89",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746172@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C89",
+			"Physical" : null
+		},
+		{
+			"Name" : "C90",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746188@oem_hub.\\cap np.normal\\(chips)",
+			"Logical" : "C90",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883208@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips)",
+			"Logical" : "CN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883457@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips)",
+			"Logical" : "CN2",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482655@wk2_library.\\pesd1can_diode.normal\\(chips)",
+			"Logical" : "D1",
+			"Physical" : null
+		},
+		{
+			"Name" : "D6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602749@project_worklib.\\d-schottky_d1.normal\\(chips)",
+			"Logical" : "D6",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips)",
+			"Logical" : "J1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips)",
+			"Logical" : "J12",
+			"Physical" : null
+		},
+		{
+			"Name" : "L1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479349@wk2_library.\\inductor.normal\\(chips)",
+			"Logical" : "L1",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED1",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED11",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED12",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED13",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED14",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED15",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED16",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED17",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED17",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED27",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED27",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED34",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED34",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED35",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED35",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED36",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED36",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED37",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED37",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED38",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED38",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED39",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED39",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED40",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED40",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED41",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips)",
+			"Logical" : "LED41",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1131754@oem_hub.\\2n7002.normal\\(chips)",
+			"Logical" : "Q2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478633@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601968@project_worklib.\\r_r10.normal\\(chips)",
+			"Logical" : "R10",
+			"Physical" : null
+		},
+		{
+			"Name" : "R123",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481493@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R123",
+			"Physical" : null
+		},
+		{
+			"Name" : "R124",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482387@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R124",
+			"Physical" : null
+		},
+		{
+			"Name" : "R125",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481655@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R125",
+			"Physical" : null
+		},
+		{
+			"Name" : "R126",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482589@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R126",
+			"Physical" : null
+		},
+		{
+			"Name" : "R127",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481149@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R127",
+			"Physical" : null
+		},
+		{
+			"Name" : "R128",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479261@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R128",
+			"Physical" : null
+		},
+		{
+			"Name" : "R129",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478541@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R129",
+			"Physical" : null
+		},
+		{
+			"Name" : "R13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins634703@project_worklib.\\r_r13.normal\\(chips)",
+			"Logical" : "R13",
+			"Physical" : null
+		},
+		{
+			"Name" : "R130",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481633@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R130",
+			"Physical" : null
+		},
+		{
+			"Name" : "R131",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481743@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R131",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602206@project_worklib.\\r_r16.normal\\(chips)",
+			"Logical" : "R16",
+			"Physical" : null
+		},
+		{
+			"Name" : "R164",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745866@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R164",
+			"Physical" : null
+		},
+		{
+			"Name" : "R165",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745850@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R165",
+			"Physical" : null
+		},
+		{
+			"Name" : "R166",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745924@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R166",
+			"Physical" : null
+		},
+		{
+			"Name" : "R167",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745940@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R167",
+			"Physical" : null
+		},
+		{
+			"Name" : "R18",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602358@project_worklib.\\r_r18.normal\\(chips)",
+			"Logical" : "R18",
+			"Physical" : null
+		},
+		{
+			"Name" : "R19",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602414@project_worklib.\\r_r19.normal\\(chips)",
+			"Logical" : "R19",
+			"Physical" : null
+		},
+		{
+			"Name" : "R193",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602462@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R193",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479963@wk2_library.\\r2.normal\\(chips)",
+			"Logical" : "R2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R206",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764833@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R206",
+			"Physical" : null
+		},
+		{
+			"Name" : "R207",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764849@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R207",
+			"Physical" : null
+		},
+		{
+			"Name" : "R208",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765535@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R208",
+			"Physical" : null
+		},
+		{
+			"Name" : "R209",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765551@oem_hub.\\r2.normal\\(chips)",
+			"Logical" : "R209",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816469@project_worklib.\\r_r23.normal\\(chips)",
+			"Logical" : "R23",
+			"Physical" : null
+		},
+		{
+			"Name" : "R28",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684663@project_worklib.\\r_r28.normal\\(chips)",
+			"Logical" : "R28",
+			"Physical" : null
+		},
+		{
+			"Name" : "R29",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773234@project_worklib.\\r_r29.normal\\(chips)",
+			"Logical" : "R29",
+			"Physical" : null
+		},
+		{
+			"Name" : "R30",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773264@project_worklib.\\r_r30.normal\\(chips)",
+			"Logical" : "R30",
+			"Physical" : null
+		},
+		{
+			"Name" : "R31",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773294@project_worklib.\\r_r31.normal\\(chips)",
+			"Logical" : "R31",
+			"Physical" : null
+		},
+		{
+			"Name" : "R32",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773324@project_worklib.\\r_r32.normal\\(chips)",
+			"Logical" : "R32",
+			"Physical" : null
+		},
+		{
+			"Name" : "R33",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773354@project_worklib.\\r_r33.normal\\(chips)",
+			"Logical" : "R33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R34",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773384@project_worklib.\\r_r34.normal\\(chips)",
+			"Logical" : "R34",
+			"Physical" : null
+		},
+		{
+			"Name" : "R35",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773414@project_worklib.\\r_r35.normal\\(chips)",
+			"Logical" : "R35",
+			"Physical" : null
+		},
+		{
+			"Name" : "R36",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773444@project_worklib.\\r_r36.normal\\(chips)",
+			"Logical" : "R36",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips)",
+			"Logical" : "SW2",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips)",
+			"Logical" : "SW3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips)",
+			"Logical" : "U11",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1)",
+			"Logical" : "U12",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1)",
+			"Logical" : "U13",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips)",
+			"Logical" : "U16",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1)",
+			"Logical" : "U2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips)",
+			"Logical" : "U22",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips)",
+			"Logical" : "U4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips)",
+			"Logical" : "U7",
+			"Physical" : null
+		},
+		{
+			"Name" : "Y1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481721@wk2_library.\\crystal.normal\\(chips)",
+			"Logical" : "Y1",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N1138817",
+			"C_PATH" : "@scx.schematic1(sch_1):n1138817",
+			"Logical" : null,
+			"Physical" : "N1138817"
+		},
+		{
+			"Name" : "N1138153",
+			"C_PATH" : "@scx.schematic1(sch_1):n1138153",
+			"Logical" : null,
+			"Physical" : "N1138153"
+		},
+		{
+			"Name" : "CAN2H-60R",
+			"C_PATH" : "@scx.schematic1(sch_1):\\can2h-60r\\",
+			"Logical" : null,
+			"Physical" : "CAN2H-60R"
+		},
+		{
+			"Name" : "REALGND",
+			"C_PATH" : "@scx.schematic1(sch_1):realgnd",
+			"Logical" : null,
+			"Physical" : "REALGND"
+		},
+		{
+			"Name" : "N1022087",
+			"C_PATH" : "@scx.schematic1(sch_1):n1022087",
+			"Logical" : null,
+			"Physical" : "N1022087"
+		},
+		{
+			"Name" : "N886557",
+			"C_PATH" : "@scx.schematic1(sch_1):n886557",
+			"Logical" : null,
+			"Physical" : "N886557"
+		},
+		{
+			"Name" : "N783237",
+			"C_PATH" : "@scx.schematic1(sch_1):n783237",
+			"Logical" : null,
+			"Physical" : "N783237"
+		},
+		{
+			"Name" : "N783365",
+			"C_PATH" : "@scx.schematic1(sch_1):n783365",
+			"Logical" : null,
+			"Physical" : "N783365"
+		},
+		{
+			"Name" : "N783225",
+			"C_PATH" : "@scx.schematic1(sch_1):n783225",
+			"Logical" : null,
+			"Physical" : "N783225"
+		},
+		{
+			"Name" : "N782855",
+			"C_PATH" : "@scx.schematic1(sch_1):n782855",
+			"Logical" : null,
+			"Physical" : "N782855"
+		},
+		{
+			"Name" : "N782969",
+			"C_PATH" : "@scx.schematic1(sch_1):n782969",
+			"Logical" : null,
+			"Physical" : "N782969"
+		},
+		{
+			"Name" : "N782843",
+			"C_PATH" : "@scx.schematic1(sch_1):n782843",
+			"Logical" : null,
+			"Physical" : "N782843"
+		},
+		{
+			"Name" : "AN_OUT1",
+			"C_PATH" : "@scx.schematic1(sch_1):an_out1",
+			"Logical" : null,
+			"Physical" : "AN_OUT1"
+		},
+		{
+			"Name" : "AN_OUT2",
+			"C_PATH" : "@scx.schematic1(sch_1):an_out2",
+			"Logical" : null,
+			"Physical" : "AN_OUT2"
+		},
+		{
+			"Name" : "LOWSIDE3",
+			"C_PATH" : "@scx.schematic1(sch_1):lowside3",
+			"Logical" : null,
+			"Physical" : "LOWSIDE3"
+		},
+		{
+			"Name" : "LOWSIDE2",
+			"C_PATH" : "@scx.schematic1(sch_1):lowside2",
+			"Logical" : null,
+			"Physical" : "LOWSIDE2"
+		},
+		{
+			"Name" : "N714500",
+			"C_PATH" : "@scx.schematic1(sch_1):n714500",
+			"Logical" : null,
+			"Physical" : "N714500"
+		},
+		{
+			"Name" : "N714364",
+			"C_PATH" : "@scx.schematic1(sch_1):n714364",
+			"Logical" : null,
+			"Physical" : "N714364"
+		},
+		{
+			"Name" : "N714432",
+			"C_PATH" : "@scx.schematic1(sch_1):n714432",
+			"Logical" : null,
+			"Physical" : "N714432"
+		},
+		{
+			"Name" : "N714156",
+			"C_PATH" : "@scx.schematic1(sch_1):n714156",
+			"Logical" : null,
+			"Physical" : "N714156"
+		},
+		{
+			"Name" : "N714170",
+			"C_PATH" : "@scx.schematic1(sch_1):n714170",
+			"Logical" : null,
+			"Physical" : "N714170"
+		},
+		{
+			"Name" : "N714326",
+			"C_PATH" : "@scx.schematic1(sch_1):n714326",
+			"Logical" : null,
+			"Physical" : "N714326"
+		},
+		{
+			"Name" : "LOWSIDE1",
+			"C_PATH" : "@scx.schematic1(sch_1):lowside1",
+			"Logical" : null,
+			"Physical" : "LOWSIDE1"
+		},
+		{
+			"Name" : "N714410",
+			"C_PATH" : "@scx.schematic1(sch_1):n714410",
+			"Logical" : null,
+			"Physical" : "N714410"
+		},
+		{
+			"Name" : "LOWSIDE4",
+			"C_PATH" : "@scx.schematic1(sch_1):lowside4",
+			"Logical" : null,
+			"Physical" : "LOWSIDE4"
+		},
+		{
+			"Name" : "N714540",
+			"C_PATH" : "@scx.schematic1(sch_1):n714540",
+			"Logical" : null,
+			"Physical" : "N714540"
+		},
+		{
+			"Name" : "N8214251",
+			"C_PATH" : "@scx.schematic1(sch_1):n8214251",
+			"Logical" : null,
+			"Physical" : "N8214251"
+		},
+		{
+			"Name" : "N8215531",
+			"C_PATH" : "@scx.schematic1(sch_1):n8215531",
+			"Logical" : null,
+			"Physical" : "N8215531"
+		},
+		{
+			"Name" : "N8213681",
+			"C_PATH" : "@scx.schematic1(sch_1):n8213681",
+			"Logical" : null,
+			"Physical" : "N8213681"
+		},
+		{
+			"Name" : "N8214861",
+			"C_PATH" : "@scx.schematic1(sch_1):n8214861",
+			"Logical" : null,
+			"Physical" : "N8214861"
+		},
+		{
+			"Name" : "CAN2L",
+			"C_PATH" : "@scx.schematic1(sch_1):can2l",
+			"Logical" : null,
+			"Physical" : "CAN2L"
+		},
+		{
+			"Name" : "CAN2H",
+			"C_PATH" : "@scx.schematic1(sch_1):can2h",
+			"Logical" : null,
+			"Physical" : "CAN2H"
+		},
+		{
+			"Name" : "CAN2_SPLIT",
+			"C_PATH" : "@scx.schematic1(sch_1):can2_split",
+			"Logical" : null,
+			"Physical" : "CAN2_SPLIT"
+		},
+		{
+			"Name" : "BUTTON_L3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_l3",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN1_TX",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can1_tx",
+			"Logical" : "CAN1_TX",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h1",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "VCC33",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):vcc33",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h2",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN1_RX",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can1_rx",
+			"Logical" : "CAN1_RX",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h8",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h3",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "SWDIO",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):swdio",
+			"Logical" : "SWDIO",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN2_RX",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can2_rx",
+			"Logical" : "CAN2_RX",
+			"Physical" : null
+		},
+		{
+			"Name" : "N477709",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n477709",
+			"Logical" : "N477709",
+			"Physical" : null
+		},
+		{
+			"Name" : "PG",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):pg",
+			"Logical" : "PG",
+			"Physical" : null
+		},
+		{
+			"Name" : "RCC_OSC_IN",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):rcc_osc_in",
+			"Logical" : "RCC_OSC_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "N602224",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n602224",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_L2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_l2",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "CONTROL3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):control3",
+			"Logical" : "CONTROL3",
+			"Physical" : null
+		},
+		{
+			"Name" : "VCC5V",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):vcc5v",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "STATUSWATCH1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):statuswatch1",
+			"Logical" : "STATUSWATCH1",
+			"Physical" : null
+		},
+		{
+			"Name" : "STATUSWATCH3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):statuswatch3",
+			"Logical" : "STATUSWATCH3",
+			"Physical" : null
+		},
+		{
+			"Name" : "N477673",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n477673",
+			"Logical" : "N477673",
+			"Physical" : null
+		},
+		{
+			"Name" : "CONTROL1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):control1",
+			"Logical" : "CONTROL1",
+			"Physical" : null
+		},
+		{
+			"Name" : "STATUSWATCH4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):statuswatch4",
+			"Logical" : "STATUSWATCH4",
+			"Physical" : null
+		},
+		{
+			"Name" : "CONTROL4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):control4",
+			"Logical" : "CONTROL4",
+			"Physical" : null
+		},
+		{
+			"Name" : "STATUSWATCH2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):statuswatch2",
+			"Logical" : "STATUSWATCH2",
+			"Physical" : null
+		},
+		{
+			"Name" : "CONTROL2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):control2",
+			"Logical" : "CONTROL2",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e1",
+			"Logical" : "ENCODER_E1",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e2",
+			"Logical" : "ENCODER_E2",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_DP1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_dp1",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "FB_VIN",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):fb_vin",
+			"Logical" : "FB_VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_DP",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_dp",
+			"Logical" : "USB_DP",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_VBUS",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_vbus",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "N684885",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n684885",
+			"Logical" : "N684885",
+			"Physical" : null
+		},
+		{
+			"Name" : "N601998",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n601998",
+			"Logical" : "N601998",
+			"Physical" : null
+		},
+		{
+			"Name" : "N719238",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n719238",
+			"Logical" : "N719238",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin4",
+			"Logical" : "LED_RGB_LIN4",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_SWITCH",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_switch",
+			"Logical" : "USB_SWITCH",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688647",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688647",
+			"Logical" : "N688647",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688691",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688691",
+			"Logical" : "N688691",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688893",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688893",
+			"Logical" : "N688893",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688915",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688915",
+			"Logical" : "N688915",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688669",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688669",
+			"Logical" : "N688669",
+			"Physical" : null
+		},
+		{
+			"Name" : "N722504",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n722504",
+			"Logical" : "N722504",
+			"Physical" : null
+		},
+		{
+			"Name" : "N688871",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n688871",
+			"Logical" : "N688871",
+			"Physical" : null
+		},
+		{
+			"Name" : "N477663",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n477663",
+			"Logical" : "N477663",
+			"Physical" : null
+		},
+		{
+			"Name" : "N722747",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n722747",
+			"Logical" : "N722747",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin5",
+			"Logical" : "LED_RGB_LIN5",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e3",
+			"Logical" : "ENCODER_E3",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin6",
+			"Logical" : "LED_RGB_LIN6",
+			"Physical" : null
+		},
+		{
+			"Name" : "EN",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):en",
+			"Logical" : "EN",
+			"Physical" : null
+		},
+		{
+			"Name" : "ADC2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):adc2",
+			"Logical" : "ADC2",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e4",
+			"Logical" : "ENCODER_E4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b2_1out",
+			"Logical" : "B2_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "ADC1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):adc1",
+			"Logical" : "ADC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b2_2out",
+			"Logical" : "B2_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "N728474",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n728474",
+			"Logical" : "N728474",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b3_2out",
+			"Logical" : "B3_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b3_1out",
+			"Logical" : "B3_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin3",
+			"Logical" : "LED_RGB_LIN3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b4_2out",
+			"Logical" : "B4_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "N686902",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n686902",
+			"Logical" : "N686902",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b4_1out",
+			"Logical" : "B4_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin7",
+			"Logical" : "LED_RGB_LIN7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b5_2out",
+			"Logical" : "B5_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin8",
+			"Logical" : "LED_RGB_LIN8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b5_1out",
+			"Logical" : "B5_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b6_2out",
+			"Logical" : "B6_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b6_1out",
+			"Logical" : "B6_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b7_2out",
+			"Logical" : "B7_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b7_1out",
+			"Logical" : "B7_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b8_2out",
+			"Logical" : "B8_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b8_1out",
+			"Logical" : "B8_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b9_2out",
+			"Logical" : "B9_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b9_1out",
+			"Logical" : "B9_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b10_2out",
+			"Logical" : "B10_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "DAC_OUT2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):dac_out2",
+			"Logical" : "DAC_OUT2",
+			"Physical" : null
+		},
+		{
+			"Name" : "N693471",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n693471",
+			"Logical" : "N693471",
+			"Physical" : null
+		},
+		{
+			"Name" : "N693449",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n693449",
+			"Logical" : "N693449",
+			"Physical" : null
+		},
+		{
+			"Name" : "N693635",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n693635",
+			"Logical" : "N693635",
+			"Physical" : null
+		},
+		{
+			"Name" : "N693613",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n693613",
+			"Logical" : "N693613",
+			"Physical" : null
+		},
+		{
+			"Name" : "DAC_OUT1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):dac_out1",
+			"Logical" : "DAC_OUT1",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN2_TX",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can2_tx",
+			"Logical" : "CAN2_TX",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b1_1out",
+			"Logical" : "B1_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1_2OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b1_2out",
+			"Logical" : "B1_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "GND_SIGNAL",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):gnd_signal",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e6",
+			"Logical" : "ENCODER_E6",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e5",
+			"Logical" : "ENCODER_E5",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e7",
+			"Logical" : "ENCODER_E7",
+			"Physical" : null
+		},
+		{
+			"Name" : "ENCODER_E8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):encoder_e8",
+			"Logical" : "ENCODER_E8",
+			"Physical" : null
+		},
+		{
+			"Name" : "N597302",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n597302",
+			"Logical" : "N597302",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_IRQ",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_irq",
+			"Logical" : "NRF_IRQ",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h5",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h4",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_MISO",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_miso",
+			"Logical" : "NRF_MISO",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin2",
+			"Logical" : "LED_RGB_LIN2",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_MOSI",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_mosi",
+			"Logical" : "NRF_MOSI",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h6",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin1",
+			"Logical" : "LED_RGB_LIN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_SCK",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_sck",
+			"Logical" : "NRF_SCK",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_L4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_l4",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_CE",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_ce",
+			"Logical" : "NRF_CE",
+			"Physical" : null
+		},
+		{
+			"Name" : "N1048777",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n1048777",
+			"Logical" : "N1048777",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRF_CS",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrf_cs",
+			"Logical" : "NRF_CS",
+			"Physical" : null
+		},
+		{
+			"Name" : "FB33",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):fb33",
+			"Logical" : "FB33",
+			"Physical" : null
+		},
+		{
+			"Name" : "OEMH",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):oemh",
+			"Logical" : "OEMH",
+			"Physical" : null
+		},
+		{
+			"Name" : "OEML",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):oeml",
+			"Logical" : "OEML",
+			"Physical" : null
+		},
+		{
+			"Name" : "VIN",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):vin",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "SWCLK",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):swclk",
+			"Logical" : "SWCLK",
+			"Physical" : null
+		},
+		{
+			"Name" : "N970726",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n970726",
+			"Logical" : "N970726",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN_STB",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can_stb",
+			"Logical" : "CAN_STB",
+			"Physical" : null
+		},
+		{
+			"Name" : "N693717",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n693717",
+			"Logical" : "N693717",
+			"Physical" : null
+		},
+		{
+			"Name" : "N706952",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n706952",
+			"Logical" : "N706952",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED_RGB_LIN9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):led_rgb_lin9",
+			"Logical" : "LED_RGB_LIN9",
+			"Physical" : null
+		},
+		{
+			"Name" : "NRST",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):nrst",
+			"Logical" : "NRST",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10_1OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):b10_1out",
+			"Logical" : "B10_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "CAN1_SPLIT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):can1_split",
+			"Logical" : "CAN1_SPLIT",
+			"Physical" : null
+		},
+		{
+			"Name" : "N477701",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n477701",
+			"Logical" : "N477701",
+			"Physical" : null
+		},
+		{
+			"Name" : "N477649",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):n477649",
+			"Logical" : "N477649",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_DM",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_dm",
+			"Logical" : "USB_DM",
+			"Physical" : null
+		},
+		{
+			"Name" : "USB_DM1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):usb_dm1",
+			"Logical" : "USB_DM1",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):sw",
+			"Logical" : "SW",
+			"Physical" : null
+		},
+		{
+			"Name" : "RCC_OSC_OUT",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):rcc_osc_out",
+			"Logical" : "RCC_OSC_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "BUTTON_H7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):button_h7",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		}
+	],
+	"Connection" : [
+		{
+			"Name" : "B1.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N684885",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B1_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B1_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B1_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B1_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "LED_RGB_LIN2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B1.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684737@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N686902",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B10_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B10_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N970726",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B10_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B10_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B10.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins976371@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N684885",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N719238",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B2_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B2_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B2_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B2_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B2.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972488@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N719238",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B3_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B3_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B3_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B3_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "LED_RGB_LIN3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B3.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins972979@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "LED_RGB_LIN4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N722504",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B4_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B4_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B4_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B4_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B4.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973472@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N722504",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N722747",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B5_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B5_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B5_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B5_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B5.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins973974@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N722747",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "LED_RGB_LIN5",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B6_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B6_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B6_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B6_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B6.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins974514@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "LED_RGB_LIN6",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N728474",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B7_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B7_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B7_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B7_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B7.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975050@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "N728474",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "LED_RGB_LIN7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B8_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B8_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B8_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B8_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B8.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975489@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):KEY_A1",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):KEY_A",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):KEY_B1",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):KEY_B",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):VCC1",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):VCC2",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED_OUT",
+			"Logical" : "N686902",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED3_IN",
+			"Logical" : "B9_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED2_OUT",
+			"Logical" : "B9_2OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED1_OUT",
+			"Logical" : "B9_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED2_IN",
+			"Logical" : "B9_1OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "B9.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins975890@scx.\\button&led_b1_8.normal\\(chips):LED_IN",
+			"Logical" : "LED_RGB_LIN9",
+			"Physical" : null
+		},
+		{
+			"Name" : "C1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482185@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482185@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C122.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins653579@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C122.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins653579@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C123.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684937@project_worklib.\\c_c41.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "C123.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684937@project_worklib.\\c_c41.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C124.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684953@project_worklib.\\c_c40.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "C124.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684953@project_worklib.\\c_c40.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C125.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684969@project_worklib.\\c_c39.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C125.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684969@project_worklib.\\c_c39.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C126.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685912@project_worklib.\\c_c35.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C126.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685912@project_worklib.\\c_c35.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "C127.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685928@project_worklib.\\c_c34.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C127.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins685928@project_worklib.\\c_c34.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "C128.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686278@project_worklib.\\c_c38.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C128.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686278@project_worklib.\\c_c38.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C129.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686310@project_worklib.\\c_c36.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C129.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686310@project_worklib.\\c_c36.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C130.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764256@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C130.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764256@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C131.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764877@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C131.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764877@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C132.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764893@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C132.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764893@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C133.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765579@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C133.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765579@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C134.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765595@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C134.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765595@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C135.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins766944@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C135.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins766944@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C136.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767032@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C136.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767032@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C137.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767058@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C137.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767058@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C138.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767264@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C138.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767264@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "C139.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767323@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C139.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins767323@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "C140.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771213@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C140.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771213@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C141.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771249@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C141.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771249@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C142.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771275@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "C142.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771275@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C143.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771311@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C143.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771311@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "C144.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771337@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C144.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins771337@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772481@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C145.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772481@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772575@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "C146.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins772575@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806494@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C147.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806494@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806546@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C148.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806546@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806572@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C149.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins806572@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810575@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C150.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810575@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810904@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C151.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins810904@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins818517@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C152.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins818517@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins819512@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C153.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins819512@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C18.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816503@project_worklib.\\c_c18.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C18.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816503@project_worklib.\\c_c18.normal\\(chips):\\1\\",
+			"Logical" : "NRST",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481127@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481127@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "CAN1_SPLIT",
+			"Physical" : null
+		},
+		{
+			"Name" : "C25.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602266@project_worklib.\\c_c25.normal\\(chips):\\2\\",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "C25.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602266@project_worklib.\\c_c25.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C32.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686984@project_worklib.\\c_c32.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C32.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686984@project_worklib.\\c_c32.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "C33.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686958@project_worklib.\\c_c33.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "C33.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686958@project_worklib.\\c_c33.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C35.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482409@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "RCC_OSC_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C35.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482409@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C36.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479941@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C36.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479941@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "RCC_OSC_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "C37.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686294@project_worklib.\\c_c37.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C37.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins686294@project_worklib.\\c_c37.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "C38.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481399@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C38.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481399@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "N477649",
+			"Physical" : null
+		},
+		{
+			"Name" : "C39.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482545@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "N477663",
+			"Physical" : null
+		},
+		{
+			"Name" : "C39.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482545@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "SW",
+			"Physical" : null
+		},
+		{
+			"Name" : "C40.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479393@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C40.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479393@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C41.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481901@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C41.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481901@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C44.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479283@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C44.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479283@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C45.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479851@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C45.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479851@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "N477701",
+			"Physical" : null
+		},
+		{
+			"Name" : "C46.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478769@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "C46.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478769@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C47.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482703@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C47.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482703@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C48.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482725@wk2_library.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C48.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482725@wk2_library.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "FB33",
+			"Physical" : null
+		},
+		{
+			"Name" : "C70.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481171@wk2_library.\\c1206.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C70.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481171@wk2_library.\\c1206.normal\\(chips):\\2\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C71.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478879@wk2_library.\\c1206.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C71.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478879@wk2_library.\\c1206.normal\\(chips):\\2\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "C86.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746146@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "C86.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746146@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "C87.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746130@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C87.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746130@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E6",
+			"Physical" : null
+		},
+		{
+			"Name" : "C88.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746114@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C88.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746114@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E5",
+			"Physical" : null
+		},
+		{
+			"Name" : "C89.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746172@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C89.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746172@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E7",
+			"Physical" : null
+		},
+		{
+			"Name" : "C90.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746188@oem_hub.\\cap np.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "C90.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins746188@oem_hub.\\cap np.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E8",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883208@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883208@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883457@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips):\\2\\",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "CN2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins883457@scx.\\wafer-hy2_1.0-2pzz-r62_cn2.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482655@wk2_library.\\pesd1can_diode.normal\\(chips):\\3\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482655@wk2_library.\\pesd1can_diode.normal\\(chips):\\1\\",
+			"Logical" : "OEMH",
+			"Physical" : null
+		},
+		{
+			"Name" : "D1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482655@wk2_library.\\pesd1can_diode.normal\\(chips):\\2\\",
+			"Logical" : "OEML",
+			"Physical" : null
+		},
+		{
+			"Name" : "D6.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602749@project_worklib.\\d-schottky_d1.normal\\(chips):K",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "D6.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602749@project_worklib.\\d-schottky_d1.normal\\(chips):A",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):PAD",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):PAD7",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):PAD8",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):PAD9",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):DP2",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):DP1",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\vbus2-2\\",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\vbus2-1\\",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\vbus1-1\\",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\vbus1-2\\",
+			"Logical" : "USB_VBUS",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):CC1",
+			"Logical" : "N601998",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\gnd1-1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\gnd2-1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\gnd1-2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):\\gnd2-2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):CC2",
+			"Logical" : "N1048777",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.B7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):DM2",
+			"Logical" : "USB_DM1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J1.A7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601886@scx.\\usb_c_j1_6.normal\\(chips):DM1",
+			"Logical" : "USB_DM1",
+			"Physical" : null
+		},
+		{
+			"Name" : "J12.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "J12.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips):\\2\\",
+			"Logical" : "SWDIO",
+			"Physical" : null
+		},
+		{
+			"Name" : "J12.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips):\\4\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "J12.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins927715@oem_hub.\\con6.normal\\(chips):\\3\\",
+			"Logical" : "SWCLK",
+			"Physical" : null
+		},
+		{
+			"Name" : "L1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479349@wk2_library.\\inductor.normal\\(chips):\\2\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "L1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479349@wk2_library.\\inductor.normal\\(chips):\\1\\",
+			"Logical" : "SW",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "LED_RGB_LIN2",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED1.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins848118@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "LED_RGB_LIN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED11.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED11.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "LED_RGB_LIN3",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED11.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N693449",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED11.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874202@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED12.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED12.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N693471",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED12.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N693449",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED12.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins874792@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED13.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED13.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N693471",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED13.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED13.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875070@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N706952",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED14.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED14.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N693613",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED14.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED14.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875350@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N706952",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED15.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED15.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N693635",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED15.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N693613",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED15.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875632@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED16.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED16.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N693635",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED16.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED16.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins875916@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N693717",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED17.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED17.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "LED_RGB_LIN4",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED17.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED17.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876202@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N693717",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED27.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED27.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "LED_RGB_LIN5",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED27.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "LED_RGB_LIN6",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED27.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins879230@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED34.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED34.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688871",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED34.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "LED_RGB_LIN7",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED34.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins876489@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED35.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED35.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688893",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED35.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688871",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED35.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877145@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED36.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED36.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688893",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED36.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688915",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED36.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877437@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED37.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED37.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688915",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED37.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "LED_RGB_LIN8",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED37.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins877731@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED38.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED38.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688647",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED38.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "LED_RGB_LIN8",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED38.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878026@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED39.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED39.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688647",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED39.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688669",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED39.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878323@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED40.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED40.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "N688691",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED40.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688669",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED40.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878623@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED41.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips):VDD",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED41.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips):DI",
+			"Logical" : "N688691",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED41.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "LED41.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins878925@scx.\\ws2812b_7.normal\\(chips):DO",
+			"Logical" : "LED_RGB_LIN9",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q2.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1131754@oem_hub.\\2n7002.normal\\(chips):D",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1131754@oem_hub.\\2n7002.normal\\(chips):G",
+			"Logical" : "USB_SWITCH",
+			"Physical" : null
+		},
+		{
+			"Name" : "Q2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1131754@oem_hub.\\2n7002.normal\\(chips):S",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478633@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "OEMH",
+			"Physical" : null
+		},
+		{
+			"Name" : "R1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478633@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "CAN1_SPLIT",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601968@project_worklib.\\r_r10.normal\\(chips):\\2\\",
+			"Logical" : "N601998",
+			"Physical" : null
+		},
+		{
+			"Name" : "R10.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins601968@project_worklib.\\r_r10.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R123.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481493@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "PG",
+			"Physical" : null
+		},
+		{
+			"Name" : "R123.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481493@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "N477649",
+			"Physical" : null
+		},
+		{
+			"Name" : "R124.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482387@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "N477663",
+			"Physical" : null
+		},
+		{
+			"Name" : "R124.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482387@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "N597302",
+			"Physical" : null
+		},
+		{
+			"Name" : "R125.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481655@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R125.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481655@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "N477673",
+			"Physical" : null
+		},
+		{
+			"Name" : "R126.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482589@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "N477673",
+			"Physical" : null
+		},
+		{
+			"Name" : "R126.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482589@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "FB_VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R127.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481149@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "N477673",
+			"Physical" : null
+		},
+		{
+			"Name" : "R127.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481149@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R128.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479261@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "EN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R128.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479261@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "R129.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478541@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R129.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins478541@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "N477709",
+			"Physical" : null
+		},
+		{
+			"Name" : "R13.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins634703@project_worklib.\\r_r13.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R13.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins634703@project_worklib.\\r_r13.normal\\(chips):\\1\\",
+			"Logical" : "N1048777",
+			"Physical" : null
+		},
+		{
+			"Name" : "R130.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481633@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R130.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481633@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "FB33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R131.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481743@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R131.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481743@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "FB33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602206@project_worklib.\\r_r16.normal\\(chips):\\2\\",
+			"Logical" : "N602224",
+			"Physical" : null
+		},
+		{
+			"Name" : "R16.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602206@project_worklib.\\r_r16.normal\\(chips):\\1\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "R164.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745866@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R164.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745866@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E6",
+			"Physical" : null
+		},
+		{
+			"Name" : "R165.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745850@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R165.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745850@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E5",
+			"Physical" : null
+		},
+		{
+			"Name" : "R166.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745924@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R166.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745924@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E7",
+			"Physical" : null
+		},
+		{
+			"Name" : "R167.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745940@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R167.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins745940@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E8",
+			"Physical" : null
+		},
+		{
+			"Name" : "R18.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602358@project_worklib.\\r_r18.normal\\(chips):\\2\\",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R18.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602358@project_worklib.\\r_r18.normal\\(chips):\\1\\",
+			"Logical" : "USB_DP",
+			"Physical" : null
+		},
+		{
+			"Name" : "R19.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602414@project_worklib.\\r_r19.normal\\(chips):\\1\\",
+			"Logical" : "USB_DM",
+			"Physical" : null
+		},
+		{
+			"Name" : "R19.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602414@project_worklib.\\r_r19.normal\\(chips):\\2\\",
+			"Logical" : "USB_DM1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R193.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602462@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R193.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins602462@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479963@wk2_library.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "OEML",
+			"Physical" : null
+		},
+		{
+			"Name" : "R2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479963@wk2_library.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "CAN1_SPLIT",
+			"Physical" : null
+		},
+		{
+			"Name" : "R206.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764833@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R206.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764833@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R207.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764849@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R207.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins764849@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R208.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765535@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R208.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765535@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R209.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765551@oem_hub.\\r2.normal\\(chips):\\1\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R209.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins765551@oem_hub.\\r2.normal\\(chips):\\2\\",
+			"Logical" : "ENCODER_E4",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816469@project_worklib.\\r_r23.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R23.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins816469@project_worklib.\\r_r23.normal\\(chips):\\1\\",
+			"Logical" : "NRST",
+			"Physical" : null
+		},
+		{
+			"Name" : "R28.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684663@project_worklib.\\r_r28.normal\\(chips):\\1\\",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "R28.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins684663@project_worklib.\\r_r28.normal\\(chips):\\2\\",
+			"Logical" : "LED_RGB_LIN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R29.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773234@project_worklib.\\r_r29.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "R29.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773234@project_worklib.\\r_r29.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R30.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773264@project_worklib.\\r_r30.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R30.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773264@project_worklib.\\r_r30.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "R31.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773294@project_worklib.\\r_r31.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R31.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773294@project_worklib.\\r_r31.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "R32.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773324@project_worklib.\\r_r32.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R32.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773324@project_worklib.\\r_r32.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "R33.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773354@project_worklib.\\r_r33.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R33.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773354@project_worklib.\\r_r33.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "R34.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773384@project_worklib.\\r_r34.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R34.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773384@project_worklib.\\r_r34.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "R35.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773414@project_worklib.\\r_r35.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R35.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773414@project_worklib.\\r_r35.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "R36.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773444@project_worklib.\\r_r36.normal\\(chips):\\2\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "R36.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins773444@project_worklib.\\r_r36.normal\\(chips):\\1\\",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):COM",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):D",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):C",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_B",
+			"Logical" : "ENCODER_E1",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_A",
+			"Logical" : "ENCODER_E2",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_C",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):\\10\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):A",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):B",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW2.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins750729@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):PUSH",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):D",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):C",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):COM",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_B",
+			"Logical" : "ENCODER_E3",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_A",
+			"Logical" : "ENCODER_E4",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):E_C",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):\\10\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):A",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):B",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "SW3.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1149659@scx.\\rkjxt1f42001_sw2_1.normal\\(chips):PUSH",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\4\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\5\\",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\3\\",
+			"Logical" : "ENCODER_E6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U11.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins760530@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):PG",
+			"Logical" : "PG",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):FB",
+			"Logical" : "FB_VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):\\en\/sync\\",
+			"Logical" : "EN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):BST",
+			"Logical" : "N597302",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):\\in\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):VCC",
+			"Logical" : "N477649",
+			"Physical" : null
+		},
+		{
+			"Name" : "U12.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins480479@wk2_library.\\mpq4420agj-z.normal\\(sch_1):SW",
+			"Logical" : "SW",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):\\out\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):PG",
+			"Logical" : "N477709",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):VIN",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):EN",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):EPAD",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):FB",
+			"Logical" : "FB33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U13.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins482861@wk2_library.\\mpq2019gn-z.normal\\(sch_1):PGDL",
+			"Logical" : "N477701",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):VCC",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):GND2",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):GND1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):IRQ",
+			"Logical" : "NRF_IRQ",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):MISO",
+			"Logical" : "NRF_MISO",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):MOSI",
+			"Logical" : "NRF_MOSI",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):SCK",
+			"Logical" : "NRF_SCK",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):CE",
+			"Logical" : "NRF_CE",
+			"Physical" : null
+		},
+		{
+			"Name" : "U16.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins605435@obd.\\e01-ml01sp4_u4_0.normal\\(chips):CSN",
+			"Logical" : "NRF_CS",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):TXD",
+			"Logical" : "CAN1_TX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):RXD",
+			"Logical" : "CAN1_RX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):VCC",
+			"Logical" : "VCC5V",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):GND",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):CANH",
+			"Logical" : "OEMH",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):CANL",
+			"Logical" : "OEML",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):STB",
+			"Logical" : "CAN_STB",
+			"Physical" : null
+		},
+		{
+			"Name" : "U2.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins479895@wk2_library.\\tja1040t.normal\\(sch_1):SPLIT",
+			"Logical" : "CAN1_SPLIT",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\5\\",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\4\\",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\2\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\1\\",
+			"Logical" : "ENCODER_E7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U22.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins886070@scxstandard.\\bx-mx1_1.25-5pwt_u11.normal\\(chips):\\3\\",
+			"Logical" : "ENCODER_E8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\4\\",
+			"Logical" : "USB_DP1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\6\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\2\\",
+			"Logical" : "OEMH",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\3\\",
+			"Logical" : "OEML",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\1\\",
+			"Logical" : "VIN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U4.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins1038652@scx.\\bx-hy2_0.0-6plt_u4.normal\\(chips):\\5\\",
+			"Logical" : "USB_DM1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.19",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA5",
+			"Logical" : "BUTTON_L3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.59",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB6",
+			"Logical" : "CAN1_TX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC13",
+			"Logical" : "BUTTON_H1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.29",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VDDA",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.32",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VDD2",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.64",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VDD6",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.48",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VDD4",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.16",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VDD",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.28",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\vref+\\",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VBAT",
+			"Logical" : "VCC33",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.3",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pc14-osc32_in\\",
+			"Logical" : "BUTTON_H2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.58",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB5",
+			"Logical" : "CAN1_RX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.12",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA0",
+			"Logical" : "BUTTON_H8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.4",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pc15-osc32_out\\",
+			"Logical" : "BUTTON_H3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.49",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA13",
+			"Logical" : "SWDIO",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.42",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA8",
+			"Logical" : "CAN2_RX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.5",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pf0-osc_in\\",
+			"Logical" : "RCC_OSC_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.17",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA3",
+			"Logical" : "BUTTON_L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.60",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB7",
+			"Logical" : "CONTROL3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.54",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC12",
+			"Logical" : "STATUSWATCH1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.52",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC10",
+			"Logical" : "STATUSWATCH3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.26",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB2",
+			"Logical" : "CONTROL1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.41",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC9",
+			"Logical" : "STATUSWATCH4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.55",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PD2",
+			"Logical" : "CONTROL4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.53",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC11",
+			"Logical" : "STATUSWATCH2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.62",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB9",
+			"Logical" : "CONTROL2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.22",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC4",
+			"Logical" : "ENCODER_E1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.23",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC5",
+			"Logical" : "ENCODER_E2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.46",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA12",
+			"Logical" : "USB_DP",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.44",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA10",
+			"Logical" : "USB_SWITCH",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.24",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB0",
+			"Logical" : "ENCODER_E3",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.14",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA2",
+			"Logical" : "ADC2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.25",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB1",
+			"Logical" : "ENCODER_E4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.43",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA9",
+			"Logical" : "ADC1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.20",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA6",
+			"Logical" : "DAC_OUT2",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.18",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA4",
+			"Logical" : "DAC_OUT1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.51",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA15",
+			"Logical" : "CAN2_TX",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.63",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VSS5",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.47",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VSS3",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.15",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VSS",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.27",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VSSA",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.31",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):VSS1",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.61",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pb8-boot0\\",
+			"Logical" : "GND_SIGNAL",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.39",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC7",
+			"Logical" : "ENCODER_E6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.30",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB10",
+			"Logical" : "ENCODER_E5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.40",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC8",
+			"Logical" : "ENCODER_E7",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.56",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB3",
+			"Logical" : "ENCODER_E8",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.38",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC6",
+			"Logical" : "NRF_IRQ",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.9",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC1",
+			"Logical" : "BUTTON_H5",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.8",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC0",
+			"Logical" : "BUTTON_H4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.36",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB14",
+			"Logical" : "NRF_MISO",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.37",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB15",
+			"Logical" : "NRF_MOSI",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.10",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC2",
+			"Logical" : "BUTTON_H6",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.13",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA1",
+			"Logical" : "LED_RGB_LIN1",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.35",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB13",
+			"Logical" : "NRF_SCK",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.21",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA7",
+			"Logical" : "BUTTON_L4",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.33",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB11",
+			"Logical" : "NRF_CE",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.34",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB12",
+			"Logical" : "NRF_CS",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.50",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA14",
+			"Logical" : "SWCLK",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.57",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PB4",
+			"Logical" : "CAN_STB",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.7",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pg10-nrst\\",
+			"Logical" : "NRST",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.45",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PA11",
+			"Logical" : "USB_DM",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.6",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):\\pf1-osc_out\\",
+			"Logical" : "RCC_OSC_OUT",
+			"Physical" : null
+		},
+		{
+			"Name" : "U7.11",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins681945@scx.\\stm32g474rbt6_u7_0.normal\\(chips):PC3",
+			"Logical" : "BUTTON_H7",
+			"Physical" : null
+		},
+		{
+			"Name" : "Y1.1",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481721@wk2_library.\\crystal.normal\\(chips):\\1\\",
+			"Logical" : "RCC_OSC_IN",
+			"Physical" : null
+		},
+		{
+			"Name" : "Y1.2",
+			"C_PATH" : "@scxstandard.schematic1(sch_1):ins481721@wk2_library.\\crystal.normal\\(chips):\\2\\",
+			"Logical" : "RCC_OSC_OUT",
+			"Physical" : null
+		}
+	]
+}

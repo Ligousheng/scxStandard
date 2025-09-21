@@ -1,0 +1,53 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Without Nets Report                                        )
+(                                                                     )
+(    Drawing          : scxStandard.brd                               )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Sat Sep 20 14:16:13 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total shapes not on a net: 34
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (2307.537 1185.015)  Net: Dummy Net
+	Point on shape: (2513.463 1337.985)  Net: Dummy Net
+	Point on shape: (2424.781 1133.827)  Net: Dummy Net
+	Point on shape: (2308.213 1329.878)  Net: Dummy Net
+	Point on shape: (2299.689 1206.847)  Net: Dummy Net
+	Point on shape: (2459.975 1213.032)  Net: Dummy Net
+	Point on shape: (4512.537 1186.015)  Net: Dummy Net
+	Point on shape: (4718.463 1338.985)  Net: Dummy Net
+	Point on shape: (4629.781 1134.827)  Net: Dummy Net
+	Point on shape: (4513.213 1330.878)  Net: Dummy Net
+	Point on shape: (4504.689 1207.847)  Net: Dummy Net
+	Point on shape: (4664.975 1214.032)  Net: Dummy Net
+	Point on shape: (4972.961 1565.110)  Net: Dummy Net
+	Point on shape: (3877.632 704.561)  Net: Dummy Net
+	Point on shape: (3831.848 704.561)  Net: Dummy Net
+	Point on shape: (4605.889 1455.619)  Net: Dummy Net
+	Point on shape: (4767.875 1509.899)  Net: Dummy Net
+	Point on shape: (3699.634 704.561)  Net: Dummy Net
+	Point on shape: (3734.534 649.150)  Net: Dummy Net
+	Point on shape: (3758.061 704.561)  Net: Dummy Net
+	Point on shape: (3553.422 704.561)  Net: Dummy Net
+	Point on shape: (3607.475 704.561)  Net: Dummy Net
+	Point on shape: (3451.929 704.561)  Net: Dummy Net
+	Point on shape: (3398.462 704.561)  Net: Dummy Net
+	Point on shape: (3379.893 649.150)  Net: Dummy Net
+	Point on shape: (4251.248 1565.111)  Net: Dummy Net
+	Point on shape: (4057.205 1455.619)  Net: Dummy Net
+	Point on shape: (4219.191 1509.899)  Net: Dummy Net
+	Point on shape: (3261.092 704.561)  Net: Dummy Net
+	Point on shape: (3321.950 704.561)  Net: Dummy Net
+	Point on shape: (3979.777 1529.507)  Net: Dummy Net
+	Point on shape: (3092.136 704.561)  Net: Dummy Net
+	Point on shape: (3540.686 653.333)  Net: Dummy Net
+	Point on shape: (4295.197 1565.111)  Net: Dummy Net
+
+    To suppress in report attach OK_UNASSIGNED_SHAPE property to shape.

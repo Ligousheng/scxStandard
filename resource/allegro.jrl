@@ -1,0 +1,2282 @@
+\t (00:00:03) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Thu Sep 18 20:13:09 2025
+\t (00:00:03)         Host=PC-202406191957 User=Administrator Pid=38940 CPUs=32
+\t (00:00:03) CmdLine= D:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:06) shapeedit 
+\i (00:00:51) trapsize 483
+\i (00:00:51) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:51) opencd C:/CenturyPlan/scxStandard/resource/scxStandard.brd 
+\e (00:00:51) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:57) fillin no 
+\t (00:00:57) Opening existing design...
+\i (00:00:57) trapsize 112239
+\i (00:00:58) fillin no 
+\d (00:00:58) Design opened: C:/CenturyPlan/scxStandard/resource/scxStandard.brd
+\i (00:00:58) shapeedit 
+\i (00:01:07) color192 
+\i (00:01:07) shapeedit 
+\i (00:01:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:01:12) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:12) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:12) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:16) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:01:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:18) zoom in 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom in 3689.480 2769.955
+\i (00:01:18) trapsize 56120
+\i (00:01:21) delete 
+\i (00:01:21) drag_start grid -1518.432 7248.310
+\i (00:01:22) drag_stop 8021.924 -428.870
+\i (00:01:22) prepopup 9211.663 -148.272
+\i (00:01:23) oops 
+\i (00:01:23) pick grid 9211.663 -148.272
+\t (00:01:23) last pick:  9210.000 -150.000
+\i (00:01:24) drag_start grid -1922.494 7484.013
+\i (00:01:24) drag_stop 10928.927 -1450.250
+\i (00:01:24) prepopup 10659.552 289.462
+\i (00:01:25) done 
+\i (00:01:25) shapeedit 
+\i (00:01:30) dxf in 
+\i (00:01:31) setwindow form.dxfInMain
+\i (00:01:31) FORM dxfInMain browsedxf  
+\i (00:01:34) fillin "D:/Backup/Documents/OUTLINEFinal.dxf"
+   (00:01:34) Loading mfg.cxt 
+\i (00:01:36) FORM dxfInMain texttable YES 
+\i (00:01:36) FORM dxfInMain incremental YES 
+\i (00:01:37) fillin yes 
+\i (00:01:39) FORM dxfInMain editcnvprofile  
+\i (00:01:39) fillin yes 
+\i (00:01:41) setwindow form.dxfInMapping
+\i (00:01:41) FORM dxfInMapping done  
+\i (00:01:41) setwindow form.dxfInMain
+\i (00:01:41) FORM dxfInMain import  
+\t (00:01:41) Starting dxf2a...
+\t (00:01:42) Opening existing design...
+\i (00:01:42) setwindow pcb
+\i (00:01:42) trapsize 56120
+\i (00:01:45) setwindow form.dxfInMain
+\i (00:01:45) FORM dxfInMain units MM 
+\i (00:01:46) FORM dxfInMain import  
+\t (00:01:46) Starting dxf2a...
+\t (00:01:46) Opening existing design...
+\i (00:01:46) setwindow pcb
+\i (00:01:46) trapsize 56120
+\i (00:01:49) setwindow form.dxfInMain
+\i (00:01:49) FORM dxfInMain cancel  
+\i (00:01:50) setwindow pcb
+\i (00:01:50) shapeedit 
+\i (00:01:50) drag_start grid -362.365 165.999
+\i (00:01:51) drag_stop 715.134 -181.943
+\i (00:01:51) drag_start grid -418.485 311.910
+\i (00:01:52) drag_stop 456.983 -383.974
+\i (00:01:53) delete 
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) Selected item not valid for current operation, ignored: Arc Segment "Board Geometry/Dxf"
+\t (00:01:53) No valid items selected for the current operation, exiting.
+\i (00:01:53) shapeedit 
+\i (00:01:54) prepopup -1832.702 1860.815
+\i (00:01:54) pick grid -2562.259 1187.378
+\t (00:01:54) last pick:  -2560.000 1185.000
+\i (00:01:55) prepopup -2236.765 918.004
+\i (00:01:55) pick grid -2876.530 1546.545
+\t (00:01:55) last pick:  -2875.000 1545.000
+\i (00:01:56) delete 
+\i (00:01:57) drag_start grid -384.813 334.358
+\i (00:01:58) drag_stop 804.925 -395.198
+\i (00:01:58) prepopup 1871.201 -305.407
+\i (00:01:59) done 
+\i (00:01:59) shapeedit 
+\i (00:02:13) color192 
+\i (00:02:13) shapeedit 
+\i (00:02:16) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:02:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:02:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:02:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:02:22) zoom in 1 
+\i (00:02:22) setwindow pcb
+\i (00:02:22) zoom in 311.072 3690.319
+\i (00:02:22) trapsize 28060
+\i (00:02:23) zoom out 1 
+\i (00:02:23) setwindow pcb
+\i (00:02:23) zoom out 355.968 3471.452
+\i (00:02:23) trapsize 56120
+\i (00:02:31) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 0
+\i (00:02:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:02:31) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:02:34) move 
+\t (00:02:34) Select element(s) to move.
+\i (00:02:34) drag_start grid -1484.759 8028.376
+\i (00:02:35) drag_stop 9424.919 283.851
+\i (00:02:36) prepopup 11344.214 2584.761
+\i (00:02:37) pick grid 12444.161 4144.890
+\t (00:02:37) last pick:  12445.000 4145.000
+\i (00:02:38) setwindow form.find
+\i (00:02:38) FORM find all_on  
+\i (00:02:38) setwindow pcb
+\i (00:02:38) drag_start grid -1136.817 7310.043
+\i (00:02:39) drag_stop 11029.943 -187.554
+\i (00:02:45) pick grid 5440.417 4807.103
+\t (00:02:45) last pick:  5440.000 4805.000
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Element has no origin, using pick.
+\t (00:02:45) Pick new location for the element(s).
+\i (00:02:58) pick 0 0 
+\t (00:02:58) last pick:  0.000 0.000
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 5765.912 1103.200
+\i (00:02:59) trapsize 112239
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 7932.132 -1001.292
+\i (00:02:59) trapsize 112239
+\i (00:03:01) zoom in 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom in 30.473 -13.584
+\i (00:03:01) trapsize 56120
+\i (00:03:01) zoom out 1 
+\i (00:03:01) setwindow pcb
+\i (00:03:01) zoom out 30.473 -13.584
+\i (00:03:01) trapsize 112239
+\i (00:03:06) drag_start grid -6254.939 3218.913
+\i (00:03:06) drag_stop 4407.813 -4458.268
+\i (00:03:09) prepopup -3359.160 -3201.185
+\i (00:03:21) prepopup 5081.250 53.760
+\i (00:03:22) oops 
+\t (00:03:22) last pick:  5440.000 4805.000
+\t (00:03:22) Select element(s) to move.
+\i (00:03:22) pick grid 4407.813 233.343
+\t (00:03:22) last pick:  4410.000 235.000
+\i (00:03:22) zoom in 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom in 187.608 547.613
+\i (00:03:22) trapsize 56120
+\i (00:03:22) zoom in 1 
+\i (00:03:22) setwindow pcb
+\i (00:03:22) zoom in 187.608 547.613
+\i (00:03:22) trapsize 28060
+\i (00:03:23) zoom in 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom in 193.221 542.001
+\i (00:03:23) trapsize 14030
+\i (00:03:23) zoom out 1 
+\i (00:03:23) setwindow pcb
+\i (00:03:23) zoom out 616.925 550.419
+\i (00:03:23) trapsize 28060
+\i (00:03:32) zoom out 1 
+\i (00:03:32) setwindow pcb
+\i (00:03:32) zoom out 414.895 -162.302
+\i (00:03:32) trapsize 56120
+\i (00:03:33) prepopup 167.967 -240.869
+\i (00:03:37) pick grid 4118.797 1790.666
+\t (00:03:37) last pick:  4120.000 1790.000
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 235.311 2722.253
+\i (00:03:38) trapsize 112239
+\i (00:03:38) zoom out 1 
+\i (00:03:38) setwindow pcb
+\i (00:03:38) zoom out 2409.950 3488.288
+\i (00:03:38) trapsize 112239
+\i (00:03:39) drag_start grid -5828.429 2680.164
+\i (00:03:39) drag_stop 3711.928 -4570.507
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 187.608 -238.063
+\i (00:03:40) trapsize 56120
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 176.384 -249.287
+\i (00:03:40) trapsize 28060
+\i (00:03:40) zoom in 1 
+\i (00:03:40) setwindow pcb
+\i (00:03:40) zoom in 176.385 -254.899
+\i (00:03:40) trapsize 14030
+\i (00:03:40) prepopup 151.131 -226.839
+\i (00:03:46) pick grid 2320.159 -123.017
+\t (00:03:46) last pick:  2320.000 -125.000
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Element has no origin, using pick.
+\t (00:03:46) Pick new location for the element(s).
+\i (00:03:47) pick grid 2393.115 81.820
+\t (00:03:47) last pick:  2395.000 80.000
+\i (00:03:48) prepopup 2393.115 81.820
+\i (00:03:48) pick grid 2090.069 98.656
+\t (00:03:48) last pick:  2090.000 100.000
+\i (00:03:50) pick grid -62.124 115.492
+\t (00:03:50) last pick:  -60.000 115.000
+\t (00:03:50) last pick:  -60.000 115.000
+\t (00:03:50) Element has no origin, using pick.
+\t (00:03:50) Pick new location for the element(s).
+\i (00:03:51) prepopup -182.781 121.104
+\i (00:03:52) cancel 
+\i (00:03:53) shapeedit 
+\i (00:03:59) compose shape 
+   (00:03:59) Loading apt.cxt 
+   (00:03:59) Loading apt_utils.cxt 
+\i (00:04:02) setwindow form.mini
+\i (00:04:02) FORM mini class BOARD GEOMETRY 
+\i (00:04:04) FORM mini subclass DXF 
+\i (00:04:06) setwindow pcb
+\i (00:04:06) drag_start -424.096 222.119
+\i (00:04:07) drag_stop 392.446 -507.437
+\i (00:04:08) prepopup 395.252 -330.660
+\i (00:04:08) pop Done 
+\i (00:04:08) shapeedit 
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 2137.770 -72.509
+\i (00:04:09) trapsize 28060
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 2148.995 -89.346
+\i (00:04:09) trapsize 56120
+\i (00:04:09) zoom out 1 
+\i (00:04:09) setwindow pcb
+\i (00:04:09) zoom out 2216.338 -123.017
+\i (00:04:09) trapsize 112239
+\i (00:04:10) zoom in 1 
+\i (00:04:10) setwindow pcb
+\i (00:04:10) zoom in -2887.754 -238.063
+\i (00:04:10) trapsize 56120
+\i (00:04:11) roam start
+\i (00:04:11) roam x -16
+\i (00:04:11) roam y 64
+\i (00:04:11) roam x -32
+\i (00:04:11) roam y 64
+\i (00:04:11) roam x -16
+\i (00:04:11) roam y 64
+\i (00:04:11) roam x -32
+\i (00:04:11) roam y 48
+\i (00:04:11) roam y 32
+\i (00:04:11) roam x -16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam y -32
+\i (00:04:11) roam x 16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam y -32
+\i (00:04:11) roam y -16
+\i (00:04:11) roam x 16
+\i (00:04:11) roam y -16
+\i (00:04:12) roam end
+\i (00:04:18) color192 
+\i (00:04:18) shapeedit 
+\i (00:04:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:04:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:04:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:04:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:04:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:04:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:04:22) zoom in 1 
+\i (00:04:22) setwindow pcb
+\i (00:04:22) zoom in 5395.520 3364.824
+\i (00:04:22) trapsize 28060
+\i (00:04:22) roam start
+\i (00:04:22) roam y -16
+\i (00:04:22) roam x 16
+\i (00:04:22) roam y -64
+\i (00:04:23) roam y -16
+\i (00:04:23) roam y -16
+\i (00:04:23) roam y -48
+\i (00:04:23) roam y -32
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y -16
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y -16
+\i (00:04:23) roam end
+\i (00:04:25) drag_start grid 4374.140 3965.305
+\i (00:04:26) drag_stop 5053.189 3319.928
+\i (00:04:30) compose shape 
+\i (00:04:34) setwindow form.mini
+\i (00:04:34) FORM mini class BOARD GEOMETRY 
+\i (00:04:36) FORM mini subclass OUTLINE 
+\i (00:04:40) setwindow pcb
+\i (00:04:40) drag_start 4329.244 3965.305
+\i (00:04:41) drag_stop 5036.353 3319.928
+\i (00:04:49) prepopup 5142.981 3291.868
+\i (00:04:50) pop Undo 
+\i (00:04:55) drag_start 4323.632 3954.081
+\i (00:04:56) drag_stop 5086.861 3196.465
+\i (00:05:02) setwindow form.find
+\i (00:05:02) FORM find all_on  
+\i (00:05:03) FORM find all_on  
+\i (00:05:03) FORM find all_on  
+\i (00:05:03) FORM find all_on  
+\i (00:05:05) setwindow pcb
+\i (00:05:05) drag_start 5255.220 3802.558
+\i (00:05:05) drag_stop 5715.402 3404.108
+\i (00:05:06) prepopup 5951.105 3673.482
+\i (00:05:08) pop Undo 
+\i (00:05:09) prepopup 5704.178 3813.782
+\i (00:05:09) pop Done 
+\i (00:05:09) shapeedit 
+\i (00:05:10) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:05:11) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:05:12) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:05:16) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:05:19) prepopup 7191.351 3740.826
+\i (00:05:20) pick grid 6618.930 3690.318
+\t (00:05:20) last pick:  6619.000 3690.500
+\i (00:05:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:05:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:05:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:23) zoom out 1 
+\i (00:05:23) setwindow pcb
+\i (00:05:23) zoom out 5395.520 3499.511
+\i (00:05:23) trapsize 56120
+\i (00:05:27) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Silkscreen_Bottom BrdGeo 1
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:05:27) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:29) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Silkscreen_Top BrdGeo 1
+\i (00:05:29) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:05:29) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:32) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Silkscreen_Top BrdGeo 0
+\i (00:05:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 18 0
+\i (00:05:32) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:32) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Silkscreen_Bottom BrdGeo 0
+\i (00:05:32) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:05:32) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:33) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 0
+\i (00:05:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:05:33) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:34) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:05:34) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:05:34) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:35) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Keepout BrdGeo 1
+\i (00:05:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:05:35) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:39) zoom in 1 
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom in 1444.689 884.332
+\i (00:05:39) trapsize 28060
+\i (00:05:39) zoom in 1 
+\i (00:05:39) setwindow pcb
+\i (00:05:39) zoom in 1439.078 906.780
+\i (00:05:39) trapsize 14030
+\i (00:05:41) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:05:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:05:41) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:05:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:05:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:46) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Keepout BrdGeo 0
+\i (00:05:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 9 0
+\i (00:05:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:47) zoom out 1 
+\i (00:05:47) setwindow pcb
+\i (00:05:47) zoom out 4273.125 1574.606
+\i (00:05:47) trapsize 28060
+\i (00:05:48) zoom out 1 
+\i (00:05:48) setwindow pcb
+\i (00:05:48) zoom out 4172.110 1552.157
+\i (00:05:48) trapsize 56120
+\i (00:05:48) roam start
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -32
+\i (00:05:49) roam x 16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam x 16
+\i (00:05:49) roam y -16
+\i (00:05:50) roam x 16
+\i (00:05:50) roam y -16
+\i (00:05:50) roam x 16
+\i (00:05:50) roam y -16
+\i (00:05:50) roam end
+\i (00:05:53) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:05:53) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:05:53) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 0
+\i (00:05:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:05:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:55) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:05:55) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:05:55) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:56) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:56) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:05:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:05:57) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:05:58) zoom in 1 
+\i (00:05:58) setwindow pcb
+\i (00:05:58) zoom in 4665.963 3645.423
+\i (00:05:58) trapsize 28060
+\i (00:05:59) zoom in 1 
+\i (00:05:59) setwindow pcb
+\i (00:05:59) zoom in 4710.859 3634.199
+\i (00:05:59) trapsize 14030
+\i (00:06:03) compose shape 
+\i (00:06:04) drag_start 4444.290 3911.992
+\i (00:06:05) drag_stop 4250.677 4201.009
+\t (00:06:06) No Element Found.
+\i (00:06:08) setwindow form.mini
+\i (00:06:08) FORM mini class BOARD GEOMETRY 
+\i (00:06:09) FORM mini subclass DIMENSION 
+\i (00:06:11) FORM mini subclass DXF 
+\i (00:06:11) setwindow pcb
+\i (00:06:11) drag_start 4320.827 3984.948
+\i (00:06:15) drag_stop 4834.322 4041.068
+\t (00:06:15) No Element Found.
+\i (00:06:16) setwindow form.mini
+\i (00:06:16) FORM mini cleanup_selected NO 
+\i (00:06:18) setwindow pcb
+\i (00:06:18) drag_start 4354.499 3982.142
+\i (00:06:18) drag_stop 5047.577 3261.003
+\w (00:06:18) WARNING(SPMHIS-473): 1 selected items completely overlapped with segments from other selected items and have been filtered.
+\i (00:06:19) prepopup 5050.383 3311.511
+\i (00:06:20) pop Done 
+\i (00:06:20) shapeedit 
+\i (00:06:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:06:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:06:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:06:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 0
+\i (00:06:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:06:24) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out 4059.870 4057.904
+\i (00:06:24) trapsize 28060
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out 4065.482 4057.904
+\i (00:06:24) trapsize 56120
+\i (00:06:24) zoom out 1 
+\i (00:06:24) setwindow pcb
+\i (00:06:24) zoom out 4065.481 4057.903
+\i (00:06:24) trapsize 112239
+\i (00:06:25) zoom in 1 
+\i (00:06:25) setwindow pcb
+\i (00:06:25) zoom in -3359.160 -1270.666
+\i (00:06:25) trapsize 56120
+\i (00:06:26) roam start
+\i (00:06:26) roam x -48
+\i (00:06:26) roam y 48
+\i (00:06:26) roam x -32
+\i (00:06:26) roam y 32
+\i (00:06:26) roam x -48
+\i (00:06:26) roam y 48
+\i (00:06:26) roam end
+\i (00:06:27) drag_start grid -5660.070 3174.017
+\i (00:06:27) roam y 16
+\i (00:06:27) roam y 16
+\i (00:06:28) drag_stop 2814.012 -4065.429
+\i (00:06:29) prepopup 2959.923 -24.808
+\i (00:06:30) pick grid 2578.309 267.015
+\t (00:06:30) last pick:  2578.500 267.000
+\i (00:06:34) move 
+\t (00:06:34) Select element(s) to move.
+\i (00:06:37) drag_start grid -5794.757 2994.434
+\i (00:06:38) drag_stop 2971.147 -4087.877
+\i (00:06:40) prepopup -25.647 -125.823
+\i (00:06:42) pop dyn_option_select 'Snap pick to@:@Shape Center' 
+\t (00:06:42) last pick:  3.360 -119.178
+\i (00:06:44) pick grid 3768.047 1524.097
+\t (00:06:44) last pick:  3768.000 1524.000
+\i (00:06:45) setwindow form.find
+\i (00:06:45) FORM find all_on  
+\i (00:06:46) setwindow pcb
+\i (00:06:46) drag_start grid -5862.101 2837.299
+\i (00:06:47) drag_stop 4037.422 -4245.012
+\i (00:06:47) prepopup -81.767 -80.927
+\i (00:06:50) pop dyn_option_select 'Snap pick to@:@Shape Center' 
+\t (00:06:50) last pick:  3.360 -119.178
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Element has no origin, using pick.
+\t (00:06:50) Pick new location for the element(s).
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4654.739 3780.111
+\i (00:06:53) trapsize 28060
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4654.739 3780.111
+\i (00:06:53) trapsize 14030
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4738.919 3839.037
+\i (00:06:53) trapsize 7015
+\i (00:06:53) zoom in 1 
+\i (00:06:53) setwindow pcb
+\i (00:06:53) zoom in 4733.307 3816.590
+\i (00:06:53) trapsize 3507
+\i (00:06:56) prepopup 4463.231 3651.037
+\i (00:07:00) pop dyn_option_select 'Snap pick to@:@Shape Center' 
+\t (00:07:00) last pick:  4708.011 3644.251
+\i (00:07:01) zoom out 1 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) zoom out 4372.737 3801.157
+\i (00:07:01) trapsize 7015
+\i (00:07:01) zoom out 1 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) zoom out 4458.321 3767.486
+\i (00:07:01) trapsize 14030
+\i (00:07:01) zoom out 1 
+\i (00:07:01) setwindow pcb
+\i (00:07:01) zoom out 4593.008 3773.098
+\i (00:07:01) trapsize 28060
+\i (00:07:02) roam start
+\i (00:07:02) roam x -32
+\i (00:07:02) roam y -48
+\i (00:07:02) roam x -16
+\i (00:07:02) roam y -32
+\i (00:07:02) roam x -32
+\i (00:07:02) roam y -16
+\i (00:07:02) roam x -48
+\i (00:07:02) roam y -32
+\i (00:07:02) roam x -64
+\i (00:07:02) roam y -48
+\i (00:07:02) roam x -32
+\i (00:07:02) roam y -16
+\i (00:07:03) roam x -16
+\i (00:07:03) roam y 16
+\i (00:07:03) roam x -16
+\i (00:07:03) roam y 16
+\i (00:07:03) roam x -32
+\i (00:07:03) roam y 32
+\i (00:07:03) roam x -16
+\i (00:07:03) roam y 16
+\i (00:07:03) roam x 16
+\i (00:07:03) roam y -16
+\i (00:07:03) roam x 16
+\i (00:07:03) roam x 16
+\i (00:07:03) roam y -16
+\i (00:07:03) roam y -16
+\i (00:07:04) roam end
+\i (00:07:13) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:13) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:13) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:14) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:07:14) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:07:14) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:15) zoom out 1 
+\i (00:07:15) setwindow pcb
+\i (00:07:15) zoom out 2909.422 1989.894
+\i (00:07:15) trapsize 56120
+\i (00:07:15) roam start
+\i (00:07:15) roam x -32
+\i (00:07:15) roam x -96
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -80
+\i (00:07:15) roam y 16
+\i (00:07:15) roam x -64
+\i (00:07:15) roam end
+\i (00:07:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:07:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 0
+\i (00:07:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:07:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:23) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:07:23) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:07:23) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:07:24) zoom in 1 
+\i (00:07:24) setwindow pcb
+\i (00:07:24) zoom in 5047.585 3970.922
+\i (00:07:24) trapsize 28060
+\i (00:07:24) zoom in 1 
+\i (00:07:24) setwindow pcb
+\i (00:07:24) zoom in 4873.614 3656.652
+\i (00:07:24) trapsize 14030
+\i (00:07:24) zoom in 1 
+\i (00:07:24) setwindow pcb
+\i (00:07:24) zoom in 4778.210 3561.249
+\i (00:07:24) trapsize 7015
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 4796.449 3656.653
+\i (00:07:33) trapsize 14030
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 4796.450 3656.653
+\i (00:07:33) trapsize 28060
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 4796.449 3656.653
+\i (00:07:33) trapsize 56120
+\i (00:07:33) zoom out 1 
+\i (00:07:33) setwindow pcb
+\i (00:07:33) zoom out 4796.449 3645.429
+\i (00:07:33) trapsize 112239
+\i (00:07:34) zoom in 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom in 2971.147 2994.434
+\i (00:07:34) trapsize 56120
+\i (00:07:34) zoom in 1 
+\i (00:07:34) setwindow pcb
+\i (00:07:34) zoom in 2971.147 2971.987
+\i (00:07:34) trapsize 28060
+\i (00:07:35) roam start
+\i (00:07:35) roam x -32
+\i (00:07:35) roam y 64
+\i (00:07:35) roam x -64
+\i (00:07:35) roam y 80
+\i (00:07:35) roam x -64
+\i (00:07:35) roam y 80
+\i (00:07:35) roam x -32
+\i (00:07:35) roam y 48
+\i (00:07:35) roam x -32
+\i (00:07:35) roam y 32
+\i (00:07:35) roam y 32
+\i (00:07:35) roam end
+\i (00:07:36) zoom in 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom in 3616.524 923.615
+\i (00:07:36) trapsize 14030
+\i (00:07:36) zoom out 1 
+\i (00:07:36) setwindow pcb
+\i (00:07:36) zoom out 3731.570 923.615
+\i (00:07:36) trapsize 28060
+\i (00:07:37) roam start
+\i (00:07:37) roam x 16
+\i (00:07:37) roam y -64
+\i (00:07:37) roam y -16
+\i (00:07:37) roam y -48
+\i (00:07:37) roam y -80
+\i (00:07:37) roam end
+\i (00:07:41) decompose shape 
+\i (00:07:46) setwindow form.mini
+\i (00:07:46) FORM mini class BOARD GEOMETRY 
+\i (00:07:48) FORM mini subclass DXF 
+\i (00:07:49) setwindow pcb
+\i (00:07:49) drag_start 4463.932 3948.470
+\i (00:07:50) drag_stop 5041.965 3179.629
+\i (00:07:54) prepopup 5120.533 4015.813
+\i (00:07:54) pop Done 
+\i (00:07:54) shapeedit 
+\i (00:07:56) delete 
+\i (00:07:57) pick grid 4800.650 3634.199
+\t (00:07:57) last pick:  4800.500 3634.000
+\t (00:07:57) Shape "Board Geometry/Dxf"
+\i (00:07:57) pick grid dbl 4800.650 3634.199
+\t (00:07:57) last pick:  4800.500 3634.000
+\t (00:07:57) Shape "Board Geometry/Dxf"
+\i (00:07:58) pick grid 4750.142 3578.079
+\t (00:07:58) last pick:  4750.000 3578.000
+\i (00:07:59) prepopup 4750.142 3578.079
+\i (00:07:59) done 
+\i (00:07:59) shapeedit 
+\i (00:08:00) zoom out 1 
+\i (00:08:00) setwindow pcb
+\i (00:08:00) zoom out 4755.754 3398.496
+\i (00:08:00) trapsize 56120
+\i (00:08:00) roam start
+\i (00:08:00) roam y -48
+\i (00:08:00) roam y -16
+\i (00:08:00) roam y -16
+\i (00:08:00) roam end
+\i (00:08:02) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf2 BrdGeo 1
+\i (00:08:02) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:08:02) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:03) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf2 BrdGeo 0
+\i (00:08:03) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 8 0
+\i (00:08:03) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:04) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:04) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:04) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 6854.633 5474.927
+\i (00:08:16) trapsize 28060
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 6927.589 5452.479
+\i (00:08:16) trapsize 14030
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 6969.679 5458.092
+\i (00:08:16) trapsize 7015
+\i (00:08:16) zoom in 1 
+\i (00:08:16) setwindow pcb
+\i (00:08:16) zoom in 6969.679 5452.481
+\i (00:08:16) trapsize 3507
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 6706.618 5158.554
+\i (00:08:17) trapsize 1754
+\i (00:08:17) zoom in 1 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 6706.618 5158.554
+\i (00:08:17) trapsize 877
+\i (00:08:18) zoom out 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom out 6731.170 5176.092
+\i (00:08:18) trapsize 1754
+\i (00:08:18) zoom out 1 
+\i (00:08:18) setwindow pcb
+\i (00:08:18) zoom out 6731.171 5176.092
+\i (00:08:18) trapsize 3507
+\i (00:08:22) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:08:22) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:08:22) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:23) zoom in 1 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom in 6764.842 5193.629
+\i (00:08:23) trapsize 1754
+\i (00:08:23) zoom in 1 
+\i (00:08:23) setwindow pcb
+\i (00:08:23) zoom in 6764.843 5193.630
+\i (00:08:23) trapsize 877
+\i (00:08:25) roam start
+\i (00:08:25) roam y 16
+\i (00:08:25) roam x 32
+\i (00:08:25) roam y 48
+\i (00:08:25) roam x 16
+\i (00:08:25) roam y 16
+\i (00:08:25) roam x 32
+\i (00:08:25) roam y 48
+\i (00:08:25) roam x 16
+\i (00:08:25) roam y 32
+\i (00:08:25) roam x 16
+\i (00:08:25) roam y 32
+\i (00:08:25) roam end
+\i (00:08:26) zoom out 1 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) zoom out 6787.965 5156.081
+\i (00:08:26) trapsize 1754
+\i (00:08:26) zoom out 1 
+\i (00:08:26) setwindow pcb
+\i (00:08:26) zoom out 6788.315 5155.730
+\i (00:08:26) trapsize 3507
+\i (00:08:27) zoom out 1 
+\i (00:08:27) setwindow pcb
+\i (00:08:27) zoom out 6791.122 5171.865
+\i (00:08:27) trapsize 7015
+\i (00:08:27) roam start
+\i (00:08:27) roam y 16
+\i (00:08:27) roam x 48
+\i (00:08:27) roam y 64
+\i (00:08:27) roam x 128
+\i (00:08:27) roam y 128
+\i (00:08:27) roam x 64
+\i (00:08:27) roam y 64
+\i (00:08:27) roam x -16
+\i (00:08:27) roam y -16
+\i (00:08:27) roam x -32
+\i (00:08:27) roam y -64
+\i (00:08:27) roam x -128
+\i (00:08:27) roam y -144
+\i (00:08:27) roam x -128
+\i (00:08:27) roam y -144
+\i (00:08:27) roam x -80
+\i (00:08:27) roam y -128
+\i (00:08:27) roam x -64
+\i (00:08:27) roam y -64
+\i (00:08:28) roam x -48
+\i (00:08:28) roam y -64
+\i (00:08:28) roam x -16
+\i (00:08:28) roam y -48
+\i (00:08:28) roam end
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in 5952.483 5817.241
+\i (00:08:28) trapsize 3507
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in 5953.185 5817.942
+\i (00:08:28) trapsize 1754
+\i (00:08:28) zoom in 1 
+\i (00:08:28) setwindow pcb
+\i (00:08:28) zoom in 5964.058 5823.554
+\i (00:08:28) trapsize 877
+\i (00:08:30) zoom out 1 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out 5970.547 5823.729
+\i (00:08:30) trapsize 1754
+\i (00:08:31) roam start
+\i (00:08:31) roam x 48
+\i (00:08:31) roam x 336
+\i (00:08:31) roam x 480
+\i (00:08:31) roam x 368
+\i (00:08:31) roam y -48
+\i (00:08:31) roam x 192
+\i (00:08:31) roam y -32
+\i (00:08:31) roam x 48
+\i (00:08:31) roam x -16
+\i (00:08:31) roam x -112
+\i (00:08:31) roam x -176
+\i (00:08:31) roam y 16
+\i (00:08:31) roam x -96
+\i (00:08:31) roam x -128
+\i (00:08:31) roam x -144
+\i (00:08:31) roam x -192
+\i (00:08:31) roam y 16
+\i (00:08:31) roam x -160
+\i (00:08:31) roam y 32
+\i (00:08:31) roam x -160
+\i (00:08:31) roam y 48
+\i (00:08:31) roam end
+\i (00:08:32) zoom out 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom out 5923.722 5775.853
+\i (00:08:32) trapsize 3507
+\i (00:08:32) zoom out 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom out 5923.722 5775.853
+\i (00:08:32) trapsize 7015
+\i (00:08:32) zoom out 1 
+\i (00:08:32) setwindow pcb
+\i (00:08:32) zoom out 5932.140 5780.063
+\i (00:08:32) trapsize 14030
+\i (00:08:32) roam start
+\i (00:08:33) roam x -48
+\i (00:08:33) roam y 16
+\i (00:08:33) roam x -32
+\i (00:08:33) roam y 32
+\i (00:08:33) roam x -64
+\i (00:08:33) roam y 48
+\i (00:08:33) roam x -64
+\i (00:08:33) roam y 80
+\i (00:08:33) roam x -64
+\i (00:08:33) roam y 112
+\i (00:08:33) roam x -32
+\i (00:08:33) roam y 80
+\i (00:08:33) roam end
+\i (00:08:33) zoom in 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom in 5330.958 5331.806
+\i (00:08:33) trapsize 7015
+\i (00:08:33) zoom in 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom in 5333.764 5331.806
+\i (00:08:33) trapsize 3507
+\i (00:08:33) zoom in 1 
+\i (00:08:33) setwindow pcb
+\i (00:08:33) zoom in 5340.779 5326.194
+\i (00:08:33) trapsize 1754
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out 5353.757 5320.232
+\i (00:08:34) trapsize 3507
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out 5352.355 5314.620
+\i (00:08:34) trapsize 7015
+\i (00:08:34) zoom out 1 
+\i (00:08:34) setwindow pcb
+\i (00:08:34) zoom out 5339.728 5301.993
+\i (00:08:34) trapsize 14030
+\i (00:08:34) roam start
+\i (00:08:35) roam x -16
+\i (00:08:35) roam x -48
+\i (00:08:35) roam x -176
+\i (00:08:35) roam y 16
+\i (00:08:35) roam x -160
+\i (00:08:35) roam y 16
+\i (00:08:35) roam x -128
+\i (00:08:35) roam y 16
+\i (00:08:35) roam end
+\i (00:08:35) roam start
+\i (00:08:35) roam x -64
+\i (00:08:35) roam x -64
+\i (00:08:35) roam y -16
+\i (00:08:35) roam x -96
+\i (00:08:35) roam y -16
+\i (00:08:35) roam x -64
+\i (00:08:35) roam y -16
+\i (00:08:35) roam end
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in 2014.285 5286.911
+\i (00:08:36) trapsize 7015
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in 2017.092 5286.911
+\i (00:08:36) trapsize 3507
+\i (00:08:36) zoom in 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom in 2017.092 5286.911
+\i (00:08:36) trapsize 1754
+\i (00:08:36) zoom out 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 2044.451 5283.053
+\i (00:08:36) trapsize 3507
+\i (00:08:36) zoom out 1 
+\i (00:08:36) setwindow pcb
+\i (00:08:36) zoom out 2045.152 5282.352
+\i (00:08:36) trapsize 7015
+\i (00:08:37) roam start
+\i (00:08:37) roam x -64
+\i (00:08:37) roam x -80
+\i (00:08:37) roam y -32
+\i (00:08:37) roam x -160
+\i (00:08:37) roam y -32
+\i (00:08:37) roam x -96
+\i (00:08:37) roam y -32
+\i (00:08:37) roam x -96
+\i (00:08:37) roam y -48
+\i (00:08:37) roam x -64
+\i (00:08:37) roam y -32
+\i (00:08:37) roam x -48
+\i (00:08:37) roam y -16
+\i (00:08:37) roam end
+\i (00:08:37) zoom in 1 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom in 1502.193 5773.748
+\i (00:08:37) trapsize 3507
+\i (00:08:37) zoom in 1 
+\i (00:08:37) setwindow pcb
+\i (00:08:37) zoom in 1499.387 5774.450
+\i (00:08:37) trapsize 1754
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 1598.298 5643.271
+\i (00:08:39) trapsize 3507
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 1612.328 5604.688
+\i (00:08:39) trapsize 7015
+\i (00:08:39) zoom out 1 
+\i (00:08:39) setwindow pcb
+\i (00:08:39) zoom out 1616.537 5604.688
+\i (00:08:39) trapsize 14030
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in 1638.984 5270.775
+\i (00:08:40) trapsize 7015
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in 1636.179 5269.373
+\i (00:08:40) trapsize 3507
+\i (00:08:40) zoom in 1 
+\i (00:08:40) setwindow pcb
+\i (00:08:40) zoom in 1632.672 5266.567
+\i (00:08:40) trapsize 1754
+\i (00:08:41) zoom in 1 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom in 1643.896 5285.157
+\i (00:08:41) trapsize 877
+\i (00:08:43) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:43) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:44) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:44) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:44) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:45) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:08:45) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:46) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:08:46) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:08:46) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:08:48) zoom out 1 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) zoom out 1673.710 5305.676
+\i (00:08:48) trapsize 1754
+\i (00:08:48) zoom out 1 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) zoom out 1673.710 5305.677
+\i (00:08:48) trapsize 3507
+\i (00:08:48) roam start
+\i (00:08:48) roam y 48
+\i (00:08:48) zoom out 1 
+\i (00:08:48) setwindow pcb
+\i (00:08:48) zoom out 1703.874 5255.343
+\i (00:08:48) trapsize 7015
+\i (00:08:48) roam x 16
+\i (00:08:48) roam y 160
+\i (00:08:48) roam x 32
+\i (00:08:48) roam y 160
+\i (00:08:48) roam x 16
+\i (00:08:48) roam y 112
+\i (00:08:48) roam x 64
+\i (00:08:48) roam y 112
+\i (00:08:48) roam x 48
+\i (00:08:48) roam y 96
+\i (00:08:48) roam x 64
+\i (00:08:48) roam y 64
+\i (00:08:48) roam end
+\i (00:08:50) zoom in 1 
+\i (00:08:50) setwindow pcb
+\i (00:08:50) zoom in 2261.212 4607.862
+\i (00:08:50) trapsize 3507
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out 2261.213 4607.863
+\i (00:08:51) trapsize 7015
+\i (00:08:51) zoom out 1 
+\i (00:08:51) setwindow pcb
+\i (00:08:51) zoom out 2261.212 4607.862
+\i (00:08:51) trapsize 14030
+\i (00:08:52) zoom out 1 
+\i (00:08:52) setwindow pcb
+\i (00:08:52) zoom out 2177.033 4607.863
+\i (00:08:52) trapsize 28060
+\i (00:08:53) roam start
+\i (00:08:53) roam x 48
+\i (00:08:53) roam x 16
+\i (00:08:53) roam y 16
+\i (00:08:53) roam x 80
+\i (00:08:53) roam y 16
+\i (00:08:53) roam x 128
+\i (00:08:53) roam y 32
+\i (00:08:53) roam x 128
+\i (00:08:53) roam y 32
+\i (00:08:53) roam x 144
+\i (00:08:53) roam y 48
+\i (00:08:53) roam x 144
+\i (00:08:53) roam y 48
+\i (00:08:53) roam end
+\i (00:08:54) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:08:54) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:08:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:08:56) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:08:56) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:08:56) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 6282.187 1939.372
+\i (00:08:59) trapsize 14030
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 6282.187 1939.373
+\i (00:08:59) trapsize 7015
+\i (00:08:59) zoom in 1 
+\i (00:08:59) setwindow pcb
+\i (00:08:59) zoom in 6282.187 1939.373
+\i (00:08:59) trapsize 3507
+\i (00:09:01) zoom out 1 
+\i (00:09:01) setwindow pcb
+\i (00:09:01) zoom out 6282.889 1936.567
+\i (00:09:01) trapsize 7015
+\i (00:09:01) roam start
+\i (00:09:01) roam y 64
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 64
+\i (00:09:01) roam x -16
+\i (00:09:01) roam y 64
+\i (00:09:01) roam y 80
+\i (00:09:02) roam x -16
+\i (00:09:02) roam y 80
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 64
+\i (00:09:02) roam x 16
+\i (00:09:02) roam y 48
+\i (00:09:02) roam y 32
+\i (00:09:02) roam end
+\i (00:09:02) zoom out 1 
+\i (00:09:02) setwindow pcb
+\i (00:09:02) zoom out 6272.365 1030.233
+\i (00:09:02) trapsize 14030
+\i (00:09:03) roam start
+\i (00:09:03) roam x -16
+\i (00:09:03) roam y 48
+\i (00:09:03) roam y 48
+\i (00:09:03) roam x -16
+\i (00:09:03) roam y 80
+\i (00:09:03) roam x -16
+\i (00:09:03) roam y 96
+\i (00:09:03) roam y 32
+\i (00:09:03) roam end
+\i (00:09:04) roam start
+\i (00:09:04) roam x -16
+\i (00:09:04) roam x -32
+\i (00:09:04) roam x -256
+\i (00:09:04) roam y -32
+\i (00:09:04) roam x -192
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -144
+\i (00:09:04) roam x -160
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -144
+\i (00:09:04) roam y -32
+\i (00:09:04) roam x -128
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -80
+\i (00:09:04) roam y -16
+\i (00:09:04) roam x -64
+\i (00:09:04) roam y -16
+\i (00:09:04) roam end
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 793.682 943.247
+\i (00:09:06) trapsize 7015
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 795.086 941.844
+\i (00:09:06) trapsize 3507
+\i (00:09:06) zoom in 1 
+\i (00:09:06) setwindow pcb
+\i (00:09:06) zoom in 797.892 939.740
+\i (00:09:06) trapsize 1754
+\i (00:09:08) zoom out 1 
+\i (00:09:08) setwindow pcb
+\i (00:09:08) zoom out 803.504 951.665
+\i (00:09:08) trapsize 3507
+\i (00:09:09) zoom out 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom out 807.714 952.367
+\i (00:09:09) trapsize 7015
+\i (00:09:09) zoom in 1 
+\i (00:09:09) setwindow pcb
+\i (00:09:09) zoom in 849.803 959.382
+\i (00:09:09) trapsize 3507
+\i (00:09:10) zoom out 1 
+\i (00:09:10) setwindow pcb
+\i (00:09:10) zoom out 853.311 964.994
+\i (00:09:10) trapsize 7015
+\i (00:09:10) roam start
+\i (00:09:10) roam y -64
+\i (00:09:10) roam x -16
+\i (00:09:10) roam y -32
+\i (00:09:10) roam x -32
+\i (00:09:10) roam y -208
+\i (00:09:11) roam x -64
+\i (00:09:11) roam y -272
+\i (00:09:11) roam x -48
+\i (00:09:11) roam y -272
+\i (00:09:11) roam x -16
+\i (00:09:11) roam y -160
+\i (00:09:11) roam x -16
+\i (00:09:11) roam y -112
+\i (00:09:11) roam x -32
+\i (00:09:11) roam y -96
+\i (00:09:11) roam end
+\i (00:09:11) zoom out 1 
+\i (00:09:11) setwindow pcb
+\i (00:09:11) zoom out 922.758 2600.181
+\i (00:09:11) trapsize 14030
+\i (00:09:12) roam start
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -48
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -64
+\i (00:09:12) roam x 32
+\i (00:09:12) roam y -96
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -128
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -128
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -112
+\i (00:09:12) roam x 32
+\i (00:09:12) roam y -112
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -96
+\i (00:09:12) roam x 16
+\i (00:09:12) roam y -64
+\i (00:09:12) roam end
+\i (00:09:13) zoom in 1 
+\i (00:09:13) setwindow pcb
+\i (00:09:13) zoom in 647.771 5126.970
+\i (00:09:13) trapsize 7015
+\i (00:09:14) zoom in 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom in 713.712 5160.642
+\i (00:09:14) trapsize 3507
+\i (00:09:14) zoom out 1 
+\i (00:09:14) setwindow pcb
+\i (00:09:14) zoom out 715.817 5162.045
+\i (00:09:14) trapsize 7015
+\i (00:09:15) zoom in 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 715.817 5160.642
+\i (00:09:15) trapsize 3507
+\i (00:09:15) zoom in 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom in 715.817 5160.642
+\i (00:09:15) trapsize 1754
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 715.817 5160.643
+\i (00:09:15) trapsize 3507
+\i (00:09:15) zoom out 1 
+\i (00:09:15) setwindow pcb
+\i (00:09:15) zoom out 715.818 5160.642
+\i (00:09:15) trapsize 7015
+\i (00:09:16) roam start
+\i (00:09:16) roam x 64
+\i (00:09:16) roam x 16
+\i (00:09:16) roam x 32
+\i (00:09:16) roam x 64
+\i (00:09:16) roam y 16
+\i (00:09:16) roam x 64
+\i (00:09:16) roam x 48
+\i (00:09:16) roam x 48
+\i (00:09:16) roam y 16
+\i (00:09:16) roam x 32
+\i (00:09:16) roam end
+\i (00:09:17) zoom out 1 
+\i (00:09:17) setwindow pcb
+\i (00:09:17) zoom out 1410.999 5062.432
+\i (00:09:17) trapsize 14030
+\i (00:09:17) roam start
+\i (00:09:17) roam x 48
+\i (00:09:17) roam x 112
+\i (00:09:17) roam y 16
+\i (00:09:17) roam x 96
+\i (00:09:17) roam x 128
+\i (00:09:17) roam y 32
+\i (00:09:17) roam x 96
+\i (00:09:17) roam y 16
+\i (00:09:17) roam x 80
+\i (00:09:17) roam y 16
+\i (00:09:17) roam x 80
+\i (00:09:17) roam x 64
+\i (00:09:17) roam y 16
+\i (00:09:17) roam end
+\i (00:09:18) roam start
+\i (00:09:18) roam x 48
+\i (00:09:18) roam x 16
+\i (00:09:18) roam x 64
+\i (00:09:18) roam x 96
+\i (00:09:18) roam y 16
+\i (00:09:18) roam x 80
+\i (00:09:18) roam y 16
+\i (00:09:18) roam x 64
+\i (00:09:18) roam y 16
+\i (00:09:18) roam end
+\i (00:09:19) roam start
+\i (00:09:19) roam x -16
+\i (00:09:19) roam y 64
+\i (00:09:19) roam x -16
+\i (00:09:19) roam y 32
+\i (00:09:19) roam x -80
+\i (00:09:19) roam y 192
+\i (00:09:19) roam x -64
+\i (00:09:19) roam y 208
+\i (00:09:19) roam x -16
+\i (00:09:19) roam y 128
+\i (00:09:19) roam x -16
+\i (00:09:19) roam y 64
+\i (00:09:19) roam end
+\i (00:09:20) roam start
+\i (00:09:20) roam x -32
+\i (00:09:20) roam y 48
+\i (00:09:20) roam y 16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam y 32
+\i (00:09:20) roam x -48
+\i (00:09:20) roam y 80
+\i (00:09:20) roam x -32
+\i (00:09:20) roam y 64
+\i (00:09:20) roam x -32
+\i (00:09:20) roam y 64
+\i (00:09:20) roam x -32
+\i (00:09:20) roam y 32
+\i (00:09:20) roam y 16
+\i (00:09:20) roam x -16
+\i (00:09:20) roam y 16
+\i (00:09:20) roam y 16
+\i (00:09:20) roam end
+\i (00:09:20) roam start
+\i (00:09:20) roam x -32
+\i (00:09:20) roam y 48
+\i (00:09:21) roam x -16
+\i (00:09:21) roam y 16
+\i (00:09:21) roam x -80
+\i (00:09:21) roam y 80
+\i (00:09:21) roam x -80
+\i (00:09:21) roam y 96
+\i (00:09:21) roam x -64
+\i (00:09:21) roam y 80
+\i (00:09:21) roam end
+\i (00:09:21) roam start
+\i (00:09:21) roam x 64
+\i (00:09:21) roam y -16
+\i (00:09:21) roam x 16
+\i (00:09:21) roam y -16
+\i (00:09:21) roam x 16
+\i (00:09:21) roam x 48
+\i (00:09:21) roam y -16
+\i (00:09:21) roam x 48
+\i (00:09:21) roam y -16
+\i (00:09:21) roam x 48
+\i (00:09:21) roam end
+\i (00:09:22) roam start
+\i (00:09:22) roam x 48
+\i (00:09:22) roam y -32
+\i (00:09:22) roam x 80
+\i (00:09:22) roam y -16
+\i (00:09:22) roam x 112
+\i (00:09:22) roam y -32
+\i (00:09:22) roam x 96
+\i (00:09:22) roam y -32
+\i (00:09:22) roam x 80
+\i (00:09:22) roam y -32
+\i (00:09:22) roam x 32
+\i (00:09:22) roam y -16
+\i (00:09:22) roam end
+\i (00:09:23) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 4637.880 1274.353
+\i (00:09:23) trapsize 7015
+\i (00:09:23) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 4637.880 1274.353
+\i (00:09:23) trapsize 3507
+\i (00:09:23) zoom in 1 
+\i (00:09:23) setwindow pcb
+\i (00:09:23) zoom in 4637.881 1274.354
+\i (00:09:23) trapsize 1754
+\i (00:09:24) zoom out 1 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) zoom out 4635.426 1275.757
+\i (00:09:24) trapsize 3507
+\i (00:09:24) zoom out 1 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) zoom out 4633.322 1275.757
+\i (00:09:24) trapsize 7015
+\i (00:09:24) zoom out 1 
+\i (00:09:24) setwindow pcb
+\i (00:09:24) zoom out 4629.112 1275.756
+\i (00:09:24) trapsize 14030
+\i (00:09:24) roam start
+\i (00:09:24) roam x 16
+\i (00:09:24) roam y -64
+\i (00:09:24) roam x 32
+\i (00:09:24) roam y -144
+\i (00:09:24) roam x 32
+\i (00:09:24) roam y -144
+\i (00:09:24) roam x 16
+\i (00:09:24) roam y -80
+\i (00:09:24) roam x 16
+\i (00:09:24) roam y -48
+\i (00:09:24) roam end
+\i (00:09:25) zoom in 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in 5914.602 1914.119
+\i (00:09:25) trapsize 7015
+\i (00:09:25) zoom in 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom in 5913.199 1914.119
+\i (00:09:25) trapsize 3507
+\i (00:09:25) zoom out 1 
+\i (00:09:25) setwindow pcb
+\i (00:09:25) zoom out 5615.064 2189.808
+\i (00:09:25) trapsize 7015
+\i (00:09:26) zoom out 1 
+\i (00:09:26) setwindow pcb
+\i (00:09:26) zoom out 5478.974 2136.493
+\i (00:09:26) trapsize 14030
+\i (00:09:26) roam start
+\i (00:09:26) roam x -32
+\i (00:09:26) roam y -48
+\i (00:09:26) roam x -16
+\i (00:09:26) roam y -16
+\i (00:09:26) roam x -48
+\i (00:09:26) roam y -80
+\i (00:09:26) roam x -32
+\i (00:09:26) roam y -64
+\i (00:09:26) roam x -32
+\i (00:09:26) roam y -48
+\i (00:09:26) roam x -16
+\i (00:09:26) roam y -32
+\i (00:09:26) roam end
+\i (00:09:27) zoom in 1 
+\i (00:09:27) setwindow pcb
+\i (00:09:27) zoom in 4806.239 2941.108
+\i (00:09:27) trapsize 7015
+\i (00:09:27) zoom in 1 
+\i (00:09:27) setwindow pcb
+\i (00:09:27) zoom in 4806.239 2941.108
+\i (00:09:27) trapsize 3507
+\i (00:09:28) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:28) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:30) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:09:30) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:30) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:31) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:31) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:09:33) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:33) QtSignal CVPLayerGrid CVPBoxAllPower clicked true
+\i (00:09:35) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:35) QtSignal CVPLayerGrid CVPBoxAllGnd clicked false
+\i (00:09:38) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:38) QtSignal CVPLayerGrid CVPBoxAllGnd clicked true
+\i (00:09:40) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:40) QtSignal CVPLayerGrid CVPBoxAllBottom clicked true
+\i (00:09:41) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 0 0
+\i (00:09:41) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:09:41) zoom out 1 
+\i (00:09:41) setwindow pcb
+\i (00:09:41) zoom out 5270.630 2924.272
+\i (00:09:41) trapsize 7015
+\i (00:09:42) zoom out 1 
+\i (00:09:42) setwindow pcb
+\i (00:09:42) zoom out 5538.601 2903.228
+\i (00:09:42) trapsize 14030
+\i (00:09:43) zoom out 1 
+\i (00:09:43) setwindow pcb
+\i (00:09:43) zoom out 5706.960 2704.003
+\i (00:09:43) trapsize 28060
+\i (00:09:43) roam start
+\i (00:09:43) roam x 48
+\i (00:09:43) roam y -16
+\i (00:09:44) roam x 64
+\i (00:09:44) roam y -16
+\i (00:09:44) roam x 48
+\i (00:09:44) roam y -32
+\i (00:09:44) roam x 32
+\i (00:09:44) roam y -16
+\i (00:09:44) roam x 32
+\i (00:09:44) roam x 16
+\i (00:09:44) roam x 32
+\i (00:09:44) roam y -16
+\i (00:09:44) roam x 16
+\i (00:09:44) roam y -16
+\i (00:09:44) roam x 16
+\i (00:09:44) roam y -16
+\i (00:09:44) roam end
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 5754.663 5009.119
+\i (00:09:46) trapsize 14030
+\i (00:09:46) zoom in 1 
+\i (00:09:46) setwindow pcb
+\i (00:09:46) zoom in 5754.663 5017.537
+\i (00:09:46) trapsize 7015
+\i (00:09:47) zoom out 1 
+\i (00:09:47) setwindow pcb
+\i (00:09:47) zoom out 5784.126 4993.686
+\i (00:09:47) trapsize 14030
+\i (00:09:53) zoom out 1 
+\i (00:09:53) setwindow pcb
+\i (00:09:53) zoom out 5969.321 4825.327
+\i (00:09:53) trapsize 28060
+\i (00:09:54) zoom out 1 
+\i (00:09:54) setwindow pcb
+\i (00:09:54) zoom out 5969.321 4819.715
+\i (00:09:54) trapsize 56120
+\i (00:09:55) zoom in 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom in 1468.523 5740.079
+\i (00:09:55) trapsize 28060
+\i (00:09:55) zoom in 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom in 1406.791 5717.631
+\i (00:09:55) trapsize 14030
+\i (00:09:55) zoom in 1 
+\i (00:09:55) setwindow pcb
+\i (00:09:55) zoom in 1535.867 5728.855
+\i (00:09:55) trapsize 7015
+\i (00:09:56) roam start
+\i (00:09:56) roam y 48
+\i (00:09:56) roam y 64
+\i (00:09:56) roam y 64
+\i (00:09:56) roam end
+\i (00:09:57) zoom out 1 
+\i (00:09:57) setwindow pcb
+\i (00:09:57) zoom out 1549.897 5463.687
+\i (00:09:57) trapsize 14030
+\i (00:09:59) roam start
+\i (00:09:59) roam x 32
+\i (00:09:59) roam y 32
+\i (00:09:59) roam x 16
+\i (00:09:59) roam y 16
+\i (00:09:59) roam x 48
+\i (00:09:59) roam x 112
+\i (00:09:59) roam y 32
+\i (00:09:59) roam x 112
+\i (00:09:59) roam y 16
+\i (00:09:59) roam x 112
+\i (00:09:59) roam y 32
+\i (00:09:59) roam x 112
+\i (00:09:59) roam y 16
+\i (00:09:59) roam x 96
+\i (00:09:59) roam y 16
+\i (00:09:59) roam x 112
+\i (00:09:59) roam y 16
+\i (00:09:59) roam end
+\i (00:10:00) zoom out 1 
+\i (00:10:00) setwindow pcb
+\i (00:10:00) zoom out 3975.668 4866.013
+\i (00:10:00) trapsize 28060
+\i (00:10:01) roam start
+\i (00:10:01) roam x 16
+\i (00:10:01) roam y 48
+\i (00:10:02) roam x 16
+\i (00:10:02) roam y 48
+\i (00:10:02) roam x 32
+\i (00:10:02) roam y 64
+\i (00:10:02) roam x 48
+\i (00:10:02) roam y 80
+\i (00:10:02) roam x 16
+\i (00:10:02) roam y 32
+\i (00:10:02) roam end
+\i (00:10:04) pick grid 7864.762 3050.542
+\t (00:10:04) last pick:  7865.000 3050.500
+\i (00:10:04) save 
+\i (00:10:05) fillin yes 
+\i (00:10:06) fillin yes 
+\i (00:10:10) fillin "C:/CenturyPlan/scxStandard/scxStandard.opj"
+\i (00:10:10) cd "C:/CenturyPlan/scxStandard"
+\t (00:10:10) > Sending response DoneOpenBoard
+\i (00:10:10) shapeedit 
+\i (00:10:11) exit 
+\t (00:10:12)     Journal end - Thu Sep 18 20:23:18 2025

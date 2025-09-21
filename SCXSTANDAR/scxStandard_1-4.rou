@@ -1,0 +1,18 @@
+;EXTENTS: -13.191 -6.366  23.415  15.498  
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : C:/CenturyPlan/scxStandard/SCXSTANDAR/scxStandard_1-4.rou for board C:/CenturyPlan/scxStandard/#Taaaaia49172.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X0174903Y0150661
+G40
+M15
+G01X0175691Y0150661
+M16
+G40
+M30

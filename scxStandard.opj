@@ -1,6 +1,6 @@
 (ExpressProject "oem_hub"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[07/30/25]")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[09/18/25]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library"
@@ -57,7 +57,7 @@
     (BOM_View_Output "FALSE")
     (Board_sim_option "VHDL_flow")
     ("Create Allegro Netlist" "TRUE")
-    ("Allegro Netlist Directory" "..\scx")
+    ("Allegro Netlist Directory" "C:\CenturyPlan\scxStandard")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -71,7 +71,7 @@
     ("Allegro Netlist Combine Property String" "PCB Footprint")
     ("Allegro Netlist Ignore Fixed Property" "FALSE")
     ("Allegro Netlist User Defined Property" "FALSE")
-    (File ".\scx.dsn"
+    (File ".\scxstandard.dsn"
       (Type "Schematic Design")))
   (Folder "Layout"
     (File "..\oem hub\oem hub.brd"
@@ -103,7 +103,12 @@
       (Type "Board File")
       (OutputBoard ".\scx.brd")
       (NetListPath "..\scx")
-      (ActiveBoard "1")))
+      (ActiveBoard "1"))
+    (File "..\scx\scx.brd"
+      (Type "Board File")
+      (OutputBoard "..\scx\scx.brd")
+      (NetListPath "..\scx")
+      (ActiveBoard "0")))
   (Folder "Outputs"
     (File ".\allegro\pstxnet.dat"
       (Type "Report"))
@@ -257,14 +262,15 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" "C:\CenturyPlan\SCX\scx.dsn")
-      (Path "Design Resources" "C:\CenturyPlan\SCX\scx.dsn" "SCHEMATIC1")
+      (Path "Design Resources" "C:\CenturyPlan\scxStandard\scxstandard.dsn")
+      (Path "Design Resources" "C:\CenturyPlan\scxStandard\scxstandard.dsn"
+         "SCHEMATIC1")
       (Path "Design Resources" "Library")
       (Path "Layout")
       (Path "Outputs")
       (Path "PSpice Resources")
-      (Select "Design Resources" "C:\CenturyPlan\SCX\scx.dsn" "SCHEMATIC1"
-         "SCX"))
+      (Select "Design Resources" "C:\CenturyPlan\scxStandard\scxstandard.dsn"
+         "SCHEMATIC1" "scxStandard"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -274,11 +280,11 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 28 5 2232 28 937")
-        (Scroll "0 0")
-        (Zoom "110")
+        (Placement "44 0 1 -1 -1 5 28 5 4358 28 937")
+        (Scroll "-1546 -5")
+        (Zoom "53")
         (Occurrence "/"))
-      (Path "C:\CENTURYPLAN\SCX\SCX.DSN")
+      (Path "C:\CENTURYPLAN\SCXSTANDARD\SCXSTANDARD.DSN")
       (Schematic "SCHEMATIC1")
-      (Page "SCX")))
+      (Page "scxStandard")))
   (ISPCBBASICLICENSE "false"))

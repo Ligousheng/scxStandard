@@ -1,0 +1,782 @@
+A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
+J!C:/CenturyPlan/scxStandard/scxStandard.brd!Thu Sep 18 21:33:50 2025!-13191.339!-6366.339!23415.433!15497.913!0.001!mils!SCX!28.800000 mil!4!OUT OF DATE!
+S!VIN!U20!1!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!CAN2H!U20!2!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!CAN2L!U20!3!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!AN_OUT1!U20!4!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!AN_OUT2!U20!5!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!REALGND!U20!6!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!!U20!7!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!!U20!8!@scx.schematic1(sch_1):ins776999@scx.\bx-zh1_0.5-6pwt_u14.normal\(chips)!BX-ZH1.5-6PWT!!!F6!!!!!!!!!!
+S!VCC5V!C156!1!@scx.schematic1(sch_1):ins1170033@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10UF!!!F145!!!!!!!!!!
+S!GND_SIGNAL!C156!2!@scx.schematic1(sch_1):ins1170033@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10UF!!!F145!!!!!!!!!!
+S!GND_SIGNAL!C157!1!@scx.schematic1(sch_1):ins1175210@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10UF!!!F144!!!!!!!!!!
+S!GND_SIGNAL!C157!2!@scx.schematic1(sch_1):ins1175210@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10UF!!!F144!!!!!!!!!!
+S!N886557!R224!1!@scx.schematic1(sch_1):ins1187220@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_33K!!!F37!!!!!!!!!!
+S!VCC33!R224!2!@scx.schematic1(sch_1):ins1187220@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_33K!!!F37!!!!!!!!!!
+S!VCC33!J16!1!@scx.schematic1(sch_1):ins1151653@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F116!!!!!!!!!!
+S!GND_SIGNAL!J16!2!@scx.schematic1(sch_1):ins1151653@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F116!!!!!!!!!!
+S!N1138153!J16!3!@scx.schematic1(sch_1):ins1151653@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F116!!!!!!!!!!
+S!!J16!4!@scx.schematic1(sch_1):ins1151653@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F116!!!!!!!!!!
+S!!J16!5!@scx.schematic1(sch_1):ins1151653@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F116!!!!!!!!!!
+S!VCC33!J17!1!@scx.schematic1(sch_1):ins1152486@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F115!!!!!!!!!!
+S!GND_SIGNAL!J17!2!@scx.schematic1(sch_1):ins1152486@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F115!!!!!!!!!!
+S!N1138817!J17!3!@scx.schematic1(sch_1):ins1152486@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F115!!!!!!!!!!
+S!!J17!4!@scx.schematic1(sch_1):ins1152486@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F115!!!!!!!!!!
+S!!J17!5!@scx.schematic1(sch_1):ins1152486@oem_hub.\con5.normal\(chips)!CON5_MX-PB-3P-1P25-RA_CON5!!!F115!!!!!!!!!!
+S!REALGND!Q1!3!@scx.schematic1(sch_1):ins1130866@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F95!!!!!!!!!!
+S!N1022087!Q1!1!@scx.schematic1(sch_1):ins1130866@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F95!!!!!!!!!!
+S!GND_SIGNAL!Q1!2!@scx.schematic1(sch_1):ins1130866@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F95!!!!!!!!!!
+S!USB_DP1!Q2!3!@scx.schematic1(sch_1):ins1131754@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F94!!!!!!!!!!
+S!USB_SWITCH!Q2!1!@scx.schematic1(sch_1):ins1131754@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F94!!!!!!!!!!
+S!GND_SIGNAL!Q2!2!@scx.schematic1(sch_1):ins1131754@oem_hub.\2n7002.normal\(chips)!2N7002_MTR3-3216-N2S1-2_FH3400C!!!F94!!!!!!!!!!
+S!GND_SIGNAL!SW2!10!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_H5!SW2!1!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_H4!SW2!2!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_H3!SW2!3!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_L3!SW2!6!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_H2!SW2!4!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!ENCODER_E2!SW2!8!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!ENCODER_E1!SW2!7!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!GND_SIGNAL!SW2!9!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!!SW2!11!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!BUTTON_H6!SW2!5!@scx.schematic1(sch_1):ins750729@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F18!!!!!!!!!!
+S!GND_SIGNAL!SW3!10!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_H5!SW3!1!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_H4!SW3!2!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_H3!SW3!3!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_L2!SW3!6!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_H2!SW3!4!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!ENCODER_E4!SW3!8!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!ENCODER_E3!SW3!7!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!GND_SIGNAL!SW3!9!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!!SW3!11!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!BUTTON_H6!SW3!5!@scx.schematic1(sch_1):ins1149659@scx.\rkjxt1f42001_sw2_1.normal\(chips)!RKJXT1F42001!!!F17!!!!!!!!!!
+S!CAN2_SPLIT!S1!1!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!CAN2H-60R!S1!2!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!!S1!3!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!!S1!4!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!!S1!5!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!!S1!6!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!!S1!7!@scx.schematic1(sch_1):ins1090821@library1.\7pswitch.normal\(chips)!7PSWITCH_UK-H0827G15-SP-Y_7PSWI!!!F19!!!!!!!!!!
+S!N601998!J1!A5!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!N1048777!J1!B5!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_DM1!J1!A7!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_DM1!J1!B7!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_DP1!J1!A6!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_DP1!J1!B6!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!GND_SIGNAL!J1!A1!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!GND_SIGNAL!J1!A12!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!GND_SIGNAL!J1!B12!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!GND_SIGNAL!J1!B1!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!N602224!J1!1!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!N602224!J1!2!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!N602224!J1!3!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!N602224!J1!4!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!!J1!A8!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!!J1!B8!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_VBUS!J1!A4!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_VBUS!J1!A9!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_VBUS!J1!B9!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!USB_VBUS!J1!B4!@scx.schematic1(sch_1):ins601886@scx.\usb_c_j1_6.normal\(chips)!USB_C_J1_6_TYPE-C-USB-SMD-16P_U!!!F118!!!!!!!!!!
+S!LED_RGB_LIN1!LED1!3!@scx.schematic1(sch_1):ins848118@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F113!!!!!!!!!!
+S!LED_RGB_LIN2!LED1!1!@scx.schematic1(sch_1):ins848118@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F113!!!!!!!!!!
+S!VCC5V!LED1!4!@scx.schematic1(sch_1):ins848118@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F113!!!!!!!!!!
+S!GND_SIGNAL!LED1!2!@scx.schematic1(sch_1):ins848118@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F113!!!!!!!!!!
+S!LED_RGB_LIN3!LED11!3!@scx.schematic1(sch_1):ins874202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F112!!!!!!!!!!
+S!N693449!LED11!1!@scx.schematic1(sch_1):ins874202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F112!!!!!!!!!!
+S!VCC5V!LED11!4!@scx.schematic1(sch_1):ins874202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F112!!!!!!!!!!
+S!GND_SIGNAL!LED11!2!@scx.schematic1(sch_1):ins874202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F112!!!!!!!!!!
+S!N693449!LED12!3!@scx.schematic1(sch_1):ins874792@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F111!!!!!!!!!!
+S!N693471!LED12!1!@scx.schematic1(sch_1):ins874792@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F111!!!!!!!!!!
+S!VCC5V!LED12!4!@scx.schematic1(sch_1):ins874792@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F111!!!!!!!!!!
+S!GND_SIGNAL!LED12!2!@scx.schematic1(sch_1):ins874792@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F111!!!!!!!!!!
+S!N693471!LED13!3!@scx.schematic1(sch_1):ins875070@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F110!!!!!!!!!!
+S!N706952!LED13!1!@scx.schematic1(sch_1):ins875070@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F110!!!!!!!!!!
+S!VCC5V!LED13!4!@scx.schematic1(sch_1):ins875070@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F110!!!!!!!!!!
+S!GND_SIGNAL!LED13!2!@scx.schematic1(sch_1):ins875070@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F110!!!!!!!!!!
+S!N706952!LED14!3!@scx.schematic1(sch_1):ins875350@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F109!!!!!!!!!!
+S!N693613!LED14!1!@scx.schematic1(sch_1):ins875350@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F109!!!!!!!!!!
+S!VCC5V!LED14!4!@scx.schematic1(sch_1):ins875350@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F109!!!!!!!!!!
+S!GND_SIGNAL!LED14!2!@scx.schematic1(sch_1):ins875350@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F109!!!!!!!!!!
+S!N693613!LED15!3!@scx.schematic1(sch_1):ins875632@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F108!!!!!!!!!!
+S!N693635!LED15!1!@scx.schematic1(sch_1):ins875632@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F108!!!!!!!!!!
+S!VCC5V!LED15!4!@scx.schematic1(sch_1):ins875632@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F108!!!!!!!!!!
+S!GND_SIGNAL!LED15!2!@scx.schematic1(sch_1):ins875632@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F108!!!!!!!!!!
+S!N693635!LED16!3!@scx.schematic1(sch_1):ins875916@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F107!!!!!!!!!!
+S!N693717!LED16!1!@scx.schematic1(sch_1):ins875916@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F107!!!!!!!!!!
+S!VCC5V!LED16!4!@scx.schematic1(sch_1):ins875916@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F107!!!!!!!!!!
+S!GND_SIGNAL!LED16!2!@scx.schematic1(sch_1):ins875916@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F107!!!!!!!!!!
+S!N693717!LED17!3!@scx.schematic1(sch_1):ins876202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F106!!!!!!!!!!
+S!LED_RGB_LIN4!LED17!1!@scx.schematic1(sch_1):ins876202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F106!!!!!!!!!!
+S!VCC5V!LED17!4!@scx.schematic1(sch_1):ins876202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F106!!!!!!!!!!
+S!GND_SIGNAL!LED17!2!@scx.schematic1(sch_1):ins876202@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F106!!!!!!!!!!
+S!LED_RGB_LIN5!LED27!3!@scx.schematic1(sch_1):ins879230@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F105!!!!!!!!!!
+S!LED_RGB_LIN6!LED27!1!@scx.schematic1(sch_1):ins879230@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F105!!!!!!!!!!
+S!VCC5V!LED27!4!@scx.schematic1(sch_1):ins879230@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F105!!!!!!!!!!
+S!GND_SIGNAL!LED27!2!@scx.schematic1(sch_1):ins879230@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F105!!!!!!!!!!
+S!LED_RGB_LIN7!LED34!3!@scx.schematic1(sch_1):ins876489@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F104!!!!!!!!!!
+S!N688871!LED34!1!@scx.schematic1(sch_1):ins876489@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F104!!!!!!!!!!
+S!VCC5V!LED34!4!@scx.schematic1(sch_1):ins876489@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F104!!!!!!!!!!
+S!GND_SIGNAL!LED34!2!@scx.schematic1(sch_1):ins876489@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F104!!!!!!!!!!
+S!N688871!LED35!3!@scx.schematic1(sch_1):ins877145@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F103!!!!!!!!!!
+S!N688893!LED35!1!@scx.schematic1(sch_1):ins877145@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F103!!!!!!!!!!
+S!VCC5V!LED35!4!@scx.schematic1(sch_1):ins877145@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F103!!!!!!!!!!
+S!GND_SIGNAL!LED35!2!@scx.schematic1(sch_1):ins877145@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F103!!!!!!!!!!
+S!N688893!LED36!3!@scx.schematic1(sch_1):ins877437@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F102!!!!!!!!!!
+S!N688915!LED36!1!@scx.schematic1(sch_1):ins877437@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F102!!!!!!!!!!
+S!VCC5V!LED36!4!@scx.schematic1(sch_1):ins877437@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F102!!!!!!!!!!
+S!GND_SIGNAL!LED36!2!@scx.schematic1(sch_1):ins877437@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F102!!!!!!!!!!
+S!N688915!LED37!3!@scx.schematic1(sch_1):ins877731@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F101!!!!!!!!!!
+S!LED_RGB_LIN8!LED37!1!@scx.schematic1(sch_1):ins877731@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F101!!!!!!!!!!
+S!VCC5V!LED37!4!@scx.schematic1(sch_1):ins877731@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F101!!!!!!!!!!
+S!GND_SIGNAL!LED37!2!@scx.schematic1(sch_1):ins877731@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F101!!!!!!!!!!
+S!LED_RGB_LIN8!LED38!3!@scx.schematic1(sch_1):ins878026@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F100!!!!!!!!!!
+S!N688647!LED38!1!@scx.schematic1(sch_1):ins878026@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F100!!!!!!!!!!
+S!VCC5V!LED38!4!@scx.schematic1(sch_1):ins878026@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F100!!!!!!!!!!
+S!GND_SIGNAL!LED38!2!@scx.schematic1(sch_1):ins878026@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F100!!!!!!!!!!
+S!N688647!LED39!3!@scx.schematic1(sch_1):ins878323@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F99!!!!!!!!!!
+S!N688669!LED39!1!@scx.schematic1(sch_1):ins878323@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F99!!!!!!!!!!
+S!VCC5V!LED39!4!@scx.schematic1(sch_1):ins878323@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F99!!!!!!!!!!
+S!GND_SIGNAL!LED39!2!@scx.schematic1(sch_1):ins878323@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F99!!!!!!!!!!
+S!N688669!LED40!3!@scx.schematic1(sch_1):ins878623@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F98!!!!!!!!!!
+S!N688691!LED40!1!@scx.schematic1(sch_1):ins878623@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F98!!!!!!!!!!
+S!VCC5V!LED40!4!@scx.schematic1(sch_1):ins878623@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F98!!!!!!!!!!
+S!GND_SIGNAL!LED40!2!@scx.schematic1(sch_1):ins878623@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F98!!!!!!!!!!
+S!N688691!LED41!3!@scx.schematic1(sch_1):ins878925@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F97!!!!!!!!!!
+S!LED_RGB_LIN9!LED41!1!@scx.schematic1(sch_1):ins878925@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F97!!!!!!!!!!
+S!VCC5V!LED41!4!@scx.schematic1(sch_1):ins878925@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F97!!!!!!!!!!
+S!GND_SIGNAL!LED41!2!@scx.schematic1(sch_1):ins878925@scx.\ws2812b_7.normal\(chips)!WS2812B_7_SMD-2P2X2P1-4P_WS2812!!!F97!!!!!!!!!!
+S!VIN!U4!1!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!OEMH!U4!2!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!OEML!U4!3!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!USB_DP1!U4!4!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!USB_DM1!U4!5!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!GND_SIGNAL!U4!6!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!!U4!7!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!!U4!8!@scx.schematic1(sch_1):ins1038652@scx.\bx-hy2_0.0-6plt_u4.normal\(chips)!BX-HY2.0-6PLT!!!F2!!!!!!!!!!
+S!GND_SIGNAL!B1!2!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!GND_SIGNAL!B1!7!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!GND_SIGNAL!B1!8!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!BUTTON_H6!B1!5!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!BUTTON_H6!B1!15!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!BUTTON_L4!B1!6!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!BUTTON_L4!B1!16!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!B1_1OUT!B1!11!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!B1_1OUT!B1!12!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!B1_2OUT!B1!13!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!B1_2OUT!B1!14!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!LED_RGB_LIN2!B1!3!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!N684885!B1!1!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!VCC5V!B1!4!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!VCC5V!B1!9!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!VCC5V!B1!10!@scx.schematic1(sch_1):ins684737@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F202!!!!!!!!!!
+S!GND_SIGNAL!B10!2!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!GND_SIGNAL!B10!7!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!GND_SIGNAL!B10!8!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!BUTTON_H7!B10!5!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!BUTTON_H7!B10!15!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!BUTTON_L2!B10!6!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!BUTTON_L2!B10!16!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!B10_1OUT!B10!11!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!B10_1OUT!B10!12!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!B10_2OUT!B10!13!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!B10_2OUT!B10!14!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!N686902!B10!3!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!N970726!B10!1!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!VCC5V!B10!4!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!VCC5V!B10!9!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!VCC5V!B10!10!@scx.schematic1(sch_1):ins976371@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F201!!!!!!!!!!
+S!GND_SIGNAL!B2!2!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!GND_SIGNAL!B2!7!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!GND_SIGNAL!B2!8!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!BUTTON_H5!B2!5!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!BUTTON_H5!B2!15!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!BUTTON_L4!B2!6!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!BUTTON_L4!B2!16!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!B2_1OUT!B2!11!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!B2_1OUT!B2!12!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!B2_2OUT!B2!13!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!B2_2OUT!B2!14!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!N684885!B2!3!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!N719238!B2!1!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!VCC5V!B2!4!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!VCC5V!B2!9!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!VCC5V!B2!10!@scx.schematic1(sch_1):ins972488@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F200!!!!!!!!!!
+S!GND_SIGNAL!B3!2!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!GND_SIGNAL!B3!7!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!GND_SIGNAL!B3!8!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!BUTTON_H4!B3!5!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!BUTTON_H4!B3!15!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!BUTTON_L4!B3!6!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!BUTTON_L4!B3!16!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!B3_1OUT!B3!11!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!B3_1OUT!B3!12!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!B3_2OUT!B3!13!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!B3_2OUT!B3!14!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!N719238!B3!3!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!LED_RGB_LIN3!B3!1!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!VCC5V!B3!4!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!VCC5V!B3!9!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!VCC5V!B3!10!@scx.schematic1(sch_1):ins972979@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F199!!!!!!!!!!
+S!GND_SIGNAL!B4!2!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!GND_SIGNAL!B4!7!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!GND_SIGNAL!B4!8!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!BUTTON_H3!B4!5!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!BUTTON_H3!B4!15!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!BUTTON_L4!B4!6!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!BUTTON_L4!B4!16!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!B4_1OUT!B4!11!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!B4_1OUT!B4!12!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!B4_2OUT!B4!13!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!B4_2OUT!B4!14!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!LED_RGB_LIN4!B4!3!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!N722504!B4!1!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!VCC5V!B4!4!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!VCC5V!B4!9!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!VCC5V!B4!10!@scx.schematic1(sch_1):ins973472@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F198!!!!!!!!!!
+S!GND_SIGNAL!B5!2!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!GND_SIGNAL!B5!7!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!GND_SIGNAL!B5!8!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!BUTTON_H2!B5!5!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!BUTTON_H2!B5!15!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!BUTTON_L4!B5!6!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!BUTTON_L4!B5!16!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!B5_1OUT!B5!11!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!B5_1OUT!B5!12!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!B5_2OUT!B5!13!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!B5_2OUT!B5!14!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!N722504!B5!3!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!N722747!B5!1!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!VCC5V!B5!4!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!VCC5V!B5!9!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!VCC5V!B5!10!@scx.schematic1(sch_1):ins973974@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F197!!!!!!!!!!
+S!GND_SIGNAL!B6!2!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!GND_SIGNAL!B6!7!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!GND_SIGNAL!B6!8!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!BUTTON_H1!B6!5!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!BUTTON_H1!B6!15!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!BUTTON_L4!B6!6!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!BUTTON_L4!B6!16!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!B6_1OUT!B6!11!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!B6_1OUT!B6!12!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!B6_2OUT!B6!13!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!B6_2OUT!B6!14!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!N722747!B6!3!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!LED_RGB_LIN5!B6!1!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!VCC5V!B6!4!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!VCC5V!B6!9!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!VCC5V!B6!10!@scx.schematic1(sch_1):ins974514@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F196!!!!!!!!!!
+S!GND_SIGNAL!B7!2!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!GND_SIGNAL!B7!7!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!GND_SIGNAL!B7!8!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!BUTTON_H8!B7!5!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!BUTTON_H8!B7!15!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!BUTTON_L3!B7!6!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!BUTTON_L3!B7!16!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!B7_1OUT!B7!11!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!B7_1OUT!B7!12!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!B7_2OUT!B7!13!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!B7_2OUT!B7!14!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!LED_RGB_LIN6!B7!3!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!N728474!B7!1!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!VCC5V!B7!4!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!VCC5V!B7!9!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!VCC5V!B7!10!@scx.schematic1(sch_1):ins975050@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F195!!!!!!!!!!
+S!GND_SIGNAL!B8!2!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!GND_SIGNAL!B8!7!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!GND_SIGNAL!B8!8!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!BUTTON_H7!B8!5!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!BUTTON_H7!B8!15!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!BUTTON_L3!B8!6!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!BUTTON_L3!B8!16!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!B8_1OUT!B8!11!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!B8_1OUT!B8!12!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!B8_2OUT!B8!13!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!B8_2OUT!B8!14!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!N728474!B8!3!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!LED_RGB_LIN7!B8!1!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!VCC5V!B8!4!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!VCC5V!B8!9!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!VCC5V!B8!10!@scx.schematic1(sch_1):ins975489@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F194!!!!!!!!!!
+S!GND_SIGNAL!B9!2!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!GND_SIGNAL!B9!7!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!GND_SIGNAL!B9!8!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!BUTTON_H8!B9!5!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!BUTTON_H8!B9!15!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!BUTTON_L2!B9!6!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!BUTTON_L2!B9!16!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!B9_1OUT!B9!11!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!B9_1OUT!B9!12!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!B9_2OUT!B9!13!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!B9_2OUT!B9!14!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!LED_RGB_LIN9!B9!3!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!N686902!B9!1!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!VCC5V!B9!4!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!VCC5V!B9!9!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!VCC5V!B9!10!@scx.schematic1(sch_1):ins975890@scx.\button&led_b1_8.normal\(chips)!BUTTON&LED_B1_8_BUTTONANDLED_BU!!!F193!!!!!!!!!!
+S!VCC33!J12!1!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!SWDIO!J12!2!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!SWCLK!J12!3!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!GND_SIGNAL!J12!4!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!!J12!5!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!!J12!6!@scx.schematic1(sch_1):ins927715@oem_hub.\con6.normal\(chips)!CON6_MX-PB-4P-1P25-RA_CON6!!!F117!!!!!!!!!!
+S!BUTTON_L4!CN1!1!@scx.schematic1(sch_1):ins883208@scx.\wafer-hy2_1.0-2pzz-r62_cn2.normal\(chips)!WAFER-HY2_1.0-2PZZ-R62_CN2_HY-2!!!F128!!!!!!!!!!
+S!BUTTON_H7!CN1!2!@scx.schematic1(sch_1):ins883208@scx.\wafer-hy2_1.0-2pzz-r62_cn2.normal\(chips)!WAFER-HY2_1.0-2PZZ-R62_CN2_HY-2!!!F128!!!!!!!!!!
+S!BUTTON_L4!CN2!1!@scx.schematic1(sch_1):ins883457@scx.\wafer-hy2_1.0-2pzz-r62_cn2.normal\(chips)!WAFER-HY2_1.0-2PZZ-R62_CN2_HY-2!!!F127!!!!!!!!!!
+S!BUTTON_H8!CN2!2!@scx.schematic1(sch_1):ins883457@scx.\wafer-hy2_1.0-2pzz-r62_cn2.normal\(chips)!WAFER-HY2_1.0-2PZZ-R62_CN2_HY-2!!!F127!!!!!!!!!!
+S!OEMH!D1!1!@scx.schematic1(sch_1):ins482655@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F126!!!!!!!!!!
+S!OEML!D1!2!@scx.schematic1(sch_1):ins482655@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F126!!!!!!!!!!
+S!GND_SIGNAL!D1!3!@scx.schematic1(sch_1):ins482655@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F126!!!!!!!!!!
+S!CAN2H!D2!1!@scx.schematic1(sch_1):ins595605@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F125!!!!!!!!!!
+S!CAN2L!D2!2!@scx.schematic1(sch_1):ins595605@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F125!!!!!!!!!!
+S!GND_SIGNAL!D2!3!@scx.schematic1(sch_1):ins595605@wk2_library.\pesd1can_diode.normal\(chips)!PESD1CAN_DIODE_SOT23-3_PESD1CAN!!!F125!!!!!!!!!!
+S!GND_SIGNAL!D11!1!@scx.schematic1(sch_1):ins1025720@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F123!!!!!!!!!!
+S!N1022087!D11!2!@scx.schematic1(sch_1):ins1025720@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F123!!!!!!!!!!
+S!LOWSIDE4!D10!1!@scx.schematic1(sch_1):ins715326@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F124!!!!!!!!!!
+S!VIN!D10!2!@scx.schematic1(sch_1):ins715326@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F124!!!!!!!!!!
+S!USB_VBUS!D6!1!@scx.schematic1(sch_1):ins602749@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F122!!!!!!!!!!
+S!VCC5V!D6!2!@scx.schematic1(sch_1):ins602749@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F122!!!!!!!!!!
+S!LOWSIDE1!D7!1!@scx.schematic1(sch_1):ins714823@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F121!!!!!!!!!!
+S!VIN!D7!2!@scx.schematic1(sch_1):ins714823@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F121!!!!!!!!!!
+S!LOWSIDE2!D8!1!@scx.schematic1(sch_1):ins715170@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F120!!!!!!!!!!
+S!VIN!D8!2!@scx.schematic1(sch_1):ins715170@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F120!!!!!!!!!!
+S!LOWSIDE3!D9!1!@scx.schematic1(sch_1):ins715246@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F119!!!!!!!!!!
+S!VIN!D9!2!@scx.schematic1(sch_1):ins715246@project_worklib.\d-schottky_d1.normal\(chips)!D-SCHOTTKY_D1_SOD-123FL_D-SCHOT!!!F119!!!!!!!!!!
+S!N597302!U12!5!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!EN!U12!6!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!FB_VIN!U12!8!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!GND_SIGNAL!U12!4!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!VIN!U12!2!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!PG!U12!1!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!SW!U12!3!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!N477649!U12!7!@scx.schematic1(sch_1):ins480479@wk2_library.\mpq4420agj-z.normal\(sch_1)!MPQ4420AGJ-Z_TSOT23-8_MPQ4420AG!!!F14!!!!!!!!!!
+S!VCC5V!U13!5!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!GND_SIGNAL!U13!9!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!FB33!U13!8!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!GND_SIGNAL!U13!3!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!!U13!2!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!VCC33!U13!1!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!N477709!U13!6!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!N477701!U13!7!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!VCC5V!U13!4!@scx.schematic1(sch_1):ins482861@wk2_library.\mpq2019gn-z.normal\(sch_1)!MPQ2019GN-Z_SOIC-8_EP_MPQ2019GN!!!F13!!!!!!!!!!
+S!LOWSIDE4!U17!8!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!LOWSIDE3!U17!6!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!N714500!U17!1!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!N714326!U17!3!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!GND_SIGNAL!U17!7!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!GND_SIGNAL!U17!5!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!N714410!U17!2!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!N714156!U17!4!@scx.schematic1(sch_1):ins714182@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F8!!!!!!!!!!
+S!LOWSIDE2!U18!8!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!LOWSIDE1!U18!6!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!N714540!U18!1!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!N714364!U18!3!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!GND_SIGNAL!U18!7!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!GND_SIGNAL!U18!5!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!N714432!U18!2!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!N714170!U18!4!@scx.schematic1(sch_1):ins714210@can2lowside.\vnld5160-e_0.normal\(chips)!VNLD5160-E_0_SO8_3P9X4P9-1P27_S!!!F7!!!!!!!!!!
+S!BUTTON_H8!U7!12!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!LED_RGB_LIN1!U7!13!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!USB_SWITCH!U7!44!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!USB_DM!U7!45!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!USB_DP!U7!46!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!SWDIO!U7!49!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!SWCLK!U7!50!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CAN2_TX!U7!51!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ADC2!U7!14!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_L2!U7!17!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!DAC_OUT1!U7!18!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_L3!U7!19!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!DAC_OUT2!U7!20!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_L4!U7!21!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CAN2_RX!U7!42!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ADC1!U7!43!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E3!U7!24!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E4!U7!25!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E5!U7!30!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_CE!U7!33!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_CS!U7!34!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_SCK!U7!35!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_MISO!U7!36!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_MOSI!U7!37!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CONTROL1!U7!26!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E8!U7!56!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CAN_STB!U7!57!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CAN1_RX!U7!58!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CAN1_TX!U7!59!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CONTROL3!U7!60!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!61!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CONTROL2!U7!62!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H4!U7!8!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H5!U7!9!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!STATUSWATCH3!U7!52!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!STATUSWATCH2!U7!53!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!STATUSWATCH1!U7!54!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H1!U7!2!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H2!U7!3!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H3!U7!4!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H6!U7!10!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!BUTTON_H7!U7!11!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E1!U7!22!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E2!U7!23!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRF_IRQ!U7!38!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E6!U7!39!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!ENCODER_E7!U7!40!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!STATUSWATCH4!U7!41!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!CONTROL4!U7!55!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!RCC_OSC_IN!U7!5!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!RCC_OSC_OUT!U7!6!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!NRST!U7!7!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!1!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!16!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!32!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!48!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!64!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!29!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!U7!28!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!15!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!31!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!47!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!63!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!GND_SIGNAL!U7!27!@scx.schematic1(sch_1):ins681945@scx.\stm32g474rbt6_u7_0.normal\(chips)!STM32G474RBT6!!!F1!!!!!!!!!!
+S!VCC33!R164!1!@scx.schematic1(sch_1):ins745866@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F77!!!!!!!!!!
+S!ENCODER_E6!R164!2!@scx.schematic1(sch_1):ins745866@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F77!!!!!!!!!!
+S!VCC33!R165!1!@scx.schematic1(sch_1):ins745850@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F76!!!!!!!!!!
+S!ENCODER_E5!R165!2!@scx.schematic1(sch_1):ins745850@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F76!!!!!!!!!!
+S!VCC33!R166!1!@scx.schematic1(sch_1):ins745924@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F75!!!!!!!!!!
+S!ENCODER_E7!R166!2!@scx.schematic1(sch_1):ins745924@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F75!!!!!!!!!!
+S!VCC33!R167!1!@scx.schematic1(sch_1):ins745940@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F74!!!!!!!!!!
+S!ENCODER_E8!R167!2!@scx.schematic1(sch_1):ins745940@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F74!!!!!!!!!!
+S!VCC33!R206!1!@scx.schematic1(sch_1):ins764833@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F73!!!!!!!!!!
+S!ENCODER_E1!R206!2!@scx.schematic1(sch_1):ins764833@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F73!!!!!!!!!!
+S!VCC33!R207!1!@scx.schematic1(sch_1):ins764849@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F72!!!!!!!!!!
+S!ENCODER_E2!R207!2!@scx.schematic1(sch_1):ins764849@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F72!!!!!!!!!!
+S!VCC33!R208!1!@scx.schematic1(sch_1):ins765535@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F71!!!!!!!!!!
+S!ENCODER_E3!R208!2!@scx.schematic1(sch_1):ins765535@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F71!!!!!!!!!!
+S!VCC33!R209!1!@scx.schematic1(sch_1):ins765551@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F70!!!!!!!!!!
+S!ENCODER_E4!R209!2!@scx.schematic1(sch_1):ins765551@oem_hub.\r2.normal\(chips)!R2_R0603_5K!!!F70!!!!!!!!!!
+S!VCC5V!R28!1!@scx.schematic1(sch_1):ins684663@project_worklib.\r_r28.normal\(chips)!R_R28_R0603_1K!!!F36!!!!!!!!!!
+S!LED_RGB_LIN1!R28!2!@scx.schematic1(sch_1):ins684663@project_worklib.\r_r28.normal\(chips)!R_R28_R0603_1K!!!F36!!!!!!!!!!
+S!N782855!R59!1!@scx.schematic1(sch_1):ins782883@project_worklib.\r_r59.normal\(chips)!R_R59_R0603_22R!!!F27!!!!!!!!!!
+S!AN_OUT2!R59!2!@scx.schematic1(sch_1):ins782883@project_worklib.\r_r59.normal\(chips)!R_R59_R0603_22R!!!F27!!!!!!!!!!
+S!N783237!R60!1!@scx.schematic1(sch_1):ins783279@project_worklib.\r_r60.normal\(chips)!R_R60_R0603_22R!!!F26!!!!!!!!!!
+S!AN_OUT1!R60!2!@scx.schematic1(sch_1):ins783279@project_worklib.\r_r60.normal\(chips)!R_R60_R0603_22R!!!F26!!!!!!!!!!
+S!DAC_OUT2!R61!1!@scx.schematic1(sch_1):ins782935@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_22R!!!F25!!!!!!!!!!
+S!N782969!R61!2!@scx.schematic1(sch_1):ins782935@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_22R!!!F25!!!!!!!!!!
+S!DAC_OUT1!R62!1!@scx.schematic1(sch_1):ins783331@project_worklib.\r_r62.normal\(chips)!R_R62_R0603_22R!!!F24!!!!!!!!!!
+S!N783365!R62!2!@scx.schematic1(sch_1):ins783331@project_worklib.\r_r62.normal\(chips)!R_R62_R0603_22R!!!F24!!!!!!!!!!
+S!ADC2!R220!1!@scx.schematic1(sch_1):ins1138159@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F43!!!!!!!!!!
+S!N1138153!R220!2!@scx.schematic1(sch_1):ins1138159@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F43!!!!!!!!!!
+S!ADC1!R222!1!@scx.schematic1(sch_1):ins1138823@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F42!!!!!!!!!!
+S!N1138817!R222!2!@scx.schematic1(sch_1):ins1138823@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F42!!!!!!!!!!
+S!ADC1!R74!1!@scx.schematic1(sch_1):ins886563@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F41!!!!!!!!!!
+S!N886557!R74!2!@scx.schematic1(sch_1):ins886563@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_2.2K!!!F41!!!!!!!!!!
+S!GND_SIGNAL!R221!1!@scx.schematic1(sch_1):ins1138175@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F40!!!!!!!!!!
+S!ADC2!R221!2!@scx.schematic1(sch_1):ins1138175@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F40!!!!!!!!!!
+S!GND_SIGNAL!R223!1!@scx.schematic1(sch_1):ins1138839@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F39!!!!!!!!!!
+S!ADC1!R223!2!@scx.schematic1(sch_1):ins1138839@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F39!!!!!!!!!!
+S!GND_SIGNAL!R75!1!@scx.schematic1(sch_1):ins886593@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F38!!!!!!!!!!
+S!ADC1!R75!2!@scx.schematic1(sch_1):ins886593@project_worklib.\r_r61.normal\(chips)!R_R61_R0603_10K!!!F38!!!!!!!!!!
+S!N782843!RF1!1!@scx.schematic1(sch_1):ins782821@project_worklib.\r_rf1.normal\(chips)!R_RF1_R0603_2.2K!!!F23!!!!!!!!!!
+S!N782855!RF1!2!@scx.schematic1(sch_1):ins782821@project_worklib.\r_rf1.normal\(chips)!R_RF1_R0603_2.2K!!!F23!!!!!!!!!!
+S!N783225!RF2!1!@scx.schematic1(sch_1):ins783203@project_worklib.\r_rf2.normal\(chips)!R_RF2_R0603_2.2K!!!F22!!!!!!!!!!
+S!N783237!RF2!2!@scx.schematic1(sch_1):ins783203@project_worklib.\r_rf2.normal\(chips)!R_RF2_R0603_2.2K!!!F22!!!!!!!!!!
+S!GND_SIGNAL!RG1!1!@scx.schematic1(sch_1):ins782805@project_worklib.\r_rg1.normal\(chips)!R_RG1_R0603_7.68K!!!F21!!!!!!!!!!
+S!N782843!RG1!2!@scx.schematic1(sch_1):ins782805@project_worklib.\r_rg1.normal\(chips)!R_RG1_R0603_7.68K!!!F21!!!!!!!!!!
+S!GND_SIGNAL!RG2!1!@scx.schematic1(sch_1):ins783187@project_worklib.\r_rg2.normal\(chips)!R_RG2_R0603_7.68K!!!F20!!!!!!!!!!
+S!N783225!RG2!2!@scx.schematic1(sch_1):ins783187@project_worklib.\r_rg2.normal\(chips)!R_RG2_R0603_7.68K!!!F20!!!!!!!!!!
+S!BUTTON_H6!C123!1!@scx.schematic1(sch_1):ins684937@project_worklib.\c_c41.normal\(chips)!C_C41_C0603_100NF!!!F152!!!!!!!!!!
+S!BUTTON_L4!C123!2!@scx.schematic1(sch_1):ins684937@project_worklib.\c_c41.normal\(chips)!C_C41_C0603_100NF!!!F152!!!!!!!!!!
+S!BUTTON_H5!C124!1!@scx.schematic1(sch_1):ins684953@project_worklib.\c_c40.normal\(chips)!C_C40_C0603_100NF!!!F151!!!!!!!!!!
+S!BUTTON_L4!C124!2!@scx.schematic1(sch_1):ins684953@project_worklib.\c_c40.normal\(chips)!C_C40_C0603_100NF!!!F151!!!!!!!!!!
+S!BUTTON_H4!C125!1!@scx.schematic1(sch_1):ins684969@project_worklib.\c_c39.normal\(chips)!C_C39_C0603_100NF!!!F150!!!!!!!!!!
+S!BUTTON_L4!C125!2!@scx.schematic1(sch_1):ins684969@project_worklib.\c_c39.normal\(chips)!C_C39_C0603_100NF!!!F150!!!!!!!!!!
+S!BUTTON_H8!C126!1!@scx.schematic1(sch_1):ins685912@project_worklib.\c_c35.normal\(chips)!C_C35_C0603_100NF!!!F149!!!!!!!!!!
+S!BUTTON_L3!C126!2!@scx.schematic1(sch_1):ins685912@project_worklib.\c_c35.normal\(chips)!C_C35_C0603_100NF!!!F149!!!!!!!!!!
+S!BUTTON_H7!C127!1!@scx.schematic1(sch_1):ins685928@project_worklib.\c_c34.normal\(chips)!C_C34_C0603_100NF!!!F148!!!!!!!!!!
+S!BUTTON_L3!C127!2!@scx.schematic1(sch_1):ins685928@project_worklib.\c_c34.normal\(chips)!C_C34_C0603_100NF!!!F148!!!!!!!!!!
+S!BUTTON_H3!C128!1!@scx.schematic1(sch_1):ins686278@project_worklib.\c_c38.normal\(chips)!C_C38_C0603_100NF!!!F147!!!!!!!!!!
+S!BUTTON_L4!C128!2!@scx.schematic1(sch_1):ins686278@project_worklib.\c_c38.normal\(chips)!C_C38_C0603_100NF!!!F147!!!!!!!!!!
+S!BUTTON_H1!C129!1!@scx.schematic1(sch_1):ins686310@project_worklib.\c_c36.normal\(chips)!C_C36_C0603_100NF!!!F146!!!!!!!!!!
+S!BUTTON_L4!C129!2!@scx.schematic1(sch_1):ins686310@project_worklib.\c_c36.normal\(chips)!C_C36_C0603_100NF!!!F146!!!!!!!!!!
+S!NRST!C18!1!@scx.schematic1(sch_1):ins816503@project_worklib.\c_c18.normal\(chips)!C_C18_C0603_100NF!!!F143!!!!!!!!!!
+S!GND_SIGNAL!C18!2!@scx.schematic1(sch_1):ins816503@project_worklib.\c_c18.normal\(chips)!C_C18_C0603_100NF!!!F143!!!!!!!!!!
+S!BUTTON_H7!C32!1!@scx.schematic1(sch_1):ins686984@project_worklib.\c_c32.normal\(chips)!C_C32_C0603_100NF!!!F141!!!!!!!!!!
+S!BUTTON_L2!C32!2!@scx.schematic1(sch_1):ins686984@project_worklib.\c_c32.normal\(chips)!C_C32_C0603_100NF!!!F141!!!!!!!!!!
+S!BUTTON_H8!C33!1!@scx.schematic1(sch_1):ins686958@project_worklib.\c_c33.normal\(chips)!C_C33_C0603_100NF!!!F140!!!!!!!!!!
+S!BUTTON_L2!C33!2!@scx.schematic1(sch_1):ins686958@project_worklib.\c_c33.normal\(chips)!C_C33_C0603_100NF!!!F140!!!!!!!!!!
+S!BUTTON_H2!C37!1!@scx.schematic1(sch_1):ins686294@project_worklib.\c_c37.normal\(chips)!C_C37_C0603_100NF!!!F137!!!!!!!!!!
+S!BUTTON_L4!C37!2!@scx.schematic1(sch_1):ins686294@project_worklib.\c_c37.normal\(chips)!C_C37_C0603_100NF!!!F137!!!!!!!!!!
+S!N1022087!R218!1!@scx.schematic1(sch_1):ins1022069@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F46!!!!!!!!!!
+S!VIN!R218!2!@scx.schematic1(sch_1):ins1022069@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F46!!!!!!!!!!
+S!GND_SIGNAL!R219!1!@scx.schematic1(sch_1):ins1023024@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F45!!!!!!!!!!
+S!N1022087!R219!2!@scx.schematic1(sch_1):ins1023024@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F45!!!!!!!!!!
+S!NRST!R23!1!@scx.schematic1(sch_1):ins816469@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F44!!!!!!!!!!
+S!VCC33!R23!2!@scx.schematic1(sch_1):ins816469@project_worklib.\r_r23.normal\(chips)!R_R23_R0603_10K!!!F44!!!!!!!!!!
+S!REALGND!P21!1!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!LOWSIDE3!P21!2!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!LOWSIDE2!P21!3!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!LOWSIDE1!P21!4!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!CAN2L!P21!5!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!CAN2H!P21!6!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!VIN!P21!7!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!!P21!8!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!!P21!9!@scx.schematic1(sch_1):ins777027@scx.\zx-mx1_0.25-7pwt_p21.normal\(chips)!ZX-MX1.25-7PWT!!!F96!!!!!!!!!!
+S!N714540!R188!1!@scx.schematic1(sch_1):ins714594@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F68!!!!!!!!!!
+S!CONTROL2!R188!2!@scx.schematic1(sch_1):ins714594@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F68!!!!!!!!!!
+S!N714364!R189!1!@scx.schematic1(sch_1):ins714366@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F67!!!!!!!!!!
+S!CONTROL1!R189!2!@scx.schematic1(sch_1):ins714366@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F67!!!!!!!!!!
+S!N714432!R190!1!@scx.schematic1(sch_1):ins714438@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F66!!!!!!!!!!
+S!VCC5V!R190!2!@scx.schematic1(sch_1):ins714438@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F66!!!!!!!!!!
+S!N714156!R199!1!@scx.schematic1(sch_1):ins714238@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F65!!!!!!!!!!
+S!STATUSWATCH3!R199!2!@scx.schematic1(sch_1):ins714238@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F65!!!!!!!!!!
+S!N714170!R200!1!@scx.schematic1(sch_1):ins714254@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F64!!!!!!!!!!
+S!STATUSWATCH1!R200!2!@scx.schematic1(sch_1):ins714254@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F64!!!!!!!!!!
+S!N714326!R201!1!@scx.schematic1(sch_1):ins714336@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F63!!!!!!!!!!
+S!CONTROL3!R201!2!@scx.schematic1(sch_1):ins714336@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F63!!!!!!!!!!
+S!N714410!R202!1!@scx.schematic1(sch_1):ins714454@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F62!!!!!!!!!!
+S!VCC5V!R202!2!@scx.schematic1(sch_1):ins714454@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F62!!!!!!!!!!
+S!N714500!R205!1!@scx.schematic1(sch_1):ins714610@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F61!!!!!!!!!!
+S!CONTROL4!R205!2!@scx.schematic1(sch_1):ins714610@wk2_library.\r2.normal\(chips)!R2_R0603_1K!!!F61!!!!!!!!!!
+S!STATUSWATCH2!R210!1!@scx.schematic1(sch_1):ins821358@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F54!!!!!!!!!!
+S!N8213681!R210!2!@scx.schematic1(sch_1):ins821358@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F54!!!!!!!!!!
+S!STATUSWATCH4!R211!1!@scx.schematic1(sch_1):ins821415@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F53!!!!!!!!!!
+S!N8214251!R211!2!@scx.schematic1(sch_1):ins821415@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F53!!!!!!!!!!
+S!STATUSWATCH1!R212!1!@scx.schematic1(sch_1):ins821476@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F52!!!!!!!!!!
+S!N8214861!R212!2!@scx.schematic1(sch_1):ins821476@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F52!!!!!!!!!!
+S!STATUSWATCH3!R213!1!@scx.schematic1(sch_1):ins821543@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F51!!!!!!!!!!
+S!N8215531!R213!2!@scx.schematic1(sch_1):ins821543@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F51!!!!!!!!!!
+S!N8214861!R214!1!@scx.schematic1(sch_1):ins821755@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F50!!!!!!!!!!
+S!GND_SIGNAL!R214!2!@scx.schematic1(sch_1):ins821755@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F50!!!!!!!!!!
+S!N8213681!R215!1!@scx.schematic1(sch_1):ins821783@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F49!!!!!!!!!!
+S!GND_SIGNAL!R215!2!@scx.schematic1(sch_1):ins821783@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F49!!!!!!!!!!
+S!N8215531!R216!1!@scx.schematic1(sch_1):ins821867@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F48!!!!!!!!!!
+S!GND_SIGNAL!R216!2!@scx.schematic1(sch_1):ins821867@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F48!!!!!!!!!!
+S!N8214251!R217!1!@scx.schematic1(sch_1):ins821895@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F47!!!!!!!!!!
+S!GND_SIGNAL!R217!2!@scx.schematic1(sch_1):ins821895@wk2_library.\r2.normal\(chips)!R2_R0603_330!!!F47!!!!!!!!!!
+S!BUTTON_H1!R29!1!@scx.schematic1(sch_1):ins773234@project_worklib.\r_r29.normal\(chips)!R_R29_R0603_10K!!!F35!!!!!!!!!!
+S!VCC33!R29!2!@scx.schematic1(sch_1):ins773234@project_worklib.\r_r29.normal\(chips)!R_R29_R0603_10K!!!F35!!!!!!!!!!
+S!BUTTON_H2!R30!1!@scx.schematic1(sch_1):ins773264@project_worklib.\r_r30.normal\(chips)!R_R30_R0603_10K!!!F34!!!!!!!!!!
+S!VCC33!R30!2!@scx.schematic1(sch_1):ins773264@project_worklib.\r_r30.normal\(chips)!R_R30_R0603_10K!!!F34!!!!!!!!!!
+S!BUTTON_H3!R31!1!@scx.schematic1(sch_1):ins773294@project_worklib.\r_r31.normal\(chips)!R_R31_R0603_10K!!!F33!!!!!!!!!!
+S!VCC33!R31!2!@scx.schematic1(sch_1):ins773294@project_worklib.\r_r31.normal\(chips)!R_R31_R0603_10K!!!F33!!!!!!!!!!
+S!BUTTON_H4!R32!1!@scx.schematic1(sch_1):ins773324@project_worklib.\r_r32.normal\(chips)!R_R32_R0603_10K!!!F32!!!!!!!!!!
+S!VCC33!R32!2!@scx.schematic1(sch_1):ins773324@project_worklib.\r_r32.normal\(chips)!R_R32_R0603_10K!!!F32!!!!!!!!!!
+S!BUTTON_H5!R33!1!@scx.schematic1(sch_1):ins773354@project_worklib.\r_r33.normal\(chips)!R_R33_R0603_10K!!!F31!!!!!!!!!!
+S!VCC33!R33!2!@scx.schematic1(sch_1):ins773354@project_worklib.\r_r33.normal\(chips)!R_R33_R0603_10K!!!F31!!!!!!!!!!
+S!BUTTON_H6!R34!1!@scx.schematic1(sch_1):ins773384@project_worklib.\r_r34.normal\(chips)!R_R34_R0603_10K!!!F30!!!!!!!!!!
+S!VCC33!R34!2!@scx.schematic1(sch_1):ins773384@project_worklib.\r_r34.normal\(chips)!R_R34_R0603_10K!!!F30!!!!!!!!!!
+S!BUTTON_H7!R35!1!@scx.schematic1(sch_1):ins773414@project_worklib.\r_r35.normal\(chips)!R_R35_R0603_10K!!!F29!!!!!!!!!!
+S!VCC33!R35!2!@scx.schematic1(sch_1):ins773414@project_worklib.\r_r35.normal\(chips)!R_R35_R0603_10K!!!F29!!!!!!!!!!
+S!BUTTON_H8!R36!1!@scx.schematic1(sch_1):ins773444@project_worklib.\r_r36.normal\(chips)!R_R36_R0603_10K!!!F28!!!!!!!!!!
+S!VCC33!R36!2!@scx.schematic1(sch_1):ins773444@project_worklib.\r_r36.normal\(chips)!R_R36_R0603_10K!!!F28!!!!!!!!!!
+S!BUTTON_L2!U11!1!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!BUTTON_H1!U11!2!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!ENCODER_E6!U11!3!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!GND_SIGNAL!U11!4!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!ENCODER_E5!U11!5!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!!U11!6!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!!U11!7!@scx.schematic1(sch_1):ins760530@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F16!!!!!!!!!!
+S!BUTTON_L3!U22!1!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!BUTTON_H1!U22!2!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!ENCODER_E8!U22!3!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!GND_SIGNAL!U22!4!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!ENCODER_E7!U22!5!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!!U22!6!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!!U22!7!@scx.schematic1(sch_1):ins886070@scx.\bx-mx1_0.25-5pwt_u11.normal\(chips)!BX-MX1.25-5PWT!!!F15!!!!!!!!!!
+S!LOWSIDE1!U15!1!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!LOWSIDE2!U15!2!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!LOWSIDE3!U15!3!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!LOWSIDE4!U15!4!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!!U15!5!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!!U15!6!@scx.schematic1(sch_1):ins778247@scx.\zx-zh1_0.5-4pwt_u15.normal\(chips)!ZX-ZH1.5-4PWT!!!F10!!!!!!!!!!
+S!N782969!U21!5!@scx.schematic1(sch_1):ins782861@project_worklib.\rs6332xm_u13a.normal\(chips)!RS6332XM!!!F5!!!!!!!!!!
+S!N782843!U21!6!@scx.schematic1(sch_1):ins782861@project_worklib.\rs6332xm_u13a.normal\(chips)!RS6332XM!!!F5!!!!!!!!!!
+S!N782855!U21!7!@scx.schematic1(sch_1):ins782861@project_worklib.\rs6332xm_u13a.normal\(chips)!RS6332XM!!!F5!!!!!!!!!!
+S!N783365!U21!3!@scx.schematic1(sch_1):ins783253@project_worklib.\rs6332xm_u13b.normal\(chips)!RS6332XM!!!F4!!!!!!!!!!
+S!VCC5V!U21!8!@scx.schematic1(sch_1):ins783253@project_worklib.\rs6332xm_u13b.normal\(chips)!RS6332XM!!!F4!!!!!!!!!!
+S!N783225!U21!2!@scx.schematic1(sch_1):ins783253@project_worklib.\rs6332xm_u13b.normal\(chips)!RS6332XM!!!F4!!!!!!!!!!
+S!GND_SIGNAL!U21!4!@scx.schematic1(sch_1):ins783253@project_worklib.\rs6332xm_u13b.normal\(chips)!RS6332XM!!!F4!!!!!!!!!!
+S!N783237!U21!1!@scx.schematic1(sch_1):ins783253@project_worklib.\rs6332xm_u13b.normal\(chips)!RS6332XM!!!F4!!!!!!!!!!
+S!GND_SIGNAL!U23!2!@scx.schematic1(sch_1):ins886523@project_worklib.\slss49e-3_u21.normal\(chips)!SLSS49E-3!!!F3!!!!!!!!!!
+S!VCC33!U23!1!@scx.schematic1(sch_1):ins886523@project_worklib.\slss49e-3_u21.normal\(chips)!SLSS49E-3!!!F3!!!!!!!!!!
+S!N886557!U23!3!@scx.schematic1(sch_1):ins886523@project_worklib.\slss49e-3_u21.normal\(chips)!SLSS49E-3!!!F3!!!!!!!!!!
+S!GND_SIGNAL!C25!1!@scx.schematic1(sch_1):ins602266@project_worklib.\c_c25.normal\(chips)!C_C25_C0603_4.7NF/1000V!!!F142!!!!!!!!!!
+S!N602224!C25!2!@scx.schematic1(sch_1):ins602266@project_worklib.\c_c25.normal\(chips)!C_C25_C0603_4.7NF/1000V!!!F142!!!!!!!!!!
+S!GND_SIGNAL!R10!1!@scx.schematic1(sch_1):ins601968@project_worklib.\r_r10.normal\(chips)!R_R10_R0603_5.1K!!!F89!!!!!!!!!!
+S!N601998!R10!2!@scx.schematic1(sch_1):ins601968@project_worklib.\r_r10.normal\(chips)!R_R10_R0603_5.1K!!!F89!!!!!!!!!!
+S!N1048777!R13!1!@scx.schematic1(sch_1):ins634703@project_worklib.\r_r13.normal\(chips)!R_R13_R0603_5.1K!!!F80!!!!!!!!!!
+S!GND_SIGNAL!R13!2!@scx.schematic1(sch_1):ins634703@project_worklib.\r_r13.normal\(chips)!R_R13_R0603_5.1K!!!F80!!!!!!!!!!
+S!GND_SIGNAL!R16!1!@scx.schematic1(sch_1):ins602206@project_worklib.\r_r16.normal\(chips)!R_R16_R0603_56K!!!F78!!!!!!!!!!
+S!N602224!R16!2!@scx.schematic1(sch_1):ins602206@project_worklib.\r_r16.normal\(chips)!R_R16_R0603_56K!!!F78!!!!!!!!!!
+S!USB_DP!R18!1!@scx.schematic1(sch_1):ins602358@project_worklib.\r_r18.normal\(chips)!R_R18_R0603_22R!!!F69!!!!!!!!!!
+S!USB_DP1!R18!2!@scx.schematic1(sch_1):ins602358@project_worklib.\r_r18.normal\(chips)!R_R18_R0603_22R!!!F69!!!!!!!!!!
+S!USB_DM!R19!1!@scx.schematic1(sch_1):ins602414@project_worklib.\r_r19.normal\(chips)!R_R19_R0603_22R!!!F60!!!!!!!!!!
+S!USB_DM1!R19!2!@scx.schematic1(sch_1):ins602414@project_worklib.\r_r19.normal\(chips)!R_R19_R0603_22R!!!F60!!!!!!!!!!
+S!VCC33!R193!1!@scx.schematic1(sch_1):ins602462@wk2_library.\r2.normal\(chips)!R2_R0603_1.5K!!!F59!!!!!!!!!!
+S!USB_DP1!R193!2!@scx.schematic1(sch_1):ins602462@wk2_library.\r2.normal\(chips)!R2_R0603_1.5K!!!F59!!!!!!!!!!
+S!VCC5V!R197!1!@scx.schematic1(sch_1):ins714122@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F58!!!!!!!!!!
+S!N714156!R197!2!@scx.schematic1(sch_1):ins714122@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F58!!!!!!!!!!
+S!VCC5V!R198!1!@scx.schematic1(sch_1):ins714138@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F57!!!!!!!!!!
+S!N714170!R198!2!@scx.schematic1(sch_1):ins714138@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F57!!!!!!!!!!
+S!STATUSWATCH2!R203!1!@scx.schematic1(sch_1):ins714546@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F56!!!!!!!!!!
+S!N714432!R203!2!@scx.schematic1(sch_1):ins714546@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F56!!!!!!!!!!
+S!STATUSWATCH4!R204!1!@scx.schematic1(sch_1):ins714562@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F55!!!!!!!!!!
+S!N714410!R204!2!@scx.schematic1(sch_1):ins714562@wk2_library.\r2.normal\(chips)!R2_R0603_10K!!!F55!!!!!!!!!!
+S!NRF_CE!U16!2!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!NRF_CS!U16!3!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!GND_SIGNAL!U16!8!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!GND_SIGNAL!U16!9!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!GND_SIGNAL!U16!10!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!NRF_IRQ!U16!7!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!NRF_MISO!U16!6!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!NRF_MOSI!U16!5!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!NRF_SCK!U16!4!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!VCC33!U16!1!@scx.schematic1(sch_1):ins605435@obd.\e01-ml01sp4_u4_0.normal\(chips)!E01-ML01SP4!!!F9!!!!!!!!!!
+S!VCC5V!C155!1!@scx.schematic1(sch_1):ins1168814@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F165!!!!!!!!!!
+S!GND_SIGNAL!C155!2!@scx.schematic1(sch_1):ins1168814@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F165!!!!!!!!!!
+S!GND_SIGNAL!C158!1!@scx.schematic1(sch_1):ins1175232@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F164!!!!!!!!!!
+S!GND_SIGNAL!C158!2!@scx.schematic1(sch_1):ins1175232@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F164!!!!!!!!!!
+S!VCC33!C159!1!@scx.schematic1(sch_1):ins1186721@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F163!!!!!!!!!!
+S!GND_SIGNAL!C159!2!@scx.schematic1(sch_1):ins1186721@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F163!!!!!!!!!!
+S!BUTTON_H1!C130!1!@scx.schematic1(sch_1):ins764256@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F189!!!!!!!!!!
+S!BUTTON_L3!C130!2!@scx.schematic1(sch_1):ins764256@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F189!!!!!!!!!!
+S!ENCODER_E1!C131!1!@scx.schematic1(sch_1):ins764877@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F188!!!!!!!!!!
+S!GND_SIGNAL!C131!2!@scx.schematic1(sch_1):ins764877@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F188!!!!!!!!!!
+S!ENCODER_E2!C132!1!@scx.schematic1(sch_1):ins764893@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F187!!!!!!!!!!
+S!GND_SIGNAL!C132!2!@scx.schematic1(sch_1):ins764893@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F187!!!!!!!!!!
+S!ENCODER_E3!C133!1!@scx.schematic1(sch_1):ins765579@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F186!!!!!!!!!!
+S!GND_SIGNAL!C133!2!@scx.schematic1(sch_1):ins765579@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F186!!!!!!!!!!
+S!ENCODER_E4!C134!1!@scx.schematic1(sch_1):ins765595@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F185!!!!!!!!!!
+S!GND_SIGNAL!C134!2!@scx.schematic1(sch_1):ins765595@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F185!!!!!!!!!!
+S!BUTTON_H2!C135!1!@scx.schematic1(sch_1):ins766944@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F184!!!!!!!!!!
+S!BUTTON_L3!C135!2!@scx.schematic1(sch_1):ins766944@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F184!!!!!!!!!!
+S!BUTTON_H3!C136!1!@scx.schematic1(sch_1):ins767032@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F183!!!!!!!!!!
+S!BUTTON_L3!C136!2!@scx.schematic1(sch_1):ins767032@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F183!!!!!!!!!!
+S!BUTTON_H4!C137!1!@scx.schematic1(sch_1):ins767058@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F182!!!!!!!!!!
+S!BUTTON_L3!C137!2!@scx.schematic1(sch_1):ins767058@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F182!!!!!!!!!!
+S!BUTTON_H5!C138!1!@scx.schematic1(sch_1):ins767264@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F181!!!!!!!!!!
+S!BUTTON_L3!C138!2!@scx.schematic1(sch_1):ins767264@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F181!!!!!!!!!!
+S!BUTTON_H6!C139!1!@scx.schematic1(sch_1):ins767323@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F180!!!!!!!!!!
+S!BUTTON_L3!C139!2!@scx.schematic1(sch_1):ins767323@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F180!!!!!!!!!!
+S!BUTTON_H2!C140!1!@scx.schematic1(sch_1):ins771213@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F179!!!!!!!!!!
+S!BUTTON_L2!C140!2!@scx.schematic1(sch_1):ins771213@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F179!!!!!!!!!!
+S!BUTTON_H4!C141!1!@scx.schematic1(sch_1):ins771249@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F178!!!!!!!!!!
+S!BUTTON_L2!C141!2!@scx.schematic1(sch_1):ins771249@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F178!!!!!!!!!!
+S!BUTTON_H3!C142!1!@scx.schematic1(sch_1):ins771275@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F177!!!!!!!!!!
+S!BUTTON_L2!C142!2!@scx.schematic1(sch_1):ins771275@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F177!!!!!!!!!!
+S!BUTTON_H5!C143!1!@scx.schematic1(sch_1):ins771311@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F176!!!!!!!!!!
+S!BUTTON_L2!C143!2!@scx.schematic1(sch_1):ins771311@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F176!!!!!!!!!!
+S!BUTTON_H6!C144!1!@scx.schematic1(sch_1):ins771337@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F175!!!!!!!!!!
+S!BUTTON_L2!C144!2!@scx.schematic1(sch_1):ins771337@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F175!!!!!!!!!!
+S!GND_SIGNAL!C147!1!@scx.schematic1(sch_1):ins806494@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F172!!!!!!!!!!
+S!VCC33!C147!2!@scx.schematic1(sch_1):ins806494@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F172!!!!!!!!!!
+S!GND_SIGNAL!C148!1!@scx.schematic1(sch_1):ins806546@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F171!!!!!!!!!!
+S!VCC33!C148!2!@scx.schematic1(sch_1):ins806546@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F171!!!!!!!!!!
+S!GND_SIGNAL!C149!1!@scx.schematic1(sch_1):ins806572@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F170!!!!!!!!!!
+S!VCC33!C149!2!@scx.schematic1(sch_1):ins806572@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F170!!!!!!!!!!
+S!GND_SIGNAL!C150!1!@scx.schematic1(sch_1):ins810575@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F169!!!!!!!!!!
+S!VCC33!C150!2!@scx.schematic1(sch_1):ins810575@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F169!!!!!!!!!!
+S!GND_SIGNAL!C151!1!@scx.schematic1(sch_1):ins810904@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F168!!!!!!!!!!
+S!VCC33!C151!2!@scx.schematic1(sch_1):ins810904@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F168!!!!!!!!!!
+S!GND_SIGNAL!C152!1!@scx.schematic1(sch_1):ins818517@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F167!!!!!!!!!!
+S!VCC33!C152!2!@scx.schematic1(sch_1):ins818517@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F167!!!!!!!!!!
+S!GND_SIGNAL!C153!1!@scx.schematic1(sch_1):ins819512@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F166!!!!!!!!!!
+S!VCC33!C153!2!@scx.schematic1(sch_1):ins819512@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F166!!!!!!!!!!
+S!BUTTON_H1!C86!1!@scx.schematic1(sch_1):ins746146@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F159!!!!!!!!!!
+S!BUTTON_L2!C86!2!@scx.schematic1(sch_1):ins746146@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F159!!!!!!!!!!
+S!ENCODER_E6!C87!1!@scx.schematic1(sch_1):ins746130@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F158!!!!!!!!!!
+S!GND_SIGNAL!C87!2!@scx.schematic1(sch_1):ins746130@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F158!!!!!!!!!!
+S!ENCODER_E5!C88!1!@scx.schematic1(sch_1):ins746114@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F157!!!!!!!!!!
+S!GND_SIGNAL!C88!2!@scx.schematic1(sch_1):ins746114@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F157!!!!!!!!!!
+S!ENCODER_E7!C89!1!@scx.schematic1(sch_1):ins746172@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F156!!!!!!!!!!
+S!GND_SIGNAL!C89!2!@scx.schematic1(sch_1):ins746172@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F156!!!!!!!!!!
+S!ENCODER_E8!C90!1!@scx.schematic1(sch_1):ins746188@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F155!!!!!!!!!!
+S!GND_SIGNAL!C90!2!@scx.schematic1(sch_1):ins746188@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F155!!!!!!!!!!
+S!BUTTON_H7!C145!1!@scx.schematic1(sch_1):ins772481@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F174!!!!!!!!!!
+S!BUTTON_L4!C145!2!@scx.schematic1(sch_1):ins772481@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F174!!!!!!!!!!
+S!BUTTON_H8!C146!1!@scx.schematic1(sch_1):ins772575@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F173!!!!!!!!!!
+S!BUTTON_L4!C146!2!@scx.schematic1(sch_1):ins772575@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F173!!!!!!!!!!
+S!VCC33!C122!1!@scx.schematic1(sch_1):ins653579@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F190!!!!!!!!!!
+S!GND_SIGNAL!C122!2!@scx.schematic1(sch_1):ins653579@oem_hub.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F190!!!!!!!!!!
+S!GND_SIGNAL!C1!1!@scx.schematic1(sch_1):ins482185@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F192!!!!!!!!!!
+S!VCC5V!C1!2!@scx.schematic1(sch_1):ins482185@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F192!!!!!!!!!!
+S!GND_SIGNAL!C119!1!@scx.schematic1(sch_1):ins595681@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F191!!!!!!!!!!
+S!VCC5V!C119!2!@scx.schematic1(sch_1):ins595681@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F191!!!!!!!!!!
+S!N477649!C38!1!@scx.schematic1(sch_1):ins481399@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F162!!!!!!!!!!
+S!GND_SIGNAL!C38!2!@scx.schematic1(sch_1):ins481399@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F162!!!!!!!!!!
+S!N477663!C39!1!@scx.schematic1(sch_1):ins482545@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F161!!!!!!!!!!
+S!SW!C39!2!@scx.schematic1(sch_1):ins482545@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F161!!!!!!!!!!
+S!VIN!C44!1!@scx.schematic1(sch_1):ins479283@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F160!!!!!!!!!!
+S!GND_SIGNAL!C44!2!@scx.schematic1(sch_1):ins479283@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100NF!!!F160!!!!!!!!!!
+S!CAN2_SPLIT!C118!1!@scx.schematic1(sch_1):ins595519@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100PF!!!F154!!!!!!!!!!
+S!GND_SIGNAL!C118!2!@scx.schematic1(sch_1):ins595519@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100PF!!!F154!!!!!!!!!!
+S!CAN1_SPLIT!C2!1!@scx.schematic1(sch_1):ins481127@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100PF!!!F153!!!!!!!!!!
+S!GND_SIGNAL!C2!2!@scx.schematic1(sch_1):ins481127@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_100PF!!!F153!!!!!!!!!!
+S!RCC_OSC_IN!C35!1!@scx.schematic1(sch_1):ins482409@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F139!!!!!!!!!!
+S!GND_SIGNAL!C35!2!@scx.schematic1(sch_1):ins482409@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F139!!!!!!!!!!
+S!RCC_OSC_OUT!C36!1!@scx.schematic1(sch_1):ins479941@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F138!!!!!!!!!!
+S!GND_SIGNAL!C36!2!@scx.schematic1(sch_1):ins479941@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_10PF!!!F138!!!!!!!!!!
+S!VCC5V!C40!1!@scx.schematic1(sch_1):ins479393@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F136!!!!!!!!!!
+S!GND_SIGNAL!C40!2!@scx.schematic1(sch_1):ins479393@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F136!!!!!!!!!!
+S!VCC5V!C41!1!@scx.schematic1(sch_1):ins481901@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F135!!!!!!!!!!
+S!GND_SIGNAL!C41!2!@scx.schematic1(sch_1):ins481901@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F135!!!!!!!!!!
+S!GND_SIGNAL!C47!1!@scx.schematic1(sch_1):ins482703@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F134!!!!!!!!!!
+S!VCC33!C47!2!@scx.schematic1(sch_1):ins482703@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_22UF!!!F134!!!!!!!!!!
+S!N477701!C45!1!@scx.schematic1(sch_1):ins479851@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_47NF!!!F133!!!!!!!!!!
+S!GND_SIGNAL!C45!2!@scx.schematic1(sch_1):ins479851@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_47NF!!!F133!!!!!!!!!!
+S!GND_SIGNAL!C46!1!@scx.schematic1(sch_1):ins478769@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_1UF!!!F132!!!!!!!!!!
+S!VCC5V!C46!2!@scx.schematic1(sch_1):ins478769@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_1UF!!!F132!!!!!!!!!!
+S!FB33!C48!1!@scx.schematic1(sch_1):ins482725@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_2.2NF!!!F131!!!!!!!!!!
+S!VCC33!C48!2!@scx.schematic1(sch_1):ins482725@wk2_library.\cap np.normal\(chips)!CAP NP_C0603_2.2NF!!!F131!!!!!!!!!!
+S!GND_SIGNAL!C70!1!@scx.schematic1(sch_1):ins481171@wk2_library.\c1206.normal\(chips)!C1206_C3216-T0P85-1206_10UF!!!F130!!!!!!!!!!
+S!VIN!C70!2!@scx.schematic1(sch_1):ins481171@wk2_library.\c1206.normal\(chips)!C1206_C3216-T0P85-1206_10UF!!!F130!!!!!!!!!!
+S!GND_SIGNAL!C71!1!@scx.schematic1(sch_1):ins478879@wk2_library.\c1206.normal\(chips)!C1206_C3216-T0P85-1206_10UF!!!F129!!!!!!!!!!
+S!VIN!C71!2!@scx.schematic1(sch_1):ins478879@wk2_library.\c1206.normal\(chips)!C1206_C3216-T0P85-1206_10UF!!!F129!!!!!!!!!!
+S!SW!L1!1!@scx.schematic1(sch_1):ins479349@wk2_library.\inductor.normal\(chips)!INDUCTOR_SMD-4P1X4P5-2P_10UH!!!F114!!!!!!!!!!
+S!VCC5V!L1!2!@scx.schematic1(sch_1):ins479349@wk2_library.\inductor.normal\(chips)!INDUCTOR_SMD-4P1X4P5-2P_10UH!!!F114!!!!!!!!!!
+S!OEMH!R1!1!@scx.schematic1(sch_1):ins478633@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F93!!!!!!!!!!
+S!CAN1_SPLIT!R1!2!@scx.schematic1(sch_1):ins478633@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F93!!!!!!!!!!
+S!CAN2H!R132!1!@scx.schematic1(sch_1):ins595549@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F92!!!!!!!!!!
+S!CAN2H-60R!R132!2!@scx.schematic1(sch_1):ins595549@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F92!!!!!!!!!!
+S!CAN2_SPLIT!R133!1!@scx.schematic1(sch_1):ins595713@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F91!!!!!!!!!!
+S!CAN2L!R133!2!@scx.schematic1(sch_1):ins595713@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F91!!!!!!!!!!
+S!CAN1_SPLIT!R2!1!@scx.schematic1(sch_1):ins479963@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F90!!!!!!!!!!
+S!OEML!R2!2!@scx.schematic1(sch_1):ins479963@wk2_library.\r2.normal\(chips)!R2_R0603_60!!!F90!!!!!!!!!!
+S!N477649!R123!1!@scx.schematic1(sch_1):ins481493@wk2_library.\r2.normal\(chips)!R2_R0603_100K 1%!!!F88!!!!!!!!!!
+S!PG!R123!2!@scx.schematic1(sch_1):ins481493@wk2_library.\r2.normal\(chips)!R2_R0603_100K 1%!!!F88!!!!!!!!!!
+S!N477709!R129!1!@scx.schematic1(sch_1):ins478541@wk2_library.\r2.normal\(chips)!R2_R0603_100K 1%!!!F87!!!!!!!!!!
+S!VCC33!R129!2!@scx.schematic1(sch_1):ins478541@wk2_library.\r2.normal\(chips)!R2_R0603_100K 1%!!!F87!!!!!!!!!!
+S!N477663!R124!1!@scx.schematic1(sch_1):ins482387@wk2_library.\r2.normal\(chips)!R2_R0603_20!!!F86!!!!!!!!!!
+S!N597302!R124!2!@scx.schematic1(sch_1):ins482387@wk2_library.\r2.normal\(chips)!R2_R0603_20!!!F86!!!!!!!!!!
+S!VCC5V!R125!1!@scx.schematic1(sch_1):ins481655@wk2_library.\r2.normal\(chips)!R2_R0603_41.2K!!!F85!!!!!!!!!!
+S!N477673!R125!2!@scx.schematic1(sch_1):ins481655@wk2_library.\r2.normal\(chips)!R2_R0603_41.2K!!!F85!!!!!!!!!!
+S!N477673!R126!1!@scx.schematic1(sch_1):ins482589@wk2_library.\r2.normal\(chips)!R2_R0603_51K!!!F84!!!!!!!!!!
+S!FB_VIN!R126!2!@scx.schematic1(sch_1):ins482589@wk2_library.\r2.normal\(chips)!R2_R0603_51K!!!F84!!!!!!!!!!
+S!GND_SIGNAL!R127!1!@scx.schematic1(sch_1):ins481149@wk2_library.\r2.normal\(chips)!R2_R0603_7.68K!!!F83!!!!!!!!!!
+S!N477673!R127!2!@scx.schematic1(sch_1):ins481149@wk2_library.\r2.normal\(chips)!R2_R0603_7.68K!!!F83!!!!!!!!!!
+S!EN!R128!1!@scx.schematic1(sch_1):ins479261@wk2_library.\r2.normal\(chips)!R2_R0603_1M!!!F82!!!!!!!!!!
+S!VIN!R128!2!@scx.schematic1(sch_1):ins479261@wk2_library.\r2.normal\(chips)!R2_R0603_1M!!!F82!!!!!!!!!!
+S!FB33!R131!1!@scx.schematic1(sch_1):ins481743@wk2_library.\r2.normal\(chips)!R2_R0603_1M!!!F81!!!!!!!!!!
+S!GND_SIGNAL!R131!2!@scx.schematic1(sch_1):ins481743@wk2_library.\r2.normal\(chips)!R2_R0603_1M!!!F81!!!!!!!!!!
+S!VCC33!R130!1!@scx.schematic1(sch_1):ins481633@wk2_library.\r2.normal\(chips)!R2_R0603_1.65M!!!F79!!!!!!!!!!
+S!FB33!R130!2!@scx.schematic1(sch_1):ins481633@wk2_library.\r2.normal\(chips)!R2_R0603_1.65M!!!F79!!!!!!!!!!
+S!CAN2H!U14!7!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!CAN2L!U14!6!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!GND_SIGNAL!U14!2!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!CAN2_RX!U14!4!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!CAN2_SPLIT!U14!5!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!CAN_STB!U14!8!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!CAN2_TX!U14!1!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!VCC5V!U14!3!@scx.schematic1(sch_1):ins595565@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F12!!!!!!!!!!
+S!OEMH!U2!7!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!OEML!U2!6!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!GND_SIGNAL!U2!2!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!CAN1_RX!U2!4!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!CAN1_SPLIT!U2!5!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!CAN_STB!U2!8!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!CAN1_TX!U2!1!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!VCC5V!U2!3!@scx.schematic1(sch_1):ins479895@wk2_library.\tja1040t.normal\(sch_1)!TJA1040T_SOIC-8_TJA1040T!!!F11!!!!!!!!!!
+S!RCC_OSC_IN!Y1!1!@scx.schematic1(sch_1):ins481721@wk2_library.\crystal.normal\(chips)!CRYSTAL_SMD-5032-2P_8M!!!F0!!!!!!!!!!
+S!RCC_OSC_OUT!Y1!2!@scx.schematic1(sch_1):ins481721@wk2_library.\crystal.normal\(chips)!CRYSTAL_SMD-5032-2P_8M!!!F0!!!!!!!!!!

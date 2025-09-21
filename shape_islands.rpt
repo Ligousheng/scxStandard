@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : scxStandard.brd                               )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Sat Sep 20 14:06:24 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = POWER
+	Point on shape: (5122.429 1862.071)  Net: VCC33

@@ -1,0 +1,98 @@
+\t (00:00:02) allegro 17.4 P001 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Thu Sep 18 20:10:37 2025
+\t (00:00:02)         Host=PC-202406191957 User=Administrator Pid=31736 CPUs=32
+\t (00:00:02) CmdLine= D:\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 116667
+\i (00:00:06) shapeedit 
+\i (00:00:39) trapsize 483
+\i (00:00:39) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged unnamed
+\i (00:00:39) opencd C:/CenturyPlan/scxStandard/resource/scxStandard.brd 
+\e (00:00:39) Do you want to save the changes you made to unnamed.brd?
+\i (00:00:41) fillin no 
+\t (00:00:41) Opening existing design...
+\i (00:00:41) trapsize 112239
+\i (00:00:41) fillin no 
+\d (00:00:41) Design opened: C:/CenturyPlan/scxStandard/resource/scxStandard.brd
+\i (00:00:42) shapeedit 
+\i (00:00:46) dxf in 
+\i (00:00:47) setwindow form.dxfInMain
+\i (00:00:47) FORM dxfInMain browsedxf  
+\i (00:00:49) fillin "D:/Backup/Documents/OUTLINEFinal.dxf"
+   (00:00:49) Loading mfg.cxt 
+\i (00:00:52) FORM dxfInMain units MM 
+\i (00:00:53) FORM dxfInMain texttable YES 
+\i (00:00:53) FORM dxfInMain incremental YES 
+\i (00:00:54) fillin yes 
+\i (00:00:56) FORM dxfInMain editcnvprofile  
+\i (00:00:58) fillin yes 
+\i (00:01:01) setwindow form.dxfInMapping
+\i (00:01:01) FORM dxfInMapping done  
+\i (00:01:05) setwindow form.dxfInMain
+\i (00:01:05) FORM dxfInMain import  
+\t (00:01:05) Starting dxf2a...
+\t (00:01:05) Opening existing design...
+\i (00:01:05) setwindow pcb
+\i (00:01:05) trapsize 112239
+\i (00:01:07) setwindow form.dxfInMain
+\i (00:01:07) FORM dxfInMain cancel  
+\i (00:01:07) setwindow pcb
+\i (00:01:07) shapeedit 
+\i (00:01:11) color192 
+\i (00:01:11) shapeedit 
+\i (00:01:13) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:01:15) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Silkscreen_Bottom BrdGeo 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 17 0
+\i (00:01:15) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:16) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Outline BrdGeo 1
+\i (00:01:16) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 13 0
+\i (00:01:16) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:17) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:17) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:18) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:18) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:18) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:19) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:19) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:20) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 1
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:20) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:21) QtSignal CVDLayerTable CVDLayerTableDelegate clickedBox Dxf BrdGeo 0
+\i (00:01:21) QtSignal CVDLayerSplitter CVDLayerTable dataChanged 7 0
+\i (00:01:21) QtSignal CVDLayerSplitter CVDLayerTable selectionChanged
+\i (00:01:24) QtSignal ColorVisibilityDialog CVDOkButton clicked
+\i (00:01:28) exit 
+\e (00:01:28) Do you want to save the changes you made to C:/CenturyPlan/scxStandard/resource/scxStandard.brd?
+\i (00:01:29) fillin no 
+\t (00:01:29)     Journal end - Thu Sep 18 20:12:04 2025

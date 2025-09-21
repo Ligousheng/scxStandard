@@ -1,0 +1,85 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : scxStandard.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Thu Sep 18 21:33:57 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         '.'
+Design Directory:            'C:/CenturyPlan/scxStandard'
+Old design name:             'C:/CenturyPlan/scxStandard/scxStandard.brd'
+New design name:             'C:/CenturyPlan/scxStandard/scxStandard.brd'
+
+CmdLine: netrev -y 1 -h -q netrev_constraint_report.xml C:/CenturyPlan/scxStandard/#Taaaabf42604.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read ./pstchip.dat 
+   Finished reading ./pstchip.dat (00:00:00.02)
+Starting to read ./pstxprt.dat 
+   Finished reading ./pstxprt.dat (00:00:00.00)
+Starting to read ./pstxnet.dat 
+   Finished reading ./pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/cadence/spb_17.4/share/local/pcb/modules 
+
+PSMPATH =  C:/packageLibrary/psmpath 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.4/share/local/pcb/padstacks 
+           d:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/packageLibrary/padpath 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Sep 18 21:33:57 2025
+   DESIGN NAME : 'SCXSTANDARD'
+   PACKAGING ON Oct  7 2019 04:16:49
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:03:29
+elapsed time  0:00:02
+

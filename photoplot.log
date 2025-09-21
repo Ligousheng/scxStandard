@@ -1,0 +1,894 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : scxStandard.brd                               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Sat Sep 20 16:10:48 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          INCHES
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(2350.832 1295.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2307.537 1185.015) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2399.157 1133.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2470.167 1226.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2513.463 1337.985) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2421.843 1389.468) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4555.832 1296.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4512.537 1186.015) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4604.157 1134.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4675.167 1227.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4718.463 1338.985) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4626.843 1390.468) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1346.734 4016.871) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1360.169 4003.436) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1388.453 4218.396) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1674.262 2320.872) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1615.628 2262.240) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1812.010 4016.871) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1958.786 3950.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2786.970 4595.001) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1527.752 3835.852) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01772                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02441                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07190                                  DARK 
+  SQUARE     0.07874                     0.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.05800      45.000 NO     DARK 
+  RECTANGLE  0.01100     x 0.05800     135.000 NO     DARK 
+  RECTANGLE  0.02106     x 0.03150      30.000 NO     DARK 
+  RECTANGLE  0.02106     x 0.03150      90.000 NO     DARK 
+  RECTANGLE  0.02106     x 0.03150     150.000 NO     DARK 
+  RECTANGLE  0.02756     x 0.05118      90.000 NO     DARK 
+  RECTANGLE  0.02760     x 0.06300      45.000 NO     DARK 
+  RECTANGLE  0.02760     x 0.06300     135.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.07090      60.199 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      45.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.03937     x 0.03937     135.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      45.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937     135.000 NO     DARK 
+  RECTANGLE  0.04567     x 0.07165      90.000 NO     DARK 
+  RECTANGLE  0.04700     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.04764     x 0.02874       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.09842      90.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.12200      60.199 NO     DARK 
+  RECTANGLE  0.07756     x 0.02197       0.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.07874     x 0.09449     135.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.11810      45.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.11810     135.000 NO     DARK 
+  RECTANGLE  0.10100     x 0.13600       0.000 NO     DARK 
+  OBLONG     0.03543     x 0.02756       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(393.497 1085.814) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(970.908 6015.981) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5529.239 6046.618) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6367.504 2989.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6920.125 995.974) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6278.519 946.852) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(177.736 5119.150) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(300.926 5292.837) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(797.281 5132.702) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(947.249 5750.222) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1032.687 1627.578) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5462.471 5750.222) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6229.971 5133.722) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1552.749 5246.722) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(970.001 891.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(988.002 910.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(999.999 903.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(981.998 885.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1931.998 3604.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1950.000 3586.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1943.002 3575.001) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1925.000 3593.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1150.001 3676.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1168.002 3695.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1174.999 3683.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1156.998 3665.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01772                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02441                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07190                                  DARK 
+  OBLONG     0.03543     x 0.02756       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+
+     GND created with warnings
+
+
+================================================================
+     PROCESSING FILM < POWER >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(970.908 6015.981) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5529.239 6046.618) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6367.504 2989.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6920.125 995.974) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(392.866 1086.043) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(447.138 1088.617) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1059.510 1023.393) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(177.736 5119.150) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5462.471 5750.222) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1931.998 3604.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1950.000 3586.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1943.002 3575.001) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1925.000 3593.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1150.001 3676.998) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1168.002 3695.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1174.999 3683.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1156.998 3665.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2069.574 5219.364) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4501.175 5006.681) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4552.179 5006.677) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6605.001 675.502) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4584.996 2579.498) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5823.949 4814.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(5772.945 4815.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(995.001 3878.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1671.998 1920.001) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1708.002 1920.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(656.055 651.750) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(620.051 651.753) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1070.352 1024.851) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(428.002 4879.999) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(355.142 5238.622) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1466.027 5716.616) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(6229.971 5133.722) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1830.540 1421.964) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1965.099 1421.962) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.01772                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02441                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07190                                  DARK 
+  OBLONG     0.03543     x 0.02756       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+
+     POWER created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(4160.003 3730.590) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(652.999 1846.701) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(685.000 1848.645) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(665.000 1851.671) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1886.000 3650.087) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1890.766 1445.003) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1871.081 1435.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1851.399 1675.000) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1890.766 1554.997) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1958.998 2369.911) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2037.999 4204.970) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1874.000 3655.058) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1862.000 3660.030) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1910.452 1445.003) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1910.452 1584.997) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(1930.137 1568.402) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4754.999 1094.001) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4764.940 1094.002) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.01200                                  DARK 
+  CIRCLE     0.01772                                  DARK 
+  CIRCLE     0.02000                                  DARK 
+  CIRCLE     0.02400                                  DARK 
+  CIRCLE     0.02441                                  DARK 
+  CIRCLE     0.03900                                  DARK 
+  CIRCLE     0.03937                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07190                                  DARK 
+  RECTANGLE  0.01181     x 0.03425       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.03543       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.07090     150.339 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937       0.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      45.000 NO     DARK 
+  RECTANGLE  0.04331     x 0.03937      90.000 NO     DARK 
+  RECTANGLE  0.06656     x 0.02097      90.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.11420     150.339 NO     DARK 
+  OBLONG     0.03543     x 0.02756       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+  PAD SHAPE  PS_R123_60_D250            90.000 YES    DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                2.000 MIL
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (201.000 -3.000) in MIL
+           ... using undefined line width of 2.000 MIL
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 2.000 MIL
+
+    WARNING: text composed 0 width line found at (9934.500 5727.500) in MIL
+           ... using undefined line width of 2.000 MIL
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 2.000 MIL
+
+    WARNING: Segment with same start and end points at
+	(5491.579 6157.978) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00200                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+
+     OUTLINE created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00160                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+  CIRCLE     0.00984                                  DARK 
+  CIRCLE     0.01000                                  DARK 
+  CIRCLE     0.01181                                  DARK 
+
+     SILK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.00160                                  DARK 
+  CIRCLE     0.00394                                  DARK 
+  CIRCLE     0.00400                                  DARK 
+  CIRCLE     0.00500                                  DARK 
+  CIRCLE     0.00600                                  DARK 
+  CIRCLE     0.00787                                  DARK 
+  CIRCLE     0.00800                                  DARK 
+
+     SILK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Segment with same start and end points at
+	(2350.832 1295.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2307.537 1185.015) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2399.157 1133.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2513.463 1337.985) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2421.843 1389.468) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(2470.167 1226.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4555.832 1296.428) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4512.537 1186.015) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4604.157 1134.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4718.463 1338.985) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4626.843 1390.468) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+    WARNING: Segment with same start and end points at
+	(4675.167 1227.532) will be ignored. Increasing output
+	accuracy may allow segment to be generated.
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  SQUARE     0.08674                     0.000 NO     DARK 
+  RECTANGLE  0.01887     x 0.06587      45.000 NO     DARK 
+  RECTANGLE  0.01887     x 0.06587     135.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.03544      30.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.03544      90.000 NO     DARK 
+  RECTANGLE  0.02500     x 0.03544     150.000 NO     DARK 
+  RECTANGLE  0.02760     x 0.06300      45.000 NO     DARK 
+  RECTANGLE  0.02760     x 0.06300     135.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.07090      60.199 NO     DARK 
+  RECTANGLE  0.03556     x 0.05918      90.000 NO     DARK 
+  RECTANGLE  0.04700     x 0.01600       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.04724     x 0.04724     135.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724     135.000 NO     DARK 
+  RECTANGLE  0.05354     x 0.07953      90.000 NO     DARK 
+  RECTANGLE  0.05551     x 0.03661       0.000 NO     DARK 
+  RECTANGLE  0.05906     x 0.09842      90.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.12200      60.199 NO     DARK 
+  RECTANGLE  0.07756     x 0.02197       0.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.11810      45.000 NO     DARK 
+  RECTANGLE  0.08270     x 0.11810     135.000 NO     DARK 
+  RECTANGLE  0.08661     x 0.10236     135.000 NO     DARK 
+  RECTANGLE  0.08674     x 0.04737      90.000 NO     DARK 
+  RECTANGLE  0.10100     x 0.13600       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+
+     SOLDERMASK_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < C:/CenturyPlan/scxStandard/SCXSTANDAR/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED (UNIT = IN):
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02835                                  DARK 
+  CIRCLE     0.04724                                  DARK 
+  CIRCLE     0.07090                                  DARK 
+  CIRCLE     0.07874                                  DARK 
+  RECTANGLE  0.01181     x 0.03425       0.000 NO     DARK 
+  RECTANGLE  0.03150     x 0.07090     150.339 NO     DARK 
+  RECTANGLE  0.03937     x 0.04331       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724       0.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724      45.000 NO     DARK 
+  RECTANGLE  0.05118     x 0.04724      90.000 NO     DARK 
+  RECTANGLE  0.06656     x 0.02097      90.000 NO     DARK 
+  RECTANGLE  0.07090     x 0.11420     150.339 NO     DARK 
+  OBLONG     0.03543     x 0.02756       0.000 NO     DARK 
+  OBLONG     0.05315     x 0.04331       0.000 NO     DARK 
+  PAD SHAPE  PS_R123_60_D250            90.000 YES    DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        GND created with warnings
+        POWER created with warnings
+        BOTTOM created with warnings
+        OUTLINE created with warnings
+        SILK_TOP created.
+        SILK_BOTTOM created.
+        SOLDERMASK_TOP created with warnings
+        SOLDERMASK_BOTTOM created.
+
+ ARTWORK had warnings

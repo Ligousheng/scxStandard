@@ -1,0 +1,16 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character $ with X in $MODEL_SPACE.
+NOTE: Replacing illegal character $ with X in $PAPER_SPACE.
+done.
+Layer conversion file: C:/CenturyPlan/scxStandard/resource/OUTLINEFinal_l.cnv
+DXF file: C:/CenturyPlan/scxStandard/resource/OUTLINEFinal.dxf
+BRD file: C:/CenturyPlan/scxStandard/resource/PLACETEST/#Taaaaap12084.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILS
+Design units: MILS
+Design precision: 3
+dxf2a complete.
